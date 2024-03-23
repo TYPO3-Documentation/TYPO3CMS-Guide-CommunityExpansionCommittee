@@ -1,0 +1,1 @@
+# TYPO3CMS-Guide-CommunityExpansionCommittee
