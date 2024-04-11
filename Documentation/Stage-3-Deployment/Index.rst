@@ -70,7 +70,7 @@ Theoretical goals
 
 By the end of this stage, you should know the following:
 
-* Item 1
+* How to
 * Item 2
 * Item 3
 
