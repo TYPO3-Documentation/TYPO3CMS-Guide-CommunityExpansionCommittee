@@ -83,9 +83,11 @@ Theoretical goals
 
 By the end of this stage, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Install and configure DDEV on your local computer
+* Setup a Git repository for your project
+* Use Composer to install a TYPO3 project in a DDEV container
+* Configure a TYPO3 project
+* Install and configure Bootstrap Package extension for newly the created TYPO3 project
 
 
 .. _s1-practical-goals
@@ -95,6 +97,7 @@ Practical goals
 
 By the end of this stage, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Install and configure a local development environment
+* Setup a Git repository for your project
+* Install a new TYPO3 project using Composer and configure the TYPO3 project
+* Configure a Bootstrap based Frontend for your TYPO3 project
