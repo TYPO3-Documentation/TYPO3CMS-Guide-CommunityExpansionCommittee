@@ -42,9 +42,7 @@ Theoretical prerequisites
 
 This day assumes that you already know the following:
 
-* Basic knowledge of web technologies
-
-
+* :ref:`Theoretical Prerequisites for Stage 1 <_s1-theoretical-prerequisites>`
 
 .. _s1-d1-practical-prerequisites
 
@@ -68,8 +66,13 @@ Theoretical goals
 By the end of this day, you should know the following:
 
 * Basic understanding of CMS concepts
-* Basic understanding of what is TYPO3
-* Basic understanding of what is the Bootstrap framework
+* Basic understanding of TYPO3
+* Basic understanding of TYPO3's filesystem
+* Basic understanding of TYPO3's database
+* Basic understanding of Git
+* Basic understanding of DDEV
+* Basic understanding of Composer
+* Basic understanding of the Bootstrap framework
 
 
 .. _s1-d1-practical-goals
@@ -79,6 +82,6 @@ Practical goals
 
 By the end of this day, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Practical prerequisites are verified
+* Theoretical prerequisites are verified
+* Theoretical goals of the day are achieved
