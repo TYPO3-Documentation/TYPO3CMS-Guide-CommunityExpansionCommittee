@@ -1,0 +1,8 @@
+{
+  "name": "typo3/guide-onboarding-curriculum",
+  "type": "typo3-cms-documentation",
+  "description": "",
+  "require": {
+    "typo3/cms-core": "^12.4"
+  }
+}
