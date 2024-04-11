@@ -73,6 +73,7 @@ By the end of this day, you should know the following:
 * Basic understanding of DDEV
 * Basic understanding of Composer
 * Basic understanding of the Bootstrap framework
+* Knowledge of the different documentation sources
 
 
 .. _s1-d1-practical-goals
@@ -82,6 +83,7 @@ Practical goals
 
 By the end of this day, you should have completed the following:
 
-* Practical prerequisites are verified
-* Theoretical prerequisites are verified
-* Theoretical goals of the day are achieved
+* You have shown that you meet the practical prerequisites
+* You have shown that you meet the Theoretical prerequisites
+* You have shown that you understand the basic concepts behind TYPO3
+* You have been introduced to the different documentation sources
