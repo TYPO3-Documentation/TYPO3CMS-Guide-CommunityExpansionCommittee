@@ -3,7 +3,7 @@
 .. _s1-d1
 
 =================
-Day 1 — ADD TITLE
+Day 1 — Introduction and concepts
 =================
 
 .. _s1-d1-lessons

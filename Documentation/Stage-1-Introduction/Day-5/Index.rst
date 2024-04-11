@@ -3,7 +3,7 @@
 .. _s1-d1
 
 =================
-Day 5 — ADD TITLE
+Day 5 — Recap and assessment
 =================
 
 .. _s1-d1-lessons

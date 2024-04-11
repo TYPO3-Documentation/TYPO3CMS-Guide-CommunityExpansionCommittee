@@ -3,7 +3,7 @@
 .. _s1-d1
 
 =================
-Day 3 — ADD TITLE
+Day 3 — Composer and Git
 =================
 
 .. _s1-d1-lessons

@@ -3,7 +3,7 @@
 .. _s1-d1
 
 =================
-Day 4 — ADD TITLE
+Day 4 — Bootstrap and TYPO3
 =================
 
 .. _s1-d1-lessons
