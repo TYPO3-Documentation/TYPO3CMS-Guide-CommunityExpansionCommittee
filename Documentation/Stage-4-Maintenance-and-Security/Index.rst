@@ -93,6 +93,6 @@ Practical goals
 
 By the end of this stage, you should have completed the following:
 
-* Item 1
-* Item 2
+* Performed a major upgrade of TYPO3 and deployed it to a live environment using a continuous integration and continuous deployment pipeline.
+*
 * Item 3
