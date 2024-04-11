@@ -80,7 +80,7 @@ By the end of this stage, you should know the following:
 * Maintenance and security best practices, both generally and specifically, in a TYPO3 context.
 * How to perform major and minor upgrades to TYPO3 and your own code
 * How to deploy upgraded versions of TYPO3 and your own code using continuous deployment while ensuring minimal downtime.
-* Security best practices for your own code in TYPO3 instances and hosting environments.
+* Security best practices for your own code in TYPO3 instances and hosting environments, including the :ref:`TYPO3 Security guidelines <t3coreapi:security>`
 * How to correctly handle security issues in the TYPO3 core.
 * How to correctly handle security issues with your own code.
 * Who to work with and best practices for handling compromised live environments and minimizing impact.
