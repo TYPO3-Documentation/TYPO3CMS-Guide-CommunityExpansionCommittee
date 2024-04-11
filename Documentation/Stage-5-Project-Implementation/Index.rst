@@ -2,9 +2,9 @@
 
 .. _s5
 
-=======
-Stage 1
-=======
+================================
+Stage 5 — Project Implementation
+================================
 
 .. _s5-about
 
@@ -16,11 +16,11 @@ SHORT INTRODUCTORY TEXT
 .. toctree::
     :titlesonly:
 
-    Day-1
-    Day-2
-    Day-3
-    Day-4
-    Day-5
+    Day-1/Index
+    Day-2/Index
+    Day-3/Index
+    Day-4/Index
+    Day-5/Index
 
 .. _s5-prerequisites-goals
 
@@ -41,9 +41,9 @@ Theoretical prerequisites
 
 This stage assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* How to use TYPO3 and securely extend the functionality of the CMS using third-party and your own code.
+* How to deploy TYPO3-based websites and upgrades to these using using continuous integration and continuous deployment pipelines.
+* How to implement security and collaboration practices for quality assurance in development and emergency handling in production.
 
 
 .. _s5-practical-prerequisites
@@ -53,9 +53,7 @@ Practical prerequisites
 
 Before you start this stage, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Local development environment with a local version of a live TYPO3 installation, connected through a continuous integration and continuous deployment pipeline.
 
 
 .. _s5-goals
