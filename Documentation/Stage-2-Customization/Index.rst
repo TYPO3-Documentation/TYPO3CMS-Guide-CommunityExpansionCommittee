@@ -3,7 +3,7 @@
 .. _s2
 
 =======
-Stage 1
+Stage 2
 =======
 
 .. _s2-about
@@ -76,9 +76,29 @@ Theoretical goals
 
 By the end of this stage, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Basic TYPO3 concepts:
+    * Backend & Frontend
+    * Backend Modules
+    * Extensions
+* Editing concepts and how to edit and customize:
+    * Pages and page tree
+    * Content
+    * Files management
+    * Create forms (ex. the contact form)
+    * Backend Users and access rights
+    * WYSIWYG editor
+* Specific TYPO3 concepts and how to use them:
+    * TypoScript
+        * Setup the [age template
+        * Create the website navigation (menus, breadcrumb)
+    * Backend Layouts
+    * TsConfig
+        * Page TsConfig
+        * User TsConfig
+        * Backend Layouts configuration
+    * Fluid Templates
+    * WYSIWYG Editor configuration
+* How to create and configure a Site Package Extension
 
 
 .. _s2-practical-goals
@@ -88,6 +108,7 @@ Practical goals
 
 By the end of this stage, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Create and configure a Site Package Extension which:
+    * Deliver the expected design
+    * Allow editing of the site's content
+* Configure and provide proper access to Backend Users in order to edit the content
