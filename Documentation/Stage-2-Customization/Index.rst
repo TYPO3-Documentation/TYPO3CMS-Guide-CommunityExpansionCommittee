@@ -55,11 +55,13 @@ Practical prerequisites
 
 Before you start this stage, please have the following things ready:
 
-* Have a working local development environment
-* Have a Git repository for your project 
-* Have new TYPO3 project installed using Composer
-* The TYPO3 project is configured and up and running
-* Bootstrap Package extension is installed in the TYPO3 project
+* A working local development environment based on DDEV
+* A Git repository for your project
+* A new TYPO3 project
+    * Installed using Composer
+    * Configured and up and running in your local development environment
+    * Versioned using Git
+    * With the Bootstrap Package extension installed
 
 
 .. _s2-goals
