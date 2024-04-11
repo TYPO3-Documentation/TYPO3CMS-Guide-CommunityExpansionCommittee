@@ -2,9 +2,9 @@
 
 .. _s1
 
-=======
-Stage 1
-=======
+======================
+Stage 1 — Introduction
+======================
 
 .. _s1-about
 
@@ -16,11 +16,11 @@ SHORT INTRODUCTORY TEXT
 .. toctree::
     :titlesonly:
 
-    Day-1
-    Day-2
-    Day-3
-    Day-4
-    Day-5
+    Day-1/Index
+    Day-2/Index
+    Day-3/Index
+    Day-4/Index
+    Day-5/Index
 
 .. _s1-prerequisites-goals
 
