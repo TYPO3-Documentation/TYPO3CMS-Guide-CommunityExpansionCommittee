@@ -42,9 +42,10 @@ Theoretical prerequisites
 
 This day assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Basic knowledge of web technologies
+* Basic understanding of CMS concepts
+* Basic understanding of what is TYPO3
+* Basic understanding of what is the Bootstrap framework
 
 
 .. _s1-d1-practical-prerequisites
@@ -54,10 +55,7 @@ Practical prerequisites
 
 Before you start this day, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
-
+* Access to the `official TYPO3 Documentation <https://docs.typo3.org/>`__
 
 .. _s1-d1-goals
 
