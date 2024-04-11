@@ -3,7 +3,7 @@
 .. _s1-d1
 
 =================
-Day 3 — ADD TITLE
+Day 3 — Composer and Git
 =================
 
 .. _s1-d1-lessons
@@ -42,10 +42,9 @@ Theoretical prerequisites
 
 This day assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* How to install and configure DDEV on your local computer in order to have a local development environment
+* How to use DDEV to run and develop web applications
+* How to setup a new TYPO3 project in DDEV
 
 .. _s1-d3-practical-prerequisites
 
@@ -54,9 +53,9 @@ Practical prerequisites
 
 Before you start this day, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Installed and configured a local development environment on your computer using DDEV
+* Installed a new TYPO3 project in your local development environment
+* Worked on a TYPO3 project using DDEV
 
 
 .. _s1-d3-goals
@@ -71,9 +70,9 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* How to use Composer to install a TYPO3 project in a DDEV container
+* How to setup a Git repository for your project and clone it in your local development environment
+* How to commit and push your changes in the project's repository using TYPO3's commit message rules
 
 
 .. _s1-d3-practical-goals
@@ -83,6 +82,5 @@ Practical goals
 
 By the end of this day, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Install a new TYPO3 project in your local development environment using Composer and configure it
+* Setup and use a Git repository to track changes for your project
