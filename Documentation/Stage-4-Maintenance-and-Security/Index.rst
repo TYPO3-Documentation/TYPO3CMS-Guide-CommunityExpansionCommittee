@@ -61,7 +61,8 @@ Before you start this stage, please have the following things ready:
 
 * A working TYPO3 installation under Git-based version control
 * A working continuous integration and continuous deployment workflow with local and remote parts
-* A contribution team with other contributors
+
+Ideally a contribution team with other contributors should be available for you to test best-practice collaboration and review processes.
 
 
 .. _s4-goals
