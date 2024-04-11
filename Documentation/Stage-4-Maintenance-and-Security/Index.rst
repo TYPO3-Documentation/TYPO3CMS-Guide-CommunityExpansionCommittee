@@ -95,4 +95,4 @@ By the end of this stage, you should have completed the following:
 
 * Performed major and minor upgrade of TYPO3 and deployed it to a live environment using a continuous integration and continuous deployment pipeline.
 * Created new versions of your own code and deployed it to a live environment using a continuous integration and continuous deployment pipeline.
-*
+* Simulated handling of a compromised live environment.
