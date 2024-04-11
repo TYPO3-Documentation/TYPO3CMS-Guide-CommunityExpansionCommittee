@@ -41,9 +41,10 @@ Theoretical prerequisites
 
 This stage assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* How to create a sitepackage extension which:
+    * Deliver the expected design
+    * Allow editing of the site's content
+* How to configure and provide proper access to Backend Users in order to edit the content
 
 
 .. _s3-practical-prerequisites
@@ -53,9 +54,10 @@ Practical prerequisites
 
 Before you start this stage, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* A functional TYPO3 website with:
+    * Customized design
+    * Editable content according to the site's requirements
+    * Configured Backend Users
 
 
 .. _s3-goals
