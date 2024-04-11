@@ -77,9 +77,13 @@ Theoretical goals
 
 By the end of this stage, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Maintenance and security best practices, both generally and specifically, in a TYPO3 context.
+* How to perform major and minor upgrades to TYPO3 and your own code
+* How to deploy upgraded versions of TYPO3 and your own code using continuous deployment while ensuring minimal downtime.
+* Security best practices for your own code in TYPO3 instances and hosting environments, including the :ref:`TYPO3 Security guidelines <t3coreapi:security>`
+* How to correctly handle security issues in the TYPO3 core.
+* How to correctly handle security issues with your own code.
+* Who to work with and best practices for handling compromised live environments and minimizing impact.
 
 
 .. _s4-practical-goals
@@ -89,6 +93,6 @@ Practical goals
 
 By the end of this stage, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Performed major and minor upgrade of TYPO3 and deployed it to a live environment using a continuous integration and continuous deployment pipeline.
+* Created new versions of your own code and deployed it to a live environment using a continuous integration and continuous deployment pipeline.
+* Simulated handling of a compromised live environment.

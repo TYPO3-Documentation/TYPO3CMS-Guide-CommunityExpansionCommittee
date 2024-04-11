@@ -41,9 +41,11 @@ Theoretical prerequisites
 
 This stage assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* How to install and configure DDEV on your local computer
+* How to setup a Git repository for your project
+* How to use Composer to install a TYPO3 project in a DDEV container
+* How to configure a TYPO3 project
+* How to install and configure Bootstrap Package extension
 
 
 .. _s2-practical-prerequisites
@@ -53,9 +55,13 @@ Practical prerequisites
 
 Before you start this stage, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* A working local development environment based on DDEV
+* A Git repository for your project
+* A new TYPO3 project
+    * Installed using Composer
+    * Configured and up and running in your local development environment
+    * Versioned using Git
+    * With the Bootstrap Package extension installed
 
 
 .. _s2-goals
