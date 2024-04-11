@@ -89,7 +89,7 @@ By the end of this stage, you should know the following:
     * WYSIWYG editor
 * Specific TYPO3 concepts and how to use them:
     * TypoScript
-        * Setup the [age template
+        * Setup the Page template
         * Create the website navigation (menus, breadcrumb)
     * Backend Layouts
     * TsConfig
