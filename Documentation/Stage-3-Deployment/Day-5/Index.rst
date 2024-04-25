@@ -3,7 +3,7 @@
 .. _s3-d1
 
 =================
-Day 5 — ADD TITLE
+Day 5 — Review, Q&A, and Project Presentation
 =================
 
 .. _s3-d1-lessons
@@ -42,9 +42,8 @@ Theoretical prerequisites
 
 This day assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* The knowledge required by the theoretical prerequisites of the previous curriculum day.
+* The theoretical knowledge goals of the previous curriculum day.
 
 
 .. _s3-d5-practical-prerequisites
@@ -71,9 +70,9 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Clarify any questions regarding CI/CD workflows and TYPO3 configuration
+* Clarify any questions regarding environment setup, database management and automated testing
+* Acknowledge learning experiences
 
 
 .. _s3-d5-practical-goals
@@ -83,6 +82,5 @@ Practical goals
 
 By the end of this day, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Showed that you can elaborate on process, decision-making, and problem-solving strategies
+* Reviewed and learned from others’ work, providing insights and suggestions for improvement
