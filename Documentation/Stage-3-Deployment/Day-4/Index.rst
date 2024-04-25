@@ -73,8 +73,8 @@ By the end of this day, you should know the following:
 * The most common tools for automated quality assurance in PHP-based continuous integration workflows
 * Backup best practices for continuous deployment environments
 * Best practices for code review
-* techniques for effective troubleshooting, including identifying and resolving conflicts, handling failed deployments, and debugging post-deployment issues in TYPO3
-* understand how to evaluate and refine their deployment processes to reduce deployment times, minimize downtime, and improve overall efficiency in their CI/CD pipelines
+* Techniques for effective troubleshooting, including identifying and resolving conflicts, handling failed deployments, and debugging post-deployment issues in TYPO3
+* Understand how to evaluate and refine deployment processes to reduce deployment times, minimize downtime, and improve overall efficiency in their CI/CD pipelines
 
 
 .. _s3-d4-practical-goals
