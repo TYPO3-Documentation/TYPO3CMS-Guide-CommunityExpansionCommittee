@@ -82,5 +82,5 @@ Practical goals
 
 By the end of this day, you should have completed the following:
 
-* Be able to elaborate on process, decision-making, and problem-solving strategies
-* Be critique and learn from each other’s work, providing insights and suggestions for improvement
+* Showed that you can elaborate on process, decision-making, and problem-solving strategies
+* Reviewed and learned from others’ work, providing insights and suggestions for improvement
