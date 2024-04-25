@@ -27,7 +27,7 @@ TYPO3 Onboarding Curriculum
 About this curriculum
 =====================
 
-This curriculum is created by the `TYPO3 Community Expansion Committee <https://typo3.org/community/teams/community-expansion>` as a starting point for our knowledge transfer and onboarding projects, such `in Rwanda <https://typo3.com/blog/report-on-typo3-based-government-websites-in-rwanda>`. Read more about :ref:`who this curriculum is for and how it is being created <introduction>`.
+This curriculum is created by the `TYPO3 Community Expansion Committee <https://typo3.org/community/teams/community-expansion>`__ as a starting point for our knowledge transfer and onboarding projects, such `in Rwanda <https://typo3.com/blog/report-on-typo3-based-government-websites-in-rwanda>`__. Read more about :ref:`who this curriculum is for and how it is being created <introduction>`.
 
 .. note::
     **This is a curriculum, not a tutorial.** Therefore, it makes heavy use of external resources and does not itself constitute a tutorial or guide to TYPO3. For such materials, please refer to other TYPO3 documentation, tutorials, and books — some of which are linked throughout the curriculum.
