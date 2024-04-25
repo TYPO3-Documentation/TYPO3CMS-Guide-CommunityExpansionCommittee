@@ -84,8 +84,8 @@ Practical goals
 By the end of this day, you should have completed the following:
 
 * Used a continuous integration and continuous deployment pipeline for code contribution in a team with other contributors
-* Be able to set up, execute, and monitor advanced deployment techniques
-* Be able to write and run various types of automated tests, and integrate these tests into their deployment pipelines
+* Set up, execute, and monitor advanced deployment techniques
+* Write and run various types of automated tests, and integrate these tests into their deployment pipelines
 * Implement a backup system that complements their CI/CD setup
 * Fixed issues discovered in failed automated and manual code reviews
 * Deployed database schema changes and automated data migrations using TYPO3 core technologies
