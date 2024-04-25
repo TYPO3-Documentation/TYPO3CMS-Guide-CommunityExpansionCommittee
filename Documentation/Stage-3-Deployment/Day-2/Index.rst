@@ -86,5 +86,5 @@ By the end of this day, you should have completed the following:
 
 * Configured TYPO3 differently for development, testing, staging, and production environments
 * Implemented scripts or tools that manage database changes
-* Be able to ensure that migrations are smoothly and automatically handled during deployments
+* Ensure that migrations are smoothly and automatically handled during deployments
 * Demonstrated the setup of each environment and validated that each configuration and migration strategy works as expected
