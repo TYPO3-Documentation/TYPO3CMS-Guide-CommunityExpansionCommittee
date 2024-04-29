@@ -2,9 +2,9 @@
 
 .. _s1-d1-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+=====================================
+Lesson 5 — Installing Docker and DDEV
+=====================================
 
 
 .. _s1-d1-l5-prerequisites-goals
@@ -26,9 +26,7 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* You have completed the previous lesson
 
 
 .. _s1-d1-l5-practical-prerequisites
@@ -38,10 +36,7 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
-
+* You have started installing Git on your computer.
 
 .. _s1-d1-l5-goals
 
@@ -55,9 +50,7 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* How to install Git, Docker, and DDEV on your local computer
 
 
 .. _s1-d1-l5-practical-goals
@@ -67,9 +60,7 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Completed installation of Git and Docker
 
 
 .. _s1-d1-l5-resources

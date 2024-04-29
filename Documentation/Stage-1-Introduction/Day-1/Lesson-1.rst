@@ -26,9 +26,7 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* The general prerequisites for Stage 1
 
 
 .. _s1-d1-l1-practical-prerequisites
@@ -38,9 +36,7 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* The general prerequisites for Stage 1
 
 
 .. _s1-d1-l1-goals

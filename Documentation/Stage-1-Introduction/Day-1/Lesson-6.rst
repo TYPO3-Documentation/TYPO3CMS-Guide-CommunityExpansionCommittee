@@ -26,9 +26,7 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* The knowledge from today's previous lessons.
 
 
 .. _s1-d1-l6-practical-prerequisites
@@ -38,9 +36,8 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Git is installed on your computer
+* Docker is installed or in the process of installing on your computer.
 
 
 .. _s1-d1-l6-goals
@@ -55,9 +52,8 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* How to start and stop Docker and DDEV
+* Basic Git commands
 
 
 .. _s1-d1-l6-practical-goals
@@ -67,9 +63,8 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Installation of Docker and DDEV
+* Pulled TYPO3's source files from a remote Git repository as the first step of installing the CMS.
 
 
 .. _s1-d1-l6-resources
