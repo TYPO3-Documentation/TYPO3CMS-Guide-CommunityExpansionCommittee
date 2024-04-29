@@ -42,8 +42,10 @@ Theoretical prerequisites
 
 This day assumes that you already know the following:
 
-* The knowledge required by the theoretical prerequisites of the previous curriculum day.
-* The theoretical knowledge goals of the previous curriculum day.
+* Understand how these advanced deployment strategies can minimize downtime and risk
+* Know the tools and methodologies used for automated testing, including unit tests, integration tests, and end-to-end tests
+* Understand different backup techniques and the importance of data redundancy
+* Understand how to effectively plan and execute backups in continuous deployment environments
 
 
 .. _s3-d4-practical-prerequisites
@@ -53,9 +55,12 @@ Practical prerequisites
 
 Before you start this day, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Used a continuous integration and continuous deployment pipeline for code contribution in a team with other contributors
+* Set up, execute, and monitor advanced deployment techniques
+* Write and run various types of automated tests, and integrate these tests into their deployment pipelines
+* Implement a backup system that complements their CI/CD setup
+* Fixed issues discovered in failed automated and manual code reviews
+* Deployed database schema changes and automated data migrations using TYPO3 core technologies
 
 
 .. _s3-d4-goals
