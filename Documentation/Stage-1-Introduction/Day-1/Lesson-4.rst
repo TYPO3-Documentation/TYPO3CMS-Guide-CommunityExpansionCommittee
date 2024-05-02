@@ -2,9 +2,9 @@
 
 .. _s1-d1-l4
 
-====================
-Lesson 4 — ADD TITLE
-====================
+=======================================================================
+Lesson 4 — What does it need? A Local Development Environment for TYPO3
+=======================================================================
 
 
 .. _s1-d1-l4-prerequisites-goals
@@ -26,9 +26,7 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* The knowledge from today's previous lessons.
 
 
 .. _s1-d1-l4-practical-prerequisites
@@ -38,9 +36,7 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* The general prerequisites for Stage 1
 
 
 .. _s1-d1-l4-goals
@@ -55,9 +51,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* What server software TYPO3 needs in order to function
+* What software isn't strictly required, but that makes TYPO3 function optimally
+* The outline of a local development environment for TYPO3 based on Git, Docker, and DDEV
+* The role Git, Docker, and DDEV play (what they are used for)
 
 
 .. _s1-d1-l4-practical-goals
@@ -67,9 +64,7 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Have installed Git on your computer
 
 
 .. _s1-d1-l4-resources
