@@ -71,9 +71,8 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* The remaining steps necessary to complete your TYPO3 project.
+* What your learning needs are in order to implement your TYPO3-based website project.
 
 
 .. _s5-d1-practical-goals
@@ -83,6 +82,6 @@ Practical goals
 
 By the end of this day, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* A run-through of the status of your current TYPO3-based project.
+* A list of knowledge you need to acquire.
+* An overview of goals for the next four days.
