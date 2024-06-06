@@ -2,9 +2,9 @@
 
 .. _s1-d2-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+==================================
+Lesson 5 — The First TYPO3 Website
+==================================
 
 
 .. _s1-d2-l5-prerequisites-goals
@@ -55,9 +55,8 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* How to install a TYPO3 site package
+* The commands necessary to make the package work after it has been installed
 
 
 .. _s1-d2-l5-practical-goals
@@ -67,9 +66,8 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Installed a TYPO3 site package
+* Made the site package work in TYPO3
 
 
 .. _s1-d2-l5-resources

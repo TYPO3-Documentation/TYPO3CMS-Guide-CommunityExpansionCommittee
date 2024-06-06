@@ -2,9 +2,9 @@
 
 .. _s1-d2-l1
 
-====================
-Lesson 1 — ADD TITLE
-====================
+=========================================
+Lesson 1 — Installing TYPO3 With Composer
+=========================================
 
 
 .. _s1-d2-l1-prerequisites-goals
@@ -55,10 +55,8 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* What Composer is and why we use it to manage a TYPO3 installation
+* How to instruct Composer to install TYPO3
 
 .. _s1-d2-l1-practical-goals
 
@@ -67,9 +65,7 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Installed TYPO3 and dependency files using Composer from within the DDEV environment
 
 
 .. _s1-d2-l1-resources

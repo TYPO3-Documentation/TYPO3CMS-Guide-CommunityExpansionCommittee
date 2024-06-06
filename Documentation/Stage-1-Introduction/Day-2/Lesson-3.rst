@@ -2,9 +2,9 @@
 
 .. _s1-d2-l3
 
-====================
-Lesson 3 — ADD TITLE
-====================
+===================================
+Lesson 3 — TYPO3’s Folder Structure
+===================================
 
 
 .. _s1-d2-l3-prerequisites-goals
@@ -55,9 +55,9 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Where Composer put the files when you installed TYPO3
+* Where TYPO3 put the configuration files
+* The importance of the `public/` folder and why it is important
 
 
 .. _s1-d2-l3-practical-goals
@@ -67,9 +67,7 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Explored the TYPO3 folder structure
 
 
 .. _s1-d2-l3-resources

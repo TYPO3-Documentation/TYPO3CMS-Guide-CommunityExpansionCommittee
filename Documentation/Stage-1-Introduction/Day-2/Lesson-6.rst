@@ -2,9 +2,9 @@
 
 .. _s1-d2-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+=====================================================
+Lesson 6 — What Really Happened (Connecting the Dots)
+=====================================================
 
 
 .. _s1-d2-l6-prerequisites-goals
@@ -26,9 +26,9 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* The basics of how a request from the web server is handled by TYPO3
+* What information TYPO3 needs, and where it reads it from
+* The site configuration UI and files
 
 
 .. _s1-d2-l6-practical-prerequisites
@@ -38,9 +38,9 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Explored the central steps of TYPO3’s request handling with your teacher, from receipt to return
+* Looked at the different parts of the site configuration UI
+* Looked at how the same configuration looks in the configuration file
 
 
 .. _s1-d2-l6-goals
