@@ -3,7 +3,7 @@
 .. _s4-d1
 
 =================
-Day 5 — ADD TITLE
+Day 5 — Crisis management and recovery
 =================
 
 .. _s4-d1-lessons
