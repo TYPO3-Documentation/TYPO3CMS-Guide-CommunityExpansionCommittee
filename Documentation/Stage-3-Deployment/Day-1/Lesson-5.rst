@@ -2,9 +2,9 @@
 
 .. _s3-d1-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+=================================
+Lesson 5 — differentiate CI tools
+=================================
 
 
 .. _s3-d1-l5-prerequisites-goals

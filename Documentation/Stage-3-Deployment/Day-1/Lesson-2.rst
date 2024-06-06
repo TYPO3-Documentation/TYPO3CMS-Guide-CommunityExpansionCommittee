@@ -2,9 +2,9 @@
 
 .. _s3-d1-l2
 
-====================
-Lesson 2 — ADD TITLE
-====================
+=================================================
+Lesson 2 — ideal deployment workflow and pipeline
+=================================================
 
 
 .. _s3-d1-l2-prerequisites-goals

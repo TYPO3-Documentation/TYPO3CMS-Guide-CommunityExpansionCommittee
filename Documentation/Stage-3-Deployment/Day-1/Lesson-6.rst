@@ -2,9 +2,9 @@
 
 .. _s3-d1-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+=========================================
+Lesson 6 — Effective deployment workflows
+=========================================
 
 
 .. _s3-d1-l6-prerequisites-goals
