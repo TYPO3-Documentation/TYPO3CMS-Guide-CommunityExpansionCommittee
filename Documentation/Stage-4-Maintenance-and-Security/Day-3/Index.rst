@@ -3,7 +3,7 @@
 .. _s4-d1
 
 =================
-Day 3 — ADD TITLE
+Day 3 — TYPO3 Security Enhancements and System Monitoring
 =================
 
 .. _s4-d1-lessons
@@ -42,9 +42,12 @@ Theoretical prerequisites
 
 This day assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Comprehend the TYPO3 release cycle and develop strategic planning for upgrades
+* Understand best practices for updating custom extensions and maintaining compatibility
+* Understand the management of deprecated APIs and smooth transitions to newer versions
+* Develop practical skills for performing TYPO3 upgrades and troubleshooting issues
+* Understand the principles of effective version control and backup strategies in upgrade contexts
+* Foster collaborative learning through sharing and discussing TYPO3 upgrade experiences and challenges
 
 
 .. _s4-d3-practical-prerequisites
@@ -54,9 +57,12 @@ Practical prerequisites
 
 Before you start this day, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Planned and carried out major and minor TYPO3 upgrades
+* Updateed custom extensions and templates to work with new TYPO3 versions
+* Managed deprecated APIs and smoothly transitionned to newer versions
+* Performed a hands-on TYPO3 upgrade and fixed common issues
+* Implemented version control and backed up systems before upgrading
+* Shared and discussed upgrade experiences and solved upgrade challenges together
 
 
 .. _s4-d3-goals
@@ -71,9 +77,14 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Comprehend advanced TYPO3 security settings and configurations
+* Understand the implementation of WAF, intrusion detection, and other security technologies
+* Recognize and analyze common TYPO3 security threats and mitigation methods
+* Stay informed on recent TYPO3 security vulnerabilities and patches
+* Learn best practices for implementing HTTPS and secure access protocols in TYPO3
+* Understand the principles of setting up system monitoring tools and log management for security
+* Comprehend the automation of security reports and alert systems for potential incidents
+* Develop theoretical knowledge of security response strategies and their practical application through drills
 
 
 .. _s4-d3-practical-goals
@@ -83,6 +94,10 @@ Practical goals
 
 By the end of this day, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Set up advanced TYPO3 security settings
+* Identify and mitigate common TYPO3 security threats
+* Apply recent TYPO3 security patches
+* Configure HTTPS and secure access protocols
+* Set up system monitoring and manage logs
+* Automate security reports and alerts
+* Conduct security drills and develop a response strategy
