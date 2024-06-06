@@ -3,7 +3,7 @@
 .. _s4-d1-l3
 
 ====================
-Lesson 3 — ADD TITLE
+Lesson 3 — Setting Up a Secure TYPO3 Environment
 ====================
 
 

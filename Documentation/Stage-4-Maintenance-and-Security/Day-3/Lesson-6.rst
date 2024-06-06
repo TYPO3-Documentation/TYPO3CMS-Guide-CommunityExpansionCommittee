@@ -3,7 +3,7 @@
 .. _s4-d3-l6
 
 ====================
-Lesson 6 — ADD TITLE
+Lesson 6 — Hands-On Security Drills and Strategy Development
 ====================
 
 

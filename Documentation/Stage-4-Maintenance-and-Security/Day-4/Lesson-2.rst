@@ -3,7 +3,7 @@
 .. _s4-d4-l2
 
 ====================
-Lesson 2 — ADD TITLE
+Lesson 2 — Steps to Address and Document Vulnerabilities in TYPO3 Core
 ====================
 
 

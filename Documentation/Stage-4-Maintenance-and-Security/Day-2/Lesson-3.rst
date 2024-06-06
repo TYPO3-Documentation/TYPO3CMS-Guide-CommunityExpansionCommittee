@@ -3,7 +3,7 @@
 .. _s4-d2-l3
 
 ====================
-Lesson 3 — ADD TITLE
+Lesson 3 — Upgrading Custom Code in TYPO3
 ====================
 
 

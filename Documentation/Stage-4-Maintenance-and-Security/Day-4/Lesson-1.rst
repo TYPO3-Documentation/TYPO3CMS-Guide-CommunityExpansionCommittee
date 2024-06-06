@@ -3,7 +3,7 @@
 .. _s4-d4-l1
 
 ====================
-Lesson 1 — ADD TITLE
+Lesson 1 — Applying Best Practices for Securing Custom Code in TYPO3
 ====================
 
 

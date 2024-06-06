@@ -3,7 +3,7 @@
 .. _s4-d2-l5
 
 ====================
-Lesson 5 — ADD TITLE
+Lesson 5 — Hands-On TYPO3 Upgrade Workshop
 ====================
 
 

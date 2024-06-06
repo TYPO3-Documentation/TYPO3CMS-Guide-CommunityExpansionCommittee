@@ -3,7 +3,7 @@
 .. _s4-d4-l5
 
 ====================
-Lesson 5 — ADD TITLE
+Lesson 5 — Guidelines for Developing Secure TYPO3 Extensions from Scratch
 ====================
 
 

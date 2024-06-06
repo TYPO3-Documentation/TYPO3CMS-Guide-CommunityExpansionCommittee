@@ -3,7 +3,7 @@
 .. _s4-d2-l1
 
 ====================
-Lesson 1 — ADD TITLE
+Lesson 1 — Introduction to TYPO3 Upgrade Processes
 ====================
 
 
