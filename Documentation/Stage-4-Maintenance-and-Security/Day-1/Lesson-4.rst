@@ -3,7 +3,7 @@
 .. _s4-d1-l4
 
 ====================
-Lesson 4 — ADD TITLE
+Lesson 4 — Security Configuration in TYPO3
 ====================
 
 

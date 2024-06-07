@@ -3,7 +3,7 @@
 .. _s4-d5-l6
 
 ====================
-Lesson 6 — ADD TITLE
+Lesson 6 — Gathering Feedback and Discussing Continuous Improvement Strategies
 ====================
 
 

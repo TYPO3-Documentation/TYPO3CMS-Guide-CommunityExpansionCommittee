@@ -3,7 +3,7 @@
 .. _s4-d3-l5
 
 ====================
-Lesson 5 — ADD TITLE
+Lesson 5 — Automating Security Reports and Incident Alerts
 ====================
 
 

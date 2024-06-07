@@ -3,7 +3,7 @@
 .. _s4-d2-l6
 
 ====================
-Lesson 6 — ADD TITLE
+Lesson 6 — Implementing Version Control and Backup Strategies
 ====================
 
 
