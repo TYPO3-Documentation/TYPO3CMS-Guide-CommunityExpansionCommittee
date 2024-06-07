@@ -26,9 +26,7 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Concept of Continues Integration (CI)
 
 
 .. _s3-d1-l5-practical-prerequisites
@@ -36,11 +34,7 @@ This lesson assumes that you already know the following:
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Before you start this lesson, please have the following things ready:
-
-* Item 1
-* Item 2
-* Item 3
+none required here
 
 
 .. _s3-d1-l5-goals
@@ -55,9 +49,8 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand differences between Github Actions, Travis CI, Gitlab CI, Jenkins
+
 
 
 .. _s3-d1-l5-practical-goals
@@ -67,9 +60,7 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Identify the fitting tool chain for your project
 
 
 .. _s3-d1-l5-resources

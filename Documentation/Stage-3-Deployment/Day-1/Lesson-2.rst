@@ -26,9 +26,7 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand how git works
 
 
 .. _s3-d1-l2-practical-prerequisites
@@ -38,9 +36,7 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Set up a central git repository
 
 
 .. _s3-d1-l2-goals
@@ -55,9 +51,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand an ideal deployment workflow
+* Understand the different stages of a pipeline
+* Understand how to collaborate as a team by working on the same project
+* Understand the technology prerequisites for deployment
 
 
 .. _s3-d1-l2-practical-goals
@@ -67,9 +64,9 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Choose a technical workflow for your project (stages)
+* Understand how distributed collaboration works
+
 
 
 .. _s3-d1-l2-resources
