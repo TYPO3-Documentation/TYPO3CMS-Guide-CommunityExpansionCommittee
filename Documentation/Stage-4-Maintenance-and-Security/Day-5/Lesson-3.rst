@@ -3,7 +3,7 @@
 .. _s4-d5-l3
 
 ====================
-Lesson 3 — ADD TITLE
+Lesson 3 — Navigating Legal and Regulatory Requirements During Security Breaches
 ====================
 
 

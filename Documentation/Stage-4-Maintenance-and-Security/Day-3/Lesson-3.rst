@@ -3,7 +3,7 @@
 .. _s4-d3-l3
 
 ====================
-Lesson 3 — ADD TITLE
+Lesson 3 — Implementing HTTPS and Secure Protocols in TYPO3
 ====================
 
 

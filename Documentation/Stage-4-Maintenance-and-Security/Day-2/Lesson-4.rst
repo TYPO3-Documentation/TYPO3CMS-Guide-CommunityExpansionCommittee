@@ -3,7 +3,7 @@
 .. _s4-d2-l4
 
 ====================
-Lesson 4 — ADD TITLE
+Lesson 4 — Managing TYPO3 Deprecation Strategy
 ====================
 
 

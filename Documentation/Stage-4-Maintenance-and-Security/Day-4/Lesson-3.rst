@@ -3,7 +3,7 @@
 .. _s4-d4-l3
 
 ====================
-Lesson 3 — ADD TITLE
+Lesson 3 — Strategies for Effective Security Patch Management in TYPO3
 ====================
 
 

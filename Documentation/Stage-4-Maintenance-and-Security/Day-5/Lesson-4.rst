@@ -3,7 +3,7 @@
 .. _s4-d5-l4
 
 ====================
-Lesson 4 — ADD TITLE
+Lesson 4 — Techniques for Recovery and Conducting Post-Mortem Analysis
 ====================
 
 

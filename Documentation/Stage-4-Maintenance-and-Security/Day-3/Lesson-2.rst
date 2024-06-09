@@ -3,7 +3,7 @@
 .. _s4-d3-l2
 
 ====================
-Lesson 2 — ADD TITLE
+Lesson 2 — Mitigating Common Security Threats in TYPO3
 ====================
 
 

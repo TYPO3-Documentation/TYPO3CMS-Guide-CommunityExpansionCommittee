@@ -3,7 +3,7 @@
 .. _s4-d1-l6
 
 ====================
-Lesson 6 — ADD TITLE
+Lesson 6 — Advanced User Management and Security Policies
 ====================
 
 

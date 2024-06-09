@@ -3,7 +3,7 @@
 .. _s4-d5-l1
 
 ====================
-Lesson 1 — ADD TITLE
+Lesson 1 — Identifying and Responding to Compromised TYPO3 Environments
 ====================
 
 
