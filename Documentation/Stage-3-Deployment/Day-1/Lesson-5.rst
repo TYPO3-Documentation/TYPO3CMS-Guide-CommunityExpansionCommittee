@@ -50,7 +50,7 @@ Theoretical goals
 By the end of this lesson, you should know the following:
 
 * Understand differences between Github Actions, Travis CI, Gitlab CI, Jenkins
-
+* Identify the fitting tool chain for your project
 
 
 .. _s3-d1-l5-practical-goals
@@ -59,9 +59,7 @@ Practical goals
 ~~~~~~~~~~~~~~~
 
 By the end of this lesson, you should have completed the following:
-
-* Identify the fitting tool chain for your project
-
+* Setup a basic tool chain for Github
 
 .. _s3-d1-l5-resources
 

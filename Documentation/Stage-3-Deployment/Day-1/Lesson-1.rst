@@ -57,6 +57,8 @@ By the end of this lesson, you should know the following:
 * Know the terms continuous integration (CI) and continuous deployment (CD) and differentiate them
 * Know the benefits of continuous integration (CI) and continuous deployment (CD)
 * Know the major integration options (Github / Gitlab / Jenkins)
+* Understand the result of different CI/CD Tools
+* Decide about the setup for your project (tools, workflows)
 
 
 .. _s3-d1-l1-practical-goals
@@ -66,8 +68,8 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Understand the result of different CI/CD Tools
-* Decide about the setup for your project (tools, workflows)
+* None
+
 
 
 .. _s3-d1-l1-resources

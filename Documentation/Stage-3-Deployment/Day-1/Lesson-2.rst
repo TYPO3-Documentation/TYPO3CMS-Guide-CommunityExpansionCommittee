@@ -55,7 +55,8 @@ By the end of this lesson, you should know the following:
 * Understand the different stages of a pipeline
 * Understand how to collaborate as a team by working on the same project
 * Understand the technology prerequisites for deployment
-
+* Choose a technical workflow for your project (stages)
+* Understand how distributed collaboration works
 
 .. _s3-d1-l2-practical-goals
 
@@ -64,8 +65,9 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Choose a technical workflow for your project (stages)
-* Understand how distributed collaboration works
+* Create Git Branch
+* Create a Pull Request
+* Approve a Pull Request
 
 
 
