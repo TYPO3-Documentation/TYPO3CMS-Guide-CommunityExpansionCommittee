@@ -2,9 +2,9 @@
 
 .. _s3-d1-l4
 
-====================
-Lesson 4 — ADD TITLE
-====================
+==========================
+Lesson 4 — CI/CD practices
+==========================
 
 
 .. _s3-d1-l4-prerequisites-goals
@@ -26,9 +26,9 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* PHP
+* Command line knowledge
+
 
 
 .. _s3-d1-l4-practical-prerequisites
@@ -38,9 +38,9 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* PHP Version 8 oder newer
+* DDEV Based running TYPO3 Installation
+* Composer knowledge
 
 
 .. _s3-d1-l4-goals
@@ -55,10 +55,8 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* Know different Quality Asscurance Options for your pipeline
+* Understand what Deployer is used for
 
 .. _s3-d1-l4-practical-goals
 
@@ -67,9 +65,8 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Install Quality Asscurance Tools
+* Run QS Tools locally
 
 
 .. _s3-d1-l4-resources

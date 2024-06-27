@@ -2,9 +2,9 @@
 
 .. _s3-d1-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+=========================================
+Lesson 6 — Effective deployment workflows
+=========================================
 
 
 .. _s3-d1-l6-prerequisites-goals
@@ -26,10 +26,8 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* Understand the concept of git branches
+* PHP Knownledge
 
 .. _s3-d1-l6-practical-prerequisites
 
@@ -38,9 +36,8 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Have a Github Account available
+* Have a running DDEV Setup
 
 
 .. _s3-d1-l6-goals
@@ -55,9 +52,8 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Learn how Deployer works
+* Understand how to use pull requests to ensure quality
 
 
 .. _s3-d1-l6-practical-goals
@@ -67,9 +63,8 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Use actions for pull requests
+* Prevent deployments on errors
 
 
 .. _s3-d1-l6-resources
