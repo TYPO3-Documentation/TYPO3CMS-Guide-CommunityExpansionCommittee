@@ -2,9 +2,9 @@
 
 .. _s2-d1-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+========================================================================
+Lesson 5 — Basic Content Management: Adding and Editing Content Elements
+========================================================================
 
 
 .. _s2-d1-l5-prerequisites-goals
