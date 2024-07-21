@@ -3,7 +3,7 @@
 .. _s2-d1
 
 =========================================================
-Day 5 — CREATING AND CONFIGURING A SITE PACKAGE EXTENSION
+Day 5 — Creating and configuring a site package extension
 =========================================================
 
 .. _s2-d1-lessons

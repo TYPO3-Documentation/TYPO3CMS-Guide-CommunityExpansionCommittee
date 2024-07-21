@@ -2,9 +2,9 @@
 
 .. _s2-d4-l2
 
-====================
-Lesson 2 — ADD TITLE
-====================
+===============================================
+Lesson 2 — Creating custom templates with Fluid
+===============================================
 
 
 .. _s2-d4-l2-prerequisites-goals

@@ -3,7 +3,7 @@
 .. _s2-d1-l3
 
 =======================================================================
-Lesson 3 — Managing Extensions in TYPO3: Installation and Functionality
+Lesson 3 — Managing extensions in TYPO3: installation and functionality
 =======================================================================
 
 

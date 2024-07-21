@@ -3,7 +3,7 @@
 .. _s2-d1-l2
 
 ========================================================
-Lesson 2 — Exploring and Utilizing TYPO3 Backend Modules
+Lesson 2 — Exploring and utilizing TYPO3 Backend Modules
 ========================================================
 
 

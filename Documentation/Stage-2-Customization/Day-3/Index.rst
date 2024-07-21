@@ -3,7 +3,7 @@
 .. _s2-d1
 
 ==============================================
-Day 3 — ADVANCED TYPO3 CONCEPTS AND TYPOSCRIPT
+Day 3 — Advanced TYPO3 concepts and typoscript
 ==============================================
 
 .. _s2-d1-lessons

@@ -2,9 +2,9 @@
 
 .. _s2-d3-l1
 
-====================
-Lesson 1 — ADD TITLE
-====================
+=====================================
+Lesson 1 — Introduction to TypoScript
+=====================================
 
 
 .. _s2-d3-l1-prerequisites-goals

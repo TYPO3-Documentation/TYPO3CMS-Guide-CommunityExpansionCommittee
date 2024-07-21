@@ -2,9 +2,9 @@
 
 .. _s2-d5-l3
 
-====================
-Lesson 3 — ADD TITLE
-====================
+===================================================================
+Lesson 3 — Configuring a site package extension for content editing
+===================================================================
 
 
 .. _s2-d5-l3-prerequisites-goals

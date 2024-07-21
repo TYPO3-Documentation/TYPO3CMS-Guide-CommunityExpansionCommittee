@@ -2,9 +2,9 @@
 
 .. _s2-d5-l2
 
-====================
-Lesson 2 — ADD TITLE
-====================
+==============================================================================
+Lesson 2 — Delivering expected design and layout with a site package extension
+==============================================================================
 
 
 .. _s2-d5-l2-prerequisites-goals

@@ -3,7 +3,7 @@
 .. _s2-d1
 
 =============================================
-Day 2 — EDITING AND CUSTOMIZING TYPO3 CONTENT
+Day 2 — Editing and customizing TYPO3 content
 =============================================
 
 .. _s2-d1-lessons

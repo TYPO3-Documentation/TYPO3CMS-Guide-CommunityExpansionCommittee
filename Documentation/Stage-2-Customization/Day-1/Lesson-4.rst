@@ -3,7 +3,7 @@
 .. _s2-d1-l4
 
 ================================================================
-Lesson 4 — Understanding and Organizing the TYPO3 Page Structure
+Lesson 4 — Understanding and organizing the TYPO3 page structure
 ================================================================
 
 

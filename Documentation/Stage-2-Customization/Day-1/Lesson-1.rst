@@ -3,7 +3,7 @@
 .. _s2-d1-l1
 
 ============================================================================
-Lesson 1 — Introduction to TYPO3 Architecture: Backend and Frontend Concepts
+Lesson 1 — Introduction to TYPO3 architecture: Backend and Frontend concepts
 ============================================================================
 
 

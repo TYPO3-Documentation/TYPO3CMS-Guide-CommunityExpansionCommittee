@@ -3,7 +3,7 @@
 .. _s2-d1
 
 ============================================
-Day 1 — INTRODUCTION TO BASIC TYPO3 CONCEPTS
+Day 1 — Introduction to basic TYPO3 concepts
 ============================================
 
 .. _s2-d1-lessons

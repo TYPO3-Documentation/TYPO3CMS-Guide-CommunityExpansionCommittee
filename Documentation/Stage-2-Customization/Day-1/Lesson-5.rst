@@ -3,7 +3,7 @@
 .. _s2-d1-l5
 
 ========================================================================
-Lesson 5 — Basic Content Management: Adding and Editing Content Elements
+Lesson 5 — Basic content management: adding and editing content elements
 ========================================================================
 
 

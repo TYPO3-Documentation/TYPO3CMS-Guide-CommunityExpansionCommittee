@@ -2,9 +2,9 @@
 
 .. _s2-d5-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+=========================================================================
+Lesson 5 — Best practices for secure and efficient user access management
+=========================================================================
 
 
 .. _s2-d5-l5-prerequisites-goals
