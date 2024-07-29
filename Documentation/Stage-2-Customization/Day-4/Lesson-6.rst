@@ -2,9 +2,9 @@
 
 .. _s2-d4-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+====================================================
+Lesson 6 — Configuring and using the RTE efficiently
+====================================================
 
 
 .. _s2-d4-l6-prerequisites-goals

@@ -2,9 +2,9 @@
 
 .. _s2-d3-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+=====================================================
+Lesson 5 — Implementing and customizing Page TsConfig
+=====================================================
 
 
 .. _s2-d3-l5-prerequisites-goals

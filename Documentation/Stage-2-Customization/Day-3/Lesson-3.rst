@@ -2,9 +2,9 @@
 
 .. _s2-d3-l3
 
-====================
-Lesson 3 — ADD TITLE
-====================
+====================================================================
+Lesson 3 — Website navigation: menus and breadcrumbs with TypoScript
+====================================================================
 
 
 .. _s2-d3-l3-prerequisites-goals

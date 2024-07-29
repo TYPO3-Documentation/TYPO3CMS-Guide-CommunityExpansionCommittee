@@ -2,9 +2,9 @@
 
 .. _s2-d4-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+=========================================================
+Lesson 5 — Customizing the RTE for specific editing needs
+=========================================================
 
 
 .. _s2-d4-l5-prerequisites-goals

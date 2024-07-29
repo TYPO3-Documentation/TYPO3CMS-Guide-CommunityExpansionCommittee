@@ -2,9 +2,9 @@
 
 .. _s2-d3-l2
 
-====================
-Lesson 2 — ADD TITLE
-====================
+=====================================================
+Lesson 2 — Setting up page templates using TypoScript
+=====================================================
 
 
 .. _s2-d3-l2-prerequisites-goals
