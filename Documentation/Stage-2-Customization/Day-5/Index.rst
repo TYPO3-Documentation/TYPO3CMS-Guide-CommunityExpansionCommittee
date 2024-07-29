@@ -71,12 +71,12 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* Understand the steps involved in creating a Site Package Extension in TYPO3
-* Learn how to deliver the expected design and layout using a Site Package Extension
-* Comprehend the process of configuring a Site Package Extension to allow content editing
-* Gain knowledge about setting up and configuring proper access for Backend Users
-* Understand the best practices for ensuring secure and efficient user access management
-* Recap and solidify the key concepts learned throughout the creation and configuration of a Site Package Extension
+* The steps involved in creating a Site Package Extension in TYPO3
+* How to deliver the expected design and layout using a Site Package Extension
+* The process of configuring a Site Package Extension to allow content editing
+* The basics of setting up and configuring proper access for Backend Users
+* The best practices for ensuring secure and efficient user access management
+* More key concepts learned throughout creation and configuration of a Site Package Extension
 
 .. _s2-d5-practical-goals
 

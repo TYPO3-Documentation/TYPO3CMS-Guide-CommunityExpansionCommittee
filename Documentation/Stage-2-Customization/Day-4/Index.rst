@@ -71,12 +71,12 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* Understand the basics and purpose of Fluid templates in TYPO3
-* Learn how Fluid templates are used for creating custom designs
-* Comprehend the process of managing Fluid templates within TYPO3
-* Gain knowledge about the WYSIWYG (What You See Is What You Get) Editor in TYPO3
-* Understand how to customize the WYSIWYG Editor for different content editing needs
-* Learn about various configuration options available for the WYSIWYG Editor
+* The basics and purpose of Fluid templates in TYPO3
+* How Fluid templates are used for creating custom designs
+* The process of managing Fluid templates within TYPO3
+* The basics of the WYSIWYG (What You See Is What You Get) Editor in TYPO3
+* How to customize the WYSIWYG Editor for different content editing needs
+* Various configuration options available for the WYSIWYG Editor
 
 .. _s2-d4-practical-goals
 

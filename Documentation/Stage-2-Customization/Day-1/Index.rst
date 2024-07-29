@@ -76,7 +76,6 @@ By the end of this day, you should know the following:
 * Comprehend the role and management of Extensions in TYPO3
 * Gain knowledge about TYPO3's page structure and the importance of the page tree
 * Understand basic content management within TYPO3, including content elements and file management
-* Familiarize yourself with user management and access rights in TYPO3
 
 .. _s2-d1-practical-goals
 
@@ -91,3 +90,4 @@ By the end of this day, you should have completed the following:
 * Add and edit content elements on TYPO3 pages
 * Manage files and media within the TYPO3 environment
 * Set up and configure Backend Users with appropriate access rights
+* Familiarized yourself with user management and access rights in TYPO3

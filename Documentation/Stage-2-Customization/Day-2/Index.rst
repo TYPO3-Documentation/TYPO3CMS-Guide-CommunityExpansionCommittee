@@ -71,12 +71,12 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* Understand how to create and organize pages within TYPO3
-* Comprehend the structure and navigation of the TYPO3 page tree
-* Learn the principles of adding and editing content elements in TYPO3
-* Understand the management of files and media within TYPO3
-* Gain knowledge on building custom forms, such as contact forms
-* Understand how to set up and manage Backend Users, including defining access rights
+* How to create and organize pages within TYPO3
+* The structure and navigation of the TYPO3 page tree
+* The principles of adding and editing content elements in TYPO3
+* Management of files and media within TYPO3
+* Basic custom form building, such as contact forms
+* How to set up and manage Backend Users, including defining access rights
 
 .. _s2-d2-practical-goals
 

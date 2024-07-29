@@ -71,12 +71,12 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* Understand the basics and importance of TypoScript in TYPO3
-* Learn how to set up Page templates using TypoScript
-* Comprehend the process of creating website navigation, including menus and breadcrumbs, using TypoScript
-* Gain knowledge about configuring Backend Layouts in TYPO3
-* Understand the concept and usage of Page TsConfig
-* Understand the concept and usage of User TsConfig
+* The basics and importance of TypoScript in TYPO3
+* How to set up Page templates using TypoScript
+* The process of creating website navigation, including menus and breadcrumbs, using TypoScript
+* The basics of configuring Backend Layouts in TYPO3
+* The concept and usage of Page TsConfig
+* The concept and usage of User TsConfig
 
 .. _s2-d3-practical-goals
 
