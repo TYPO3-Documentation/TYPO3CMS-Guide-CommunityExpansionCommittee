@@ -2,9 +2,9 @@
 
 .. _s1-d1-l3
 
-====================
-Lesson 3 — ADD TITLE
-====================
+=================================
+Lesson 3 — Core Concepts of TYPO3
+=================================
 
 
 .. _s1-d1-l3-prerequisites-goals
@@ -26,21 +26,17 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* The knowledge from today's previous lessons.
 
 
-.. _s1-d1-l3-practical-prerequisites
+.. _s1-d1-l3-l7-practical-prerequisites
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* You have completed the tasks in the previous lessons and have access to a TYPO3 backend.
 
 
 .. _s1-d1-l3-goals
@@ -55,9 +51,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* What TYPO3 needs in order to function (database, PHP, server, etc.)
+* How non-page records may be stored within pages in TYPO3.
+* The relationship between sites and pages in TYPO3.
+* The concept of content types in TYPO3.
 
 
 .. _s1-d1-l3-practical-goals
@@ -67,9 +64,8 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Viewed content elements as records using the List module.
+* Created another type of record (not a content element) on a page.
 
 
 .. _s1-d1-l3-resources

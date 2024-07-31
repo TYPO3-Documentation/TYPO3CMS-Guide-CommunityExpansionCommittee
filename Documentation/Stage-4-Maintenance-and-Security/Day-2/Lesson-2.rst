@@ -3,7 +3,7 @@
 .. _s4-d2-l2
 
 ====================
-Lesson 2 — ADD TITLE
+Lesson 2 — Understanding the TYPO3 Release Cycle
 ====================
 
 

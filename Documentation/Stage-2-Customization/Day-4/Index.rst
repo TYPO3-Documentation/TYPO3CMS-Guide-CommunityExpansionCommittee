@@ -2,9 +2,9 @@
 
 .. _s2-d1
 
-=================
-Day 4 — ADD TITLE
-=================
+===================================================================
+Day 4 — Working with Fluid templates and the RTE (Rich Text Editor)
+===================================================================
 
 .. _s2-d1-lessons
 
@@ -71,10 +71,12 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* The basics and purpose of Fluid templates in TYPO3
+* How Fluid templates are used for creating custom designs
+* The process of managing Fluid templates within TYPO3
+* The basics of the WYSIWYG (What You See Is What You Get) Editor in TYPO3
+* How to customize the WYSIWYG Editor for different content editing needs
+* Various configuration options available for the WYSIWYG Editor
 
 .. _s2-d4-practical-goals
 
@@ -83,6 +85,9 @@ Practical goals
 
 By the end of this day, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Create and implement Fluid templates for custom designs in TYPO3
+* Manage existing Fluid templates, including editing and updating them
+* Apply Fluid templates to pages and content elements in TYPO3
+* Customize the WYSIWYG Editor to suit specific content editing requirements
+* Configure different options and settings within the WYSIWYG Editor
+* Use the WYSIWYG Editor to create and edit content efficiently in TYPO3

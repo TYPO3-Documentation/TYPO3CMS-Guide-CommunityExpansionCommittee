@@ -2,9 +2,9 @@
 
 .. _s2-d1
 
-=================
-Day 2 — ADD TITLE
-=================
+=============================================
+Day 2 — Editing and customizing TYPO3 content
+=============================================
 
 .. _s2-d1-lessons
 
@@ -71,10 +71,12 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* How to create and organize pages within TYPO3
+* The structure and navigation of the TYPO3 page tree
+* The principles of adding and editing content elements in TYPO3
+* Management of files and media within TYPO3
+* Basic custom form building, such as contact forms
+* How to set up and manage Backend Users, including defining access rights
 
 .. _s2-d2-practical-goals
 
@@ -83,6 +85,9 @@ Practical goals
 
 By the end of this day, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Successfully create and organize pages in the TYPO3 environment
+* Navigate and edit the TYPO3 page tree effectively
+* Add and edit various content elements on TYPO3 pages
+* Manage files and media, including uploading and organizing them within TYPO3
+* Build and customize a form, such as a contact form, in TYPO3
+* Set up Backend Users and configure their access rights for content management

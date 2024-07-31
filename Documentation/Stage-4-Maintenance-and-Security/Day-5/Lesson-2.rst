@@ -3,7 +3,7 @@
 .. _s4-d5-l2
 
 ====================
-Lesson 2 — ADD TITLE
+Lesson 2 — Best Practices for Communication and Collaboration During Security Incidents
 ====================
 
 

@@ -3,7 +3,7 @@
 .. _s4-d1-l2
 
 ====================
-Lesson 2 — ADD TITLE
+Lesson 2 — TYPO3 Maintenance Overview
 ====================
 
 

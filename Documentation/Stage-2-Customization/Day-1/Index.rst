@@ -2,9 +2,9 @@
 
 .. _s2-d1
 
-=================
-Day 1 — ADD TITLE
-=================
+============================================
+Day 1 — Introduction to basic TYPO3 concepts
+============================================
 
 .. _s2-d1-lessons
 
@@ -71,10 +71,11 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* Understand the overall architecture of TYPO3, including Backend and Frontend concepts
+* Learn the functionalities and purposes of different Backend Modules
+* Comprehend the role and management of Extensions in TYPO3
+* Gain knowledge about TYPO3's page structure and the importance of the page tree
+* Understand basic content management within TYPO3, including content elements and file management
 
 .. _s2-d1-practical-goals
 
@@ -83,6 +84,10 @@ Practical goals
 
 By the end of this day, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Navigate the TYPO3 Backend interface efficiently
+* Install and manage extensions in TYPO3
+* Create and organize pages in the TYPO3 page tree
+* Add and edit content elements on TYPO3 pages
+* Manage files and media within the TYPO3 environment
+* Set up and configure Backend Users with appropriate access rights
+* Familiarized yourself with user management and access rights in TYPO3

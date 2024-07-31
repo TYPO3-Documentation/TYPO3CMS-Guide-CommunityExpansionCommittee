@@ -2,9 +2,9 @@
 
 .. _s2-d1
 
-=================
-Day 3 — ADD TITLE
-=================
+==============================================
+Day 3 — Advanced TYPO3 concepts and typoscript
+==============================================
 
 .. _s2-d1-lessons
 
@@ -71,10 +71,12 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* The basics and importance of TypoScript in TYPO3
+* How to set up Page templates using TypoScript
+* The process of creating website navigation, including menus and breadcrumbs, using TypoScript
+* The basics of configuring Backend Layouts in TYPO3
+* The concept and usage of Page TsConfig
+* The concept and usage of User TsConfig
 
 .. _s2-d3-practical-goals
 
@@ -83,6 +85,9 @@ Practical goals
 
 By the end of this day, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Set up Page templates using TypoScript in a TYPO3 environment
+* Create website navigation elements such as menus and breadcrumbs using TypoScript
+* Configure and apply Backend Layouts to TYPO3 pages
+* Implement and customize Page TsConfig settings
+* Implement and customize User TsConfig settings
+* Apply TypoScript to enhance the functionality and layout of TYPO3 pages

@@ -2,9 +2,9 @@
 
 .. _s3-d1-l1
 
-====================
-Lesson 1 — ADD TITLE
-====================
+==============================================================================================
+Lesson 1 — Concepts and benefits of continuous integration (CI) and continuous deployment (CD)
+==============================================================================================
 
 
 .. _s3-d1-l1-prerequisites-goals
@@ -26,9 +26,8 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Setting up and running TYPO3
+* Command line access
 
 
 .. _s3-d1-l1-practical-prerequisites
@@ -38,9 +37,9 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* A running TYPO3 installation
+* A git repository
+* A webserver
 
 
 .. _s3-d1-l1-goals
@@ -55,9 +54,11 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Know the terms continuous integration (CI) and continuous deployment (CD) and differentiate them
+* Know the benefits of continuous integration (CI) and continuous deployment (CD)
+* Know the major integration options (Github / Gitlab / Jenkins)
+* Understand the result of different CI/CD Tools
+* Decide about the setup for your project (tools, workflows)
 
 
 .. _s3-d1-l1-practical-goals
@@ -67,9 +68,8 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* None
+
 
 
 .. _s3-d1-l1-resources
@@ -77,8 +77,7 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `What is CI/CD? <https://about.gitlab.com/topics/ci-cd/>`
 
 
 .. _s3-d1-l1-teacher

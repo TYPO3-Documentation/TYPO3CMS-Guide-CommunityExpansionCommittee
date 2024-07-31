@@ -2,9 +2,9 @@
 
 .. _s2-d4-l1
 
-====================
-Lesson 1 — ADD TITLE
-====================
+==========================================
+Lesson 1 — Introduction to Fluid templates
+==========================================
 
 
 .. _s2-d4-l1-prerequisites-goals

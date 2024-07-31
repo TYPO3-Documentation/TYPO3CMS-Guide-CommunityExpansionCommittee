@@ -3,7 +3,7 @@
 .. _s1-d1
 
 =================
-Day 1 — ADD TITLE
+Day 1 — Introduction and concepts
 =================
 
 .. _s1-d1-lessons
@@ -42,10 +42,7 @@ Theoretical prerequisites
 
 This day assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* :ref:`Theoretical Prerequisites for Stage 1 <_s1-theoretical-prerequisites>`
 
 .. _s1-d1-practical-prerequisites
 
@@ -54,10 +51,7 @@ Practical prerequisites
 
 Before you start this day, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
-
+* :ref:`Practical Prerequisites for Stage 1 <s1-practical-prerequisites>`
 
 .. _s1-d1-goals
 
@@ -71,9 +65,15 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Basic understanding of CMS concepts
+* Basic understanding of TYPO3
+* Basic understanding of TYPO3's filesystem
+* Basic understanding of TYPO3's database
+* Basic understanding of Git
+* Basic understanding of DDEV
+* Basic understanding of Composer
+* Basic understanding of the Bootstrap framework
+* Knowledge of the different documentation sources
 
 
 .. _s1-d1-practical-goals
@@ -83,6 +83,7 @@ Practical goals
 
 By the end of this day, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* You have shown that you meet the practical prerequisites
+* You have shown that you meet the Theoretical prerequisites
+* You have shown that you understand the basic concepts behind TYPO3
+* You have been introduced to the different documentation sources

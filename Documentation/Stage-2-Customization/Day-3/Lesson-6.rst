@@ -2,9 +2,9 @@
 
 .. _s2-d3-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+=====================================================
+Lesson 6 — Implementing and customizing User TsConfig
+=====================================================
 
 
 .. _s2-d3-l6-prerequisites-goals

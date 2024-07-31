@@ -2,9 +2,9 @@
 
 .. _s1-d1-l1
 
-====================
-Lesson 1 — ADD TITLE
-====================
+========================================
+Lesson 1 — Who Are We and What Is a CMS?
+========================================
 
 
 .. _s1-d1-l1-prerequisites-goals
@@ -26,9 +26,7 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* The general prerequisites for Stage 1
 
 
 .. _s1-d1-l1-practical-prerequisites
@@ -38,9 +36,7 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* The general prerequisites for Stage 1
 
 
 .. _s1-d1-l1-goals
@@ -55,9 +51,12 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* What the goals of the training is
+* What will happen today
+* What will happen this week
+* Who the participants are (students and teachers)
+* What the participants’ professional backgrounds are and what they already know about the topics.
+* What (superficially) constitutes a content management system (CMS)
 
 
 .. _s1-d1-l1-practical-goals
@@ -67,9 +66,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Introduced yourself
+* Gotten to know the names of the other participants (students and teachers)
+* Gotten to know what the other participants professional backgrounds are
+* Discussed what a CMS is
 
 
 .. _s1-d1-l1-resources

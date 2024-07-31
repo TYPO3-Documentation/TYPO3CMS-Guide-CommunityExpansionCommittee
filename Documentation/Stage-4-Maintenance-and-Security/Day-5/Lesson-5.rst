@@ -3,7 +3,7 @@
 .. _s4-d5-l5
 
 ====================
-Lesson 5 — ADD TITLE
+Lesson 5 — Comprehensive Review of Key Concepts and Open Q&A Session
 ====================
 
 

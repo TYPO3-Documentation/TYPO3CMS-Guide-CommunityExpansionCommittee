@@ -3,7 +3,7 @@
 .. _s4-d1-l5
 
 ====================
-Lesson 5 — ADD TITLE
+Lesson 5 — Implementing Security Measures for Initial Setup
 ====================
 
 

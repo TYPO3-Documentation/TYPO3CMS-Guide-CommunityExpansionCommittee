@@ -2,9 +2,9 @@
 
 .. _s3-d1-l3
 
-====================
-Lesson 3 — ADD TITLE
-====================
+============================================================
+Lesson 3 — How to configure TYPO3 for different environments
+============================================================
 
 
 .. _s3-d1-l3-prerequisites-goals
@@ -26,9 +26,8 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Setting up TYPO3
+* Use environment conditions
 
 
 .. _s3-d1-l3-practical-prerequisites
@@ -38,9 +37,7 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Having a running DDEV setup for local development
 
 
 .. _s3-d1-l3-goals
@@ -55,9 +52,9 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the concept of variants in the TYPO3 siteconfiguration
+* Understand the location and possibilities for different system configurations
+* Avoid storing access data in versioning systems (f.e. git)
 
 
 .. _s3-d1-l3-practical-goals
@@ -67,9 +64,9 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Setting up TYPO3 for different stages
+* Testing different conditions (f.e. system context, environment settings)
+* Define Local Configuration, define Additional Configurations
 
 
 .. _s3-d1-l3-resources
@@ -77,8 +74,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Sitehandling Using Variants  <https://docs.typo3.org>`__
+* :ref:`Base variants <t3coreapi:sitehandling-baseVariants>``
 
 
 .. _s3-d1-l3-teacher

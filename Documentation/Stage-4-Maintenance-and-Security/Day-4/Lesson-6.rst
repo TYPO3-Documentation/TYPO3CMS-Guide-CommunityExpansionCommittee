@@ -3,7 +3,7 @@
 .. _s4-d4-l6
 
 ====================
-Lesson 6 — ADD TITLE
+Lesson 6 — Interactive Role-Play: Handling Hypothetical Security Breaches in TYPO3
 ====================
 
 
