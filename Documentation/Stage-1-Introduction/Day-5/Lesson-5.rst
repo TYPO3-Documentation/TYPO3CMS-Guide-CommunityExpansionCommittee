@@ -2,9 +2,9 @@
 
 .. _s1-d5-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+=====================================================================
+Lesson 5 — Installing and configuring the Bootstrap Package extension
+=====================================================================
 
 
 .. _s1-d5-l5-prerequisites-goals

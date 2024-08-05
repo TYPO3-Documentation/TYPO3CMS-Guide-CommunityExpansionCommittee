@@ -2,9 +2,9 @@
 
 .. _s1-d3-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+=========================================================================
+Lesson 5 — Cloning a Git repository in your local development environment
+=========================================================================
 
 
 .. _s1-d3-l5-prerequisites-goals

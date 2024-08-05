@@ -2,9 +2,9 @@
 
 .. _s1-d2-l3
 
-====================
-Lesson 3 — ADD TITLE
-====================
+=====================================================================
+Lesson 3 — Introduction to using DDEV for web application development
+=====================================================================
 
 
 .. _s1-d2-l3-prerequisites-goals
