@@ -2,9 +2,9 @@
 
 .. _s1-d4-l1
 
-====================
-Lesson 1 — ADD TITLE
-====================
+=====================================================================
+Lesson 1 — Installing and configuring the Bootstrap Package extension
+=====================================================================
 
 
 .. _s1-d4-l1-prerequisites-goals

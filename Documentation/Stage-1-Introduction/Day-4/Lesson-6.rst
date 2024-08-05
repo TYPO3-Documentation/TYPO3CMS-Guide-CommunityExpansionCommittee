@@ -2,9 +2,9 @@
 
 .. _s1-d4-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+=================================================================
+Lesson 6 — Implementing responsive design with Bootstrap in TYPO3
+=================================================================
 
 
 .. _s1-d4-l6-prerequisites-goals

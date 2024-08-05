@@ -2,9 +2,9 @@
 
 .. _s1-d2-l1
 
-====================
-Lesson 1 — ADD TITLE
-====================
+================================================
+Lesson 1 — Installing DDEV for local development
+================================================
 
 
 .. _s1-d2-l1-prerequisites-goals

@@ -2,9 +2,9 @@
 
 .. _s1-d2-l2
 
-====================
-Lesson 2 — ADD TITLE
-====================
+==================================================
+Lesson 2 — Configuring DDEV on your local computer
+==================================================
 
 
 .. _s1-d2-l2-prerequisites-goals
