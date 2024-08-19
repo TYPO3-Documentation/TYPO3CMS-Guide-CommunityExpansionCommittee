@@ -11,7 +11,7 @@ Stage 2 — Customization
 About this stage
 ================
 
-SHORT INTRODUCTORY TEXT
+This stage is about customizing TYPO3. Day 1 covers TYPO3's architecture, backend modules, extension management, and content editing. Day 2 focuses on creating and organizing pages, managing files, and building forms. Day 3 delves into TypoScript, including setting up page templates, website navigation, and backend layouts. On Day 4, you'll explore Fluid templates and the Rich Text Editor (RTE), learning to create and manage templates and customize the RTE. Day 5 culminates in creating and configuring a site package extension, optimizing performance, and applying best practices for security and efficiency. Each day concludes with a recap and catch-up session to reinforce learning and ensure a solid grasp of the material.
 
 .. toctree::
     :titlesonly:

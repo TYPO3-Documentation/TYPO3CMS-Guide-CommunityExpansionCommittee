@@ -2,9 +2,9 @@
 
 .. _s2-d4-l2
 
-===============================================
-Lesson 2 — Creating custom templates with Fluid
-===============================================
+====================================================
+Lesson 2 — Configuring and using the RTE efficiently
+====================================================
 
 
 .. _s2-d4-l2-prerequisites-goals

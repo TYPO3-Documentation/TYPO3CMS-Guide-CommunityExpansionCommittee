@@ -2,9 +2,9 @@
 
 .. _s3-d2-l1
 
-====================
-Lesson 1 — ADD TITLE
-====================
+====================================================================================
+Lesson 1 — Differences and benefits of testing, staging, and production environments
+====================================================================================
 
 
 .. _s3-d2-l1-prerequisites-goals
@@ -55,9 +55,9 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the differences and benefits of testing, staging, and production environments
+* Learn the importance of separating environments and the steps toward live deployment
+* Understand the challenges of database versioning and migration
 
 
 .. _s3-d2-l1-practical-goals
@@ -67,9 +67,9 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Configure TYPO3 for development, testing, staging, and production environments
+* Implement tools to manage database changes and migrations
+* Validate environment setups and ensure smooth deployment processes
 
 
 .. _s3-d2-l1-resources

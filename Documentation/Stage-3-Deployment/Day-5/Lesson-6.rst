@@ -2,9 +2,9 @@
 
 .. _s3-d5-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+==================================================================
+Lesson 6 — Sharing and reflecting on personal learning experiences
+==================================================================
 
 
 .. _s3-d5-l6-prerequisites-goals

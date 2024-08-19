@@ -2,9 +2,9 @@
 
 .. _s2-d1-l6
 
-==================================================================
-Lesson 6 — Setting up and managing backend users and access rights
-==================================================================
+===================================================
+Lesson 6 — Managing backend users and access rights
+===================================================
 
 
 .. _s2-d1-l6-prerequisites-goals
@@ -55,9 +55,9 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the role of backend users in TYPO3
+* Learn about user groups, roles, and access rights management
+* Explore how to configure permissions and access control for backend users
 
 
 .. _s2-d1-l6-practical-goals
@@ -67,9 +67,8 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Create and manage backend user accounts
+* Set up and configure user groups and access rights to control backend access
 
 
 .. _s2-d1-l6-resources

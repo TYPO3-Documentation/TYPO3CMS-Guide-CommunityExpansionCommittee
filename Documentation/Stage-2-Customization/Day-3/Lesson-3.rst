@@ -2,9 +2,9 @@
 
 .. _s2-d3-l3
 
-====================================================================
-Lesson 3 — Website navigation: menus and breadcrumbs with TypoScript
-====================================================================
+=============================================
+Lesson 3 — Website navigation with TypoScript
+=============================================
 
 
 .. _s2-d3-l3-prerequisites-goals

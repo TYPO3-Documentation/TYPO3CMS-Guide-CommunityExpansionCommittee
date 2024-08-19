@@ -2,9 +2,9 @@
 
 .. _s2-d1-l3
 
-=======================================================================
-Lesson 3 — Managing extensions in TYPO3: installation and functionality
-=======================================================================
+=======================================
+Lesson 3 — Managing extensions in TYPO3
+=======================================
 
 
 .. _s2-d1-l3-prerequisites-goals
@@ -55,9 +55,9 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand what TYPO3 extensions are and their role in extending functionality
+* Learn how to find, install, and update TYPO3 extensions
+* Explore the TYPO3 Extension Manager and its features
 
 
 .. _s2-d1-l3-practical-goals
@@ -67,9 +67,8 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Install, configure, and manage TYPO3 extensions
+* Remove or disable extensions as needed
 
 
 .. _s2-d1-l3-resources

@@ -2,9 +2,9 @@
 
 .. _s3-d3-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+=========================================================================================
+Lesson 6 — Implementing and monitoring advanced deployment techniques and automated tests
+=========================================================================================
 
 
 .. _s3-d3-l6-prerequisites-goals

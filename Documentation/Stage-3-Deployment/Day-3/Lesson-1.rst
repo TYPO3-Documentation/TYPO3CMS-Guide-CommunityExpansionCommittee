@@ -2,9 +2,9 @@
 
 .. _s3-d3-l1
 
-====================
-Lesson 1 — ADD TITLE
-====================
+===========================================================================
+Lesson 1 — Minimizing downtime and risk with advanced deployment strategies
+===========================================================================
 
 
 .. _s3-d3-l1-prerequisites-goals

@@ -2,9 +2,9 @@
 
 .. _s3-d3-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+=====================================================================
+Lesson 5 — Using CI/CD pipelines for collaborative code contributions
+=====================================================================
 
 
 .. _s3-d3-l5-prerequisites-goals

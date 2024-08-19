@@ -2,9 +2,9 @@
 
 .. _s3-d4-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+===================================================================
+Lesson 5 — Identifying and fixing common deployment pipeline issues
+===================================================================
 
 
 .. _s3-d4-l5-prerequisites-goals
