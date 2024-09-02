@@ -70,7 +70,6 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-
 * How to install and configure the Bootstrap Package extension for the newly created TYPO3 project
 * How to add components for your TYPO3 project
 * How to customize the layout for your TYPO3 project

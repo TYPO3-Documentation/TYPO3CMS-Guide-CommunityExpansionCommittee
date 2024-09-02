@@ -42,9 +42,8 @@ Theoretical prerequisites
 
 This day assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* The knowledge required by the theoretical prerequisites of previous curriculum stages
+* The theoretical knowledge goals of the previous curriculum stages
 
 
 .. _s2-d1-practical-prerequisites
@@ -54,9 +53,8 @@ Practical prerequisites
 
 Before you start this day, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* The knowledge required by the practical prerequisites of previous curriculum stages
+* The practical knowledge goals of the previous curriculum stage
 
 
 .. _s2-d1-goals
@@ -88,6 +86,4 @@ By the end of this day, you should have completed the following:
 * Install and manage extensions in TYPO3
 * Create and organize pages in the TYPO3 page tree
 * Add and edit content elements on TYPO3 pages
-* Manage files and media within the TYPO3 environment
-* Set up and configure Backend Users with appropriate access rights
 * Familiarized yourself with user management and access rights in TYPO3

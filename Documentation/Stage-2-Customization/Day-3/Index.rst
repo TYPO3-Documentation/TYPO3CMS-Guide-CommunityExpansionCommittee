@@ -42,9 +42,12 @@ Theoretical prerequisites
 
 This day assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* How to create and organize pages within TYPO3
+* The structure and navigation of the TYPO3 page tree
+* The principles of adding and editing content elements in TYPO3
+* Management of files and media within TYPO3
+* Basic custom form building, such as contact forms
+* How to set up and manage Backend Users, including defining access rights
 
 
 .. _s2-d3-practical-prerequisites
@@ -54,9 +57,11 @@ Practical prerequisites
 
 Before you start this day, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Navigated and edited the TYPO3 page tree effectively
+* Added and edited various content elements on TYPO3 pages
+* Managed files and media, including uploading and organizing them within TYPO3
+* Built and customized a form, such as a contact form, in TYPO3
+* Setted up Backend Users and configured their access rights for content management
 
 
 .. _s2-d3-goals

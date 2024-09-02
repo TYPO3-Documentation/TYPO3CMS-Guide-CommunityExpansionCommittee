@@ -58,7 +58,7 @@ Practical prerequisites
 Before you start this day, please have the following things ready:
 
 * Planned and carried out major and minor TYPO3 upgrades
-* Updateed custom extensions and templates to work with new TYPO3 versions
+* Updated custom extensions and templates to work with new TYPO3 versions
 * Managed deprecated APIs and smoothly transitionned to newer versions
 * Performed a hands-on TYPO3 upgrade and fixed common issues
 * Implemented version control and backed up systems before upgrading
