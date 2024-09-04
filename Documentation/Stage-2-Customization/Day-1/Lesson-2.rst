@@ -2,9 +2,9 @@
 
 .. _s2-d1-l2
 
-========================================================
-Lesson 2 — Exploring and utilizing TYPO3 Backend Modules
-========================================================
+================================
+Lesson 2 — TYPO3 backend modules
+================================
 
 
 .. _s2-d1-l2-prerequisites-goals
@@ -55,10 +55,9 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* Understand the purpose of TYPO3 backend modules
+* Learn about the key TYPO3 backend modules and their functions
+* Explore how backend modules integrate with extensions
 
 .. _s2-d1-l2-practical-goals
 
@@ -67,10 +66,8 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* Navigate and utilize the core TYPO3 backend modules
+* Customize and configure backend modules to suit specific project needs.
 
 .. _s2-d1-l2-resources
 

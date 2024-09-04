@@ -42,10 +42,10 @@ Theoretical prerequisites
 
 This day assumes that you already know the following:
 
-* * :ref:`Theoretical Prerequisites for Day 1 <_s1-d1-theoretical-prerequisites>`
-* * :ref:`Theoretical Prerequisites for Day 2 <_s1-d2-theoretical-prerequisites>`
-* * :ref:`Theoretical Prerequisites for Day 3 <_s1-d3-theoretical-prerequisites>`
-* * :ref:`Theoretical Prerequisites for Day 4 <_s1-d4-theoretical-prerequisites>`
+* How to install and configure the Bootstrap Package extension for the newly created TYPO3 project
+* How to add components for your TYPO3 project
+* How to customize the layout for your TYPO3 project
+* How tu use advanced Bootstrap features
 
 
 .. _s1-d5-practical-prerequisites
@@ -55,10 +55,9 @@ Practical prerequisites
 
 Before you start this day, please have the following things ready:
 
-* * :ref:`Practical Prerequisites for Day 1 <_s1-d1-practical-prerequisites>`
-* * :ref:`Practical Prerequisites for Day 2 <_s1-d2-practical-prerequisites>`
-* * :ref:`Practical Prerequisites for Day 3 <_s1-d3-practical-prerequisites>`
-* * :ref:`Practical Prerequisites for Day 4 <_s1-d4-practical-prerequisites>`
+* Installed and configured a Bootstrap based Frontend for your TYPO3 project
+* Added Bootstrap components to your project
+* Customized the layout of your TYPO3 project
 
 
 .. _s1-d5-goals

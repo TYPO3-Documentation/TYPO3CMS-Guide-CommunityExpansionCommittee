@@ -2,9 +2,9 @@
 
 .. _s3-d3-l2
 
-====================
-Lesson 2 — ADD TITLE
-====================
+========================================================
+Lesson 2 — Tools and methodologies for automated testing
+========================================================
 
 
 .. _s3-d3-l2-prerequisites-goals

@@ -2,9 +2,9 @@
 
 .. _s2-d1-l4
 
-================================================================
-Lesson 4 — Understanding and organizing the TYPO3 page structure
-================================================================
+==========================
+Lesson 4 — TYPO3 page tree
+==========================
 
 
 .. _s2-d1-l4-prerequisites-goals
@@ -55,9 +55,9 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the structure and purpose of the TYPO3 page tree
+* Learn how to create and organize pages within the page tree
+* Explore how the page tree relates to site navigation and content hierarchy
 
 
 .. _s2-d1-l4-practical-goals
@@ -67,9 +67,8 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Create, move, and organize pages within the TYPO3 page tree
+* Manage the page tree to reflect the desired site structure
 
 
 .. _s2-d1-l4-resources

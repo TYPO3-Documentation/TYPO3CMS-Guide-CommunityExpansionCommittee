@@ -2,9 +2,9 @@
 
 .. _s3-d4-l1
 
-====================
-Lesson 1 — ADD TITLE
-====================
+==============================================================
+Lesson 1 — Diagnosing and fixing common issues in CI workflows
+==============================================================
 
 
 .. _s3-d4-l1-prerequisites-goals

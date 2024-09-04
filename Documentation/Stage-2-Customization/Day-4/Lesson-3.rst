@@ -3,7 +3,7 @@
 .. _s2-d4-l3
 
 =========================================================
-Lesson 3 — Managing and updating Fluid templates in TYPO3
+Lesson 3 — Customizing the RTE for specific editing needs
 =========================================================
 
 

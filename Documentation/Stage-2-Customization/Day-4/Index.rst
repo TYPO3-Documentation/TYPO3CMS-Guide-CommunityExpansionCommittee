@@ -2,9 +2,9 @@
 
 .. _s2-d1
 
-===================================================================
-Day 4 — Working with Fluid templates and the RTE (Rich Text Editor)
-===================================================================
+=============================================================
+Day 4 — Working with Fluid templates and the Rich Text Editor
+=============================================================
 
 .. _s2-d1-lessons
 
@@ -42,9 +42,12 @@ Theoretical prerequisites
 
 This day assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* The basics and importance of TypoScript in TYPO3
+* How to set up Page templates using TypoScript
+* The process of creating website navigation, including menus and breadcrumbs, using TypoScript
+* The basics of configuring Backend Layouts in TYPO3
+* The concept and usage of Page TsConfig
+* The concept and usage of User TsConfig
 
 
 .. _s2-d4-practical-prerequisites
@@ -54,9 +57,12 @@ Practical prerequisites
 
 Before you start this day, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Setted up Page templates using TypoScript in a TYPO3 environment
+* Created website navigation elements such as menus and breadcrumbs using TypoScript
+* Configured and applied Backend Layouts to TYPO3 pages
+* Implemented and customized Page TsConfig settings
+* Implemented and customized User TsConfig settings
+* Applied TypoScript to enhance the functionality and layout of TYPO3 pages
 
 
 .. _s2-d4-goals

@@ -2,9 +2,9 @@
 
 .. _s3-d2-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+=========================================================================
+Lesson 6 — Validating environment configurations and migration strategies
+=========================================================================
 
 
 .. _s3-d2-l6-prerequisites-goals
@@ -55,9 +55,9 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the importance of validating environment configurations before deployment
+* Learn best practices for testing and validating migration strategies in TYPO3
+* Comprehend the impact of configuration and migration errors on deployment processes
 
 
 .. _s3-d2-l6-practical-goals
@@ -67,9 +67,9 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Test and validate TYPO3 environment configurations for consistency and correctness
+* Evaluate and verify the success of migration strategies across different environments
+* Implement automated validation processes within CI/CD pipelines to ensure reliability
 
 
 .. _s3-d2-l6-resources

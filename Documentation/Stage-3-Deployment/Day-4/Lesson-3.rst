@@ -2,9 +2,9 @@
 
 .. _s3-d4-l3
 
-====================
-Lesson 3 — ADD TITLE
-====================
+====================================================================
+Lesson 3 — Conducting effective code reviews and addressing feedback
+====================================================================
 
 
 .. _s3-d4-l3-prerequisites-goals

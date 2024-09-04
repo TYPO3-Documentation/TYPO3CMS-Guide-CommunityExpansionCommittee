@@ -2,9 +2,9 @@
 
 .. _s3-d2-l3
 
-====================
-Lesson 3 — ADD TITLE
-====================
+===================================================================
+Lesson 3 — Challenges of database versioning and migration in TYPO3
+===================================================================
 
 
 .. _s3-d2-l3-prerequisites-goals
@@ -55,9 +55,9 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the challenges associated with database versioning in TYPO3
+* Learn best practices for managing database migrations in a TYPO3 environment
+* Learn how to integrate database migrations into a CI/CD workflow
 
 
 .. _s3-d2-l3-practical-goals
@@ -67,9 +67,9 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Perform database versioning and migrations in TYPO3
+* Implement tools or scripts to automate database migrations
+* Test and validate the success of database migrations across different environments
 
 
 .. _s3-d2-l3-resources

@@ -42,9 +42,12 @@ Theoretical prerequisites
 
 This day assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* The basics and purpose of Fluid templates in TYPO3
+* How Fluid templates are used for creating custom designs
+* The process of managing Fluid templates within TYPO3
+* The basics of the WYSIWYG (What You See Is What You Get) Editor in TYPO3
+* How to customize the WYSIWYG Editor for different content editing needs
+* Various configuration options available for the WYSIWYG Editor
 
 
 .. _s2-d5-practical-prerequisites
@@ -54,9 +57,12 @@ Practical prerequisites
 
 Before you start this day, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Created and implemented Fluid templates for custom designs in TYPO3
+* Managed existing Fluid templates, including editing and updating them
+* Applied Fluid templates to pages and content elements in TYPO3
+* Customized the WYSIWYG Editor to suit specific content editing requirements
+* Configured different options and settings within the WYSIWYG Editor
+* Used the WYSIWYG Editor to create and edit content efficiently in TYPO3
 
 
 .. _s2-d5-goals

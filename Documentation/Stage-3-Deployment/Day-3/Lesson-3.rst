@@ -2,9 +2,9 @@
 
 .. _s3-d3-l3
 
-====================
-Lesson 3 — ADD TITLE
-====================
+==================================================================
+Lesson 3 — Backup techniques and the importance of data redundancy
+==================================================================
 
 
 .. _s3-d3-l3-prerequisites-goals

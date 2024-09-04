@@ -2,9 +2,9 @@
 
 .. _s2-d1-l1
 
-============================================================================
-Lesson 1 — Introduction to TYPO3 architecture: Backend and Frontend concepts
-============================================================================
+=====================================================
+Lesson 1 — TYPO3's architecture: Backend and Frontend
+=====================================================
 
 
 .. _s2-d1-l1-prerequisites-goals
@@ -55,9 +55,8 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand TYPO3 backend and frontend architecture.
+* Learn about backend modules and extensions.
 
 
 .. _s2-d1-l1-practical-goals
@@ -67,9 +66,7 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Set up and manage backend user access and permissions.
 
 
 .. _s2-d1-l1-resources

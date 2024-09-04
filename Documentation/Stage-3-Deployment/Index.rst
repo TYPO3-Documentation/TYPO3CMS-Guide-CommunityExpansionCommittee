@@ -11,7 +11,7 @@ Stage 3 — Deployment
 About this stage
 ================
 
-SHORT INTRODUCTORY TEXT
+This stage focuses on implementing continuous integration and deployment (CI/CD) with TYPO3. Over five days, participants learn CI/CD concepts, configuring TYPO3 for various environments, and advanced deployment strategies. Day 1 introduces CI/CD principles and effective workflows. Day 2 covers setting up testing environments and managing database migrations. Day 3 dives into advanced CI/CD techniques, including automated testing and backup strategies. Day 4 is dedicated to practical application and troubleshooting in CI/CD pipelines. Day 5 wraps up with project presentations, Q&A, and peer feedback to solidify the learning experience.
 
 .. toctree::
     :titlesonly:

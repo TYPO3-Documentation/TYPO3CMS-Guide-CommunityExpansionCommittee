@@ -2,9 +2,9 @@
 
 .. _s3-d4-l2
 
-====================
-Lesson 2 — ADD TITLE
-====================
+=========================================================================
+Lesson 2 — Implementing backup and recovery strategies in CD environments
+=========================================================================
 
 
 .. _s3-d4-l2-prerequisites-goals

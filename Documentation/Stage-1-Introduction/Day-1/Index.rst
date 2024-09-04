@@ -2,9 +2,9 @@
 
 .. _s1-d1
 
-=================
+=================================
 Day 1 — Introduction and concepts
-=================
+=================================
 
 .. _s1-d1-lessons
 
@@ -42,7 +42,7 @@ Theoretical prerequisites
 
 This day assumes that you already know the following:
 
-* :ref:`Theoretical Prerequisites for Stage 1 <_s1-theoretical-prerequisites>`
+* :ref:`Theoretical Prerequisites for Stage 1 <s1-theoretical-prerequisites>`
 
 .. _s1-d1-practical-prerequisites
 

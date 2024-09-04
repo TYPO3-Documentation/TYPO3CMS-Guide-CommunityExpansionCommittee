@@ -2,9 +2,9 @@
 
 .. _s2-d1-l5
 
-========================================================================
-Lesson 5 — Basic content management: adding and editing content elements
-========================================================================
+==============================================
+Lesson 5 — Adding and editing content elements
+==============================================
 
 
 .. _s2-d1-l5-prerequisites-goals
@@ -55,9 +55,9 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the types of content elements available in TYPO3
+* Learn how to add, edit, and manage content elements.
+* Explore how content elements are used within pages.
 
 
 .. _s2-d1-l5-practical-goals
@@ -67,9 +67,8 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Add, edit, and arrange content elements on TYPO3 pages
+* Customize content elements to meet specific design and content needs
 
 
 .. _s2-d1-l5-resources

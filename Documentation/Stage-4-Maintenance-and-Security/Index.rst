@@ -11,7 +11,7 @@ Stage 4 — Maintenance and Security
 About this stage
 ================
 
-SHORT INTRODUCTORY TEXT
+This stage is focused on maintaining and securing TYPO3 installations. Over five days, participants will delve into TYPO3 system architecture, security best practices, and upgrade processes. Day 1 introduces TYPO3 maintenance and security, including setting up secure environments and advanced user management. Day 2 focuses on performing upgrades, understanding TYPO3's release cycle, and managing custom code during upgrades. Day 3 covers advanced security settings, mitigating threats, and system monitoring. Day 4 emphasizes securing custom code, managing vulnerabilities, and applying security patches through hands-on workshops. Day 5 concludes with crisis management, including responding to security incidents, recovery techniques, and conducting post-mortem analysis, ensuring participants are well-prepared to handle real-world security challenges in TYPO3.
 
 .. toctree::
     :titlesonly:

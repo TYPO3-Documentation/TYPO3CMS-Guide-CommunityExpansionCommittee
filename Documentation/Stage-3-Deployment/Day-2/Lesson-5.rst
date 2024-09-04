@@ -2,9 +2,9 @@
 
 .. _s3-d2-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+============================================================
+Lesson 5 — Automating database migrations during deployments
+============================================================
 
 
 .. _s3-d2-l5-prerequisites-goals
@@ -55,9 +55,9 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the importance of automating database migrations during deployments
+* Learn best practices for integrating database migrations into CI/CD pipelines
+* Comprehend the potential risks and how to mitigate them during automated migrations
 
 
 .. _s3-d2-l5-practical-goals
@@ -67,9 +67,9 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement and configure automated database migrations in a TYPO3 deployment pipeline
+* Ensure that migrations are triggered and executed automatically during deployments
+* Test and validate the automation process to ensure reliability and data integrity
 
 
 .. _s3-d2-l5-resources

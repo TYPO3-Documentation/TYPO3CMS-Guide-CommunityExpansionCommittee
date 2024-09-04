@@ -2,9 +2,9 @@
 
 .. _s3-d3-l4
 
-====================
-Lesson 4 — ADD TITLE
-====================
+============================================================
+Lesson 4 — Planning and executing backups in CD environments
+============================================================
 
 
 .. _s3-d3-l4-prerequisites-goals

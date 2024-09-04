@@ -2,9 +2,9 @@
 
 .. _s3-d5-l2
 
-====================
-Lesson 2 — ADD TITLE
-====================
+===================================================================================================
+Lesson 2 — Clarifying questions about environment setup, database management, and automated testing
+===================================================================================================
 
 
 .. _s3-d5-l2-prerequisites-goals

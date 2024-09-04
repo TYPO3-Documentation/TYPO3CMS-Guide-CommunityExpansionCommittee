@@ -2,9 +2,9 @@
 
 .. _s1-d1-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+=============================================================
+Lesson 6 — Introduction to Composer and dependency management
+=============================================================
 
 
 .. _s1-d1-l6-prerequisites-goals
