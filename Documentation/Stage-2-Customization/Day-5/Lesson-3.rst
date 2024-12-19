@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the relationship between site packages and frontend rendering
+* Master the concepts of template organization within extensions
+* Learn about asset management and distribution in site packages
+* Understand responsive design implementation in TYPO3 extensions
 
 
 .. _s2-d5-l3-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Successfully implement design templates in the site package
+* Configure proper asset inclusion and distribution
+* Demonstrate proficiency in responsive layout implementation
+* Apply proper template override and customization techniques
 
 
 .. _s2-d5-l3-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand content element configuration in site packages
+* Master the concepts of backend layouts and content areas
+* Learn about form configuration and custom field types
+* Understand content rendering and templating options
 
 
 .. _s2-d5-l3-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Successfully configure content elements for the site package
+* Set up backend layouts and content area definitions
+* Demonstrate proficiency in form configuration implementation
+* Apply proper content rendering templates
 
 
 .. _s2-d5-l3-resources

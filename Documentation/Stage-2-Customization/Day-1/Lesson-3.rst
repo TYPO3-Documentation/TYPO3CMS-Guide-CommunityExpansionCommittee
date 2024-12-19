@@ -26,9 +26,9 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the purpose of TYPO3 backend modules
+* Learn about the key TYPO3 backend modules and their functions
+* Explore how backend modules integrate with extensions
 
 
 .. _s2-d1-l3-practical-prerequisites
@@ -38,9 +38,8 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Navigate and utilize the core TYPO3 backend modules
+* Customize and configure backend modules to suit specific project needs.
 
 
 .. _s2-d1-l3-goals

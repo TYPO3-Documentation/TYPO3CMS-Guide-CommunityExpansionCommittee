@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand TYPO3 security concepts and best practices
+* Master the principles of user authentication and authorization
+* Learn about role-based access control implementation
+* Understand security audit and monitoring processes
 
 
 .. _s2-d5-l6-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Successfully implement secure user authentication
+* Configure proper role-based access controls
+* Demonstrate proficiency in security monitoring setup
+* Apply security best practices and auditing procedures
 
 
 .. _s2-d5-l6-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand comprehensive site package development workflow
+* Master the integration of all previously learned concepts
+* Learn about testing and quality assurance processes
+* Understand deployment and maintenance strategies
 
 
 .. _s2-d5-l6-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Successfully create a complete site package from scratch
+* Implement all necessary configurations and features
+* Demonstrate proficiency in testing and debugging
+* Apply proper documentation and maintenance procedures
 
 
 .. _s2-d5-l6-resources
