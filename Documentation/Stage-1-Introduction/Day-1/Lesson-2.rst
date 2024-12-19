@@ -83,6 +83,10 @@ Learning resources
 
 * `TYPO3 Documentation <https://docs.typo3.org>`__
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Smart Content Management by TYPO3 <https://typo3.org/cms/features/smart-content-management>`__
+* `The strength of TYPO3 and possible use cases <https://www.alfaitoutsourcing.de/en/typo3-in-a-nutshell-the-strengths-possible-use-cases-and-future-of-the-cms/#:~:text=The%20advantages%20of%20Typo3,-Typo3%20convinces%20with&text=Flexibility%20and%20adaptability%3A%20the%20modular,preferred%20solution%20for%20global%20companies.>`__
+* `The TYPO3 Backend and Login <https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Concepts/Backend/Index.html>`__
+*
 
 
 .. _s1-d1-l2-teacher
