@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s5-d2-l3
+.. _s0-d2-l1
 
 ====================
-Lesson 3 — ADD TITLE
+Lesson 1 — ADD TITLE
 ====================
 
 
-.. _s5-d2-l3-prerequisites-goals
+.. _s0-d2-l1-prerequisites-goals
 
 Prerequisites and goals
 =======================
 
 
-.. _s5-d2-l3-prerequisites
+.. _s0-d2-l1-prerequisites
 
 Prerequisites
 -------------
 
 
-.. _s5-d2-l3-theoretical-prerequisites
+.. _s0-d2-l1-theoretical-prerequisites
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -31,7 +31,7 @@ This lesson assumes that you already know the following:
 * Item 3
 
 
-.. _s5-d2-l3-practical-prerequisites
+.. _s0-d2-l1-practical-prerequisites
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,12 +43,12 @@ Before you start this lesson, please have the following things ready:
 * Item 3
 
 
-.. _s5-d2-l3-goals
+.. _s5-d2-l1-goals
 
 Goals
 -----
 
-.. _s5-d2-l3-theoretical-goals
+.. _s5-d2-l1-theoretical-goals
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -60,7 +60,7 @@ By the end of this lesson, you should know the following:
 * Item 3
 
 
-.. _s5-d2-l3-practical-goals
+.. _s5-d2-l1-practical-goals
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -72,7 +72,7 @@ By the end of this lesson, you should have completed the following:
 * Item 3
 
 
-.. _s5-d2-l3-resources
+.. _s5-d2-l1-resources
 
 Learning resources
 ==================
@@ -81,13 +81,13 @@ Learning resources
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s5-d2-l3-teacher
+.. _s5-d2-l1-teacher
 
 Teacher's instructions
 ======================
 
 
-.. _s5-d2-l3-student
+.. _s5-d2-l1-student
 
 Student's instructions
 ======================

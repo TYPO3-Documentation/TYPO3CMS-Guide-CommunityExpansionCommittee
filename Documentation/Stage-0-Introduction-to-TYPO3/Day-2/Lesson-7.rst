@@ -1,19 +1,19 @@
 .. include:: /Includes.rst.txt
 
-.. _s5-d2-l7
+.. _s0-d2-l7
 
 =============================
 Lesson 7 — Recap and Catch-Up
 =============================
 
 
-.. _s5-d2-l7-prerequisites-goals
+.. _s0-d2-l7-prerequisites-goals
 
 Prerequisites and goals
 =======================
 
 
-.. _s5-d2-l7-prerequisites
+.. _s0-d2-l7-prerequisites
 
 Prerequisites
 -------------

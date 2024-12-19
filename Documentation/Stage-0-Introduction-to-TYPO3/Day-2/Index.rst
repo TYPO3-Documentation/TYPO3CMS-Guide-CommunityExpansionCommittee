@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s5-d1
+.. _s0-d1
 
 =================
 Day 2 — ADD TITLE
 =================
 
-.. _s5-d1-lessons
+.. _s0-d1-lessons
 
 Today's lessons
 ===============
@@ -23,19 +23,19 @@ Today's lessons
     Lesson-7
 
 
-.. _s5-d2-prerequisites-goals
+.. _s0-d2-prerequisites-goals
 
 Prerequisites and goals
 =======================
 
 
-.. _s5-d2-prerequisites
+.. _s0-d2-prerequisites
 
 Prerequisites
 -------------
 
 
-.. _s5-d2-theoretical-prerequisites
+.. _s0-d2-theoretical-prerequisites
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,7 +47,7 @@ This day assumes that you already know the following:
 * Item 3
 
 
-.. _s5-d2-practical-prerequisites
+.. _s0-d2-practical-prerequisites
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -59,12 +59,12 @@ Before you start this day, please have the following things ready:
 * Item 3
 
 
-.. _s5-d2-goals
+.. _s0-d2-goals
 
 Goals
 -----
 
-.. _s5-d2-theoretical-goals
+.. _s0-d2-theoretical-goals
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this day, you should know the following:
 * Item 3
 
 
-.. _s5-d2-practical-goals
+.. _s0-d2-practical-goals
 
 Practical goals
 ~~~~~~~~~~~~~~~
