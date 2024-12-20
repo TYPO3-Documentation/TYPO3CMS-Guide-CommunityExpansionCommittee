@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand content element configuration in site packages
+* Master the concepts of backend layouts and content areas
+* Learn about form configuration and custom field types
+* Understand content rendering and templating options
 
 
 .. _s2-d5-l4-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Successfully configure content elements for the site package
+* Set up backend layouts and content area definitions
+* Demonstrate proficiency in form configuration implementation
+* Apply proper content rendering templates
 
 
 .. _s2-d5-l4-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand TYPO3 caching mechanisms and strategies
+* Master the concepts of asset optimization and delivery
+* Learn about database query optimization techniques
+* Understand frontend performance best practices
 
 
 .. _s2-d5-l4-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Successfully implement caching strategies
+* Configure proper asset optimization settings
+* Demonstrate proficiency in database optimization
+* Apply performance monitoring and improvement techniques
 
 
 .. _s2-d5-l4-resources

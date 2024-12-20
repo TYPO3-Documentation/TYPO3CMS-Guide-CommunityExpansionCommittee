@@ -2,9 +2,9 @@
 
 .. _s2-d3-l2
 
-=====================================================
-Lesson 2 — Setting up page templates using TypoScript
-=====================================================
+===================================================
+Lesson 2 — Building page templates using TypoScript
+===================================================
 
 
 .. _s2-d3-l2-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand TypoScript syntax, including objects, properties, operators, and conditions
+* Master the concept of TypoScript hierarchies and template inheritance in TYPO3
+* Learn about the role of TypoScript in TYPO3's configuration and templating system
+* Understand how TypoScript integrates with other TYPO3 components and templates
 
 
 .. _s2-d3-l2-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Successfully write and test basic TypoScript code in the template module
+* Create and modify TypoScript constants and setup configurations
+* Demonstrate the ability to use TypoScript conditions and operators effectively
+* Apply debugging techniques to troubleshoot TypoScript configurations
 
 
 .. _s2-d3-l2-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the structure of PAGE object and its configuration options in TypoScript
+* Master the concepts of fluid templates integration with TypoScript
+* Learn about content rendering configurations and template paths
+* Understand how to manage static and dynamic page elements through TypoScript
 
 
 .. _s2-d3-l2-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Successfully create and configure a basic page template using TypoScript
+* Set up proper template file paths and configurations for Fluid templates
+* Demonstrate proficiency in integrating content elements within templates
+* Apply proper template inheritance and override techniques
 
 
 .. _s2-d3-l2-resources

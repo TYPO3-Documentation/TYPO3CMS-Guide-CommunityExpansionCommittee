@@ -26,10 +26,8 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* The knowledge required by the theoretical prerequisites of previous curriculum stages
+* The theoretical knowledge goals of the previous curriculum stages
 
 .. _s2-d1-l1-practical-prerequisites
 
@@ -38,10 +36,8 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
-
+* The knowledge required by the practical prerequisites of previous curriculum stages
+* The practical knowledge goals of the previous curriculum stage
 
 .. _s2-d1-l1-goals
 

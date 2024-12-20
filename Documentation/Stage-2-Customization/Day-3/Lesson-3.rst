@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the structure of PAGE object and its configuration options in TypoScript
+* Master the concepts of fluid templates integration with TypoScript
+* Learn about content rendering configurations and template paths
+* Understand how to manage static and dynamic page elements through TypoScript
 
 
 .. _s2-d3-l3-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Successfully create and configure a basic page template using TypoScript
+* Set up proper template file paths and configurations for Fluid templates
+* Demonstrate proficiency in integrating content elements within templates
+* Apply proper template inheritance and override techniques
 
 
 .. _s2-d3-l3-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the HMENU object and its various menu types in TypoScript
+* Master the concepts of menu states and special menu configurations
+* Learn about breadcrumb navigation implementation and customization options
+* Understand how to handle multi-level navigation structures in TYPO3
 
 
 .. _s2-d3-l3-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Successfully create and configure main navigation menus using TypoScript
+* Build and customize breadcrumb navigation for different page types
+* Demonstrate proficiency in handling special menu items and states
+* Apply proper styling and behavior configurations to navigation elements
 
 
 .. _s2-d3-l3-resources

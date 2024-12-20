@@ -26,9 +26,9 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand what TYPO3 extensions are and their role in extending functionality
+* Learn how to find, install, and update TYPO3 extensions
+* Explore the TYPO3 Extension Manager and its features
 
 
 .. _s2-d1-l4-practical-prerequisites
@@ -38,9 +38,8 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Install, configure, and manage TYPO3 extensions
+* Remove or disable extensions as needed
 
 
 .. _s2-d1-l4-goals
