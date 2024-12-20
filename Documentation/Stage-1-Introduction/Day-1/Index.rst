@@ -84,6 +84,6 @@ Practical goals
 By the end of this day, you should have completed the following:
 
 * You have shown that you meet the practical prerequisites
-* You have shown that you meet the Theoretical prerequisites
+* You have shown that you meet the theoretical prerequisites
 * You have shown that you understand the basic concepts behind TYPO3
 * You have been introduced to the different documentation sources
