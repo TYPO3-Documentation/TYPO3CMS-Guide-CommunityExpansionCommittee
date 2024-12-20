@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the RTE configuration structure and options in TYPO3
+* Master the concepts of RTE presets and their implementation
+* Learn about configuration inheritance and override mechanisms
+* Understand how to optimize RTE settings for different use cases
 
 
 .. _s2-d4-l3-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Successfully create and modify RTE configuration presets
+* Implement custom toolbar configurations for different content types
+* Demonstrate proficiency in managing RTE behavior settings
+* Apply proper configuration strategies for different user groups
 
 
 .. _s2-d4-l3-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand advanced RTE customization options and their impact
+* Master the concepts of content transformation and processing
+* Learn about custom plugin integration with the RTE
+* Understand how to implement content validation rules
 
 
 .. _s2-d4-l3-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Successfully implement custom styling options in the RTE
+* Configure content processing rules for specific needs
+* Demonstrate proficiency in extending RTE functionality
+* Apply proper validation and content cleaning rules
 
 
 .. _s2-d4-l3-resources

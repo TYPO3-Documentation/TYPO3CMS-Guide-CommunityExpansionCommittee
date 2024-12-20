@@ -26,9 +26,8 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand TYPO3 backend and frontend architecture.
+* Learn about backend modules and extensions.
 
 
 .. _s2-d1-l2-practical-prerequisites
@@ -38,9 +37,7 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Set up and manage backend user access and permissions.
 
 
 .. _s2-d1-l2-goals

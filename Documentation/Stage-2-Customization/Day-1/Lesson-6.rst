@@ -26,9 +26,9 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the types of content elements available in TYPO3
+* Learn how to add, edit, and manage content elements.
+* Explore how content elements are used within pages.
 
 
 .. _s2-d1-l6-practical-prerequisites
@@ -38,9 +38,8 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Add, edit, and arrange content elements on TYPO3 pages
+* Customize content elements to meet specific design and content needs
 
 
 .. _s2-d1-l6-goals
