@@ -2,9 +2,9 @@
 
 .. _s4-d1-l5
 
-====================
+===========================================================
 Lesson 5 — Implementing Security Measures for Initial Setup
-====================
+===========================================================
 
 
 .. _s4-d1-l5-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand security header concepts and purposes
+* Learn about common web vulnerabilities and protections
+* Master database security principles
+* Understand session handling security
 
 
 .. _s4-d1-l5-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Configure security headers for TYPO3
+* Implement XSS and CSRF protections
+* Secure database connections and queries
+* Set up secure session handling
 
 
 .. _s4-d1-l5-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand baseline security configurations
+* Learn about firewall integration with TYPO3
+* Master security extension concepts
+* Understand security monitoring principles
 
 
 .. _s4-d1-l5-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement security baseline settings
+* Configure firewall rules for TYPO3
+* Install and configure security extensions
+* Set up security monitoring tools
 
 
 .. _s4-d1-l5-resources

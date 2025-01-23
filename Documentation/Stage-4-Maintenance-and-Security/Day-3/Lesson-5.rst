@@ -2,9 +2,9 @@
 
 .. _s4-d3-l5
 
-====================
+==========================================================
 Lesson 5 — Automating Security Reports and Incident Alerts
-====================
+==========================================================
 
 
 .. _s4-d3-l5-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand system monitoring principles and tools
+* Learn effective log management strategies
+* Master security event monitoring techniques
+* Comprehend log analysis and threat detection
 
 
 .. _s4-d3-l5-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Set up comprehensive system monitoring tools
+* Configure effective log management systems
+* Implement security event monitoring and alerts
+* Deploy log analysis for threat detection
 
 
 .. _s4-d3-l5-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand security reporting automation principles
+* Learn alert system configuration and management
+* Master incident response automation techniques
+* Comprehend security metrics and reporting standards
 
 
 .. _s4-d3-l5-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Configure automated security report generation
+* Implement automated security alert systems
+* Set up incident response automation tools
+* Deploy security metrics tracking and reporting
 
 
 .. _s4-d3-l5-resources

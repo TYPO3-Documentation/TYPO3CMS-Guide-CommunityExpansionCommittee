@@ -2,9 +2,9 @@
 
 .. _s4-d1-l2
 
-====================
+=====================================
 Lesson 2 — TYPO3 Maintenance Overview
-====================
+=====================================
 
 
 .. _s4-d1-l2-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Master TYPO3's folder structure and core system components
+* Understand the extension system and bootstrapping process
+* Learn about the caching framework and configuration layers
+* Grasp TYPO3's database structure and request handling
 
 
 .. _s4-d1-l2-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Navigate and manage TYPO3's file system structure
+* Configure basic system settings through LocalConfiguration.php
+* Set up and verify proper caching behavior
+* Implement basic system optimization techniques
 
 
 .. _s4-d1-l2-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand key maintenance areas and their importance
+* Learn about the Scheduler system and task types
+* Master system cleanup and optimization concepts
+* Understand logging and error handling systems
 
 
 .. _s4-d1-l2-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Create and schedule automated maintenance tasks
+* Implement database cleanup and optimization routines
+* Configure error logging and monitoring
+* Perform system updates and extensions maintenance
 
 
 .. _s4-d1-l2-resources

@@ -2,9 +2,9 @@
 
 .. _s4-d1-l4
 
-====================
+==========================================
 Lesson 4 — Security Configuration in TYPO3
-====================
+==========================================
 
 
 .. _s4-d1-l4-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand TYPO3's security architecture components
+* Learn about server environment security requirements
+* Master access control fundamentals in TYPO3
+* Understand encryption and SSL concepts
 
 
 .. _s4-d1-l4-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Configure secure file and folder permissions
+* Set up SSL certificates and HTTPS
+* Implement basic access restrictions
+* Secure the TYPO3 Install Tool
 
 
 .. _s4-d1-l4-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand security header concepts and purposes
+* Learn about common web vulnerabilities and protections
+* Master database security principles
+* Understand session handling security
 
 
 .. _s4-d1-l4-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Configure security headers for TYPO3
+* Implement XSS and CSRF protections
+* Secure database connections and queries
+* Set up secure session handling
 
 
 .. _s4-d1-l4-resources

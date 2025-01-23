@@ -2,9 +2,9 @@
 
 .. _s4-d4-l5
 
-====================
+=========================================================================
 Lesson 5 — Guidelines for Developing Secure TYPO3 Extensions from Scratch
-====================
+=========================================================================
 
 
 .. _s4-d4-l5-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand TYPO3 patch deployment prerequisites
+* Learn systematic patch testing methodologies
+* Master patch verification and validation techniques
+* Study post-patch system integrity checks
 
 
 .. _s4-d4-l5-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Deploy security patches following TYPO3 guidelines
+* Perform comprehensive patch testing procedures
+* Validate patch implementation and effectiveness
+* Execute system verification after patch deployment
 
 
 .. _s4-d4-l5-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand secure TYPO3 extension development principles
+* Learn extension security testing methodologies
+* Master secure data handling in extensions
+* Study extension deployment security procedures
 
 
 .. _s4-d4-l5-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Develop extensions using TYPO3 security guidelines
+* Implement comprehensive extension security testing
+* Create secure data handling mechanisms
+* Deploy extensions with security verifications
 
 
 .. _s4-d4-l5-resources

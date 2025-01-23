@@ -2,9 +2,9 @@
 
 .. _s4-d4-l2
 
-====================
+======================================================================
 Lesson 2 — Steps to Address and Document Vulnerabilities in TYPO3 Core
-====================
+======================================================================
 
 
 .. _s4-d4-l2-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand TYPO3 custom code security architecture and principles
+* Learn comprehensive input validation and security methods
+* Master secure API usage in custom TYPO3 code
+* Study extension security testing and validation approaches
 
 
 .. _s4-d4-l2-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement security patterns in TYPO3 custom development
+* Apply comprehensive input validation across custom code
+* Create secure API implementations for custom features
+* Test custom code against TYPO3 security standards
 
 
 .. _s4-d4-l2-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Master TYPO3 core vulnerability assessment methods
+* Learn standardized security documentation procedures in TYPO3
+* Understand vulnerability reporting channels and processes
+* Study core security patch verification techniques
 
 
 .. _s4-d4-l2-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Document core vulnerabilities following TYPO3 security standards
+* Process and report security issues through channels
+* Apply vulnerability assessment techniques to core issues
+* Verify and validate core security fixes
 
 
 .. _s4-d4-l2-resources
