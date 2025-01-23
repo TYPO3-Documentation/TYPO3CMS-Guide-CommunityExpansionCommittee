@@ -2,9 +2,9 @@
 
 .. _s4-d5-l3
 
-====================
+================================================================================
 Lesson 3 — Navigating Legal and Regulatory Requirements During Security Breaches
-====================
+================================================================================
 
 
 .. _s4-d5-l3-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand effective security incident communication chains
+* Learn stakeholder management during security incidents
+* Master internal and external communication protocols
+* Study collaborative incident response methodologies
 
 
 .. _s4-d5-l3-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Establish clear communication channels during security incidents
+* Execute stakeholder communication plans effectively
+* Implement incident response collaboration procedures
+* Document security incident communication processes
 
 
 .. _s4-d5-l3-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand data protection laws affecting TYPO3 environments
+* Learn breach notification requirements and timelines
+* Master compliance documentation during security incidents
+* Study legal implications of security breach responses
 
 
 .. _s4-d5-l3-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Execute required legal notification procedures for breaches
+* Implement compliance documentation during security incidents
+* Apply data protection requirements during incident response
+* Maintain legal compliance throughout breach management
 
 
 .. _s4-d5-l3-resources

@@ -2,9 +2,9 @@
 
 .. _s4-d4-l3
 
-====================
+======================================================================
 Lesson 3 — Strategies for Effective Security Patch Management in TYPO3
-====================
+======================================================================
 
 
 .. _s4-d4-l3-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Master TYPO3 core vulnerability assessment methods
+* Learn standardized security documentation procedures in TYPO3
+* Understand vulnerability reporting channels and processes
+* Study core security patch verification techniques
 
 
 .. _s4-d4-l3-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Document core vulnerabilities following TYPO3 security standards
+* Process and report security issues through channels
+* Apply vulnerability assessment techniques to core issues
+* Verify and validate core security fixes
 
 
 .. _s4-d4-l3-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand TYPO3 security patch implementation strategies
+* Learn patch testing workflows and verification methods
+* Master patch rollback and recovery procedures
+* Study security patch documentation requirements
 
 
 .. _s4-d4-l3-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement systematic TYPO3 patch management processes
+* Test security patches in controlled environments
+* Execute patch deployment following TYPO3 standards
+* Document complete patch implementation procedures
 
 
 .. _s4-d4-l3-resources

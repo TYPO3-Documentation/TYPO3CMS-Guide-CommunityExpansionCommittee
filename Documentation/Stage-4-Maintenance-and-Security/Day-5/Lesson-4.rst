@@ -2,9 +2,9 @@
 
 .. _s4-d5-l4
 
-====================
+======================================================================
 Lesson 4 — Techniques for Recovery and Conducting Post-Mortem Analysis
-====================
+======================================================================
 
 
 .. _s4-d5-l4-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand data protection laws affecting TYPO3 environments
+* Learn breach notification requirements and timelines
+* Master compliance documentation during security incidents
+* Study legal implications of security breach responses
 
 
 .. _s4-d5-l4-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Execute required legal notification procedures for breaches
+* Implement compliance documentation during security incidents
+* Apply data protection requirements during incident response
+* Maintain legal compliance throughout breach management
 
 
 .. _s4-d5-l4-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand system recovery methodologies after security breaches
+* Learn effective post-mortem analysis techniques
+* Master incident documentation and reporting procedures
+* Study improvement identification from security incidents
 
 
 .. _s4-d5-l4-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Execute system recovery procedures following security breaches
+* Perform comprehensive post-mortem analysis of incidents
+* Create detailed incident reports and documentation
+* Implement identified security improvements from analysis
 
 
 .. _s4-d5-l4-resources

@@ -2,9 +2,9 @@
 
 .. _s4-d3-l4
 
-====================
+=====================================================
 Lesson 4 — Monitoring TYPO3 Systems and Managing Logs
-====================
+=====================================================
 
 
 .. _s4-d3-l4-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand SSL/TLS protocols and certificate management
+* Learn secure communication principles in TYPO3
+* Master HTTPS implementation requirements and best practices
+* Comprehend encryption methods and their applications
 
 
 .. _s4-d3-l4-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Configure SSL certificates for TYPO3 installations
+* Implement secure communication protocols across system
+* Set up HTTPS enforcement and redirect rules
+* Deploy encryption for sensitive data transmission
 
 
 .. _s4-d3-l4-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand system monitoring principles and tools
+* Learn effective log management strategies
+* Master security event monitoring techniques
+* Comprehend log analysis and threat detection
 
 
 .. _s4-d3-l4-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Set up comprehensive system monitoring tools
+* Configure effective log management systems
+* Implement security event monitoring and alerts
+* Deploy log analysis for threat detection
 
 
 .. _s4-d3-l4-resources
