@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand feedback implementation strategies
+* Learn continuous improvement principles
+* Master project refinement techniques
+* Study solution optimization approaches
 
 
 .. _s3-d5-l6-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement peer feedback effectively
+* Apply improvements to project implementation
+* Optimize solutions based on suggestions
+* Enhance project quality through revisions
 
 
 .. _s3-d5-l6-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand effective knowledge sharing techniques
+* Learn reflection best practices
+* Master experience documentation methods
+* Study learning process evaluation approaches
 
 
 .. _s3-d5-l6-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Share key learning insights effectively
+* Document personal growth and challenges
+* Apply lessons learned to future projects
+* Demonstrate understanding through practical examples
 
 
 .. _s3-d5-l6-resources

@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand different types of automated testing
+* Learn test suite organization and management
+* Master test coverage analysis methods
+* Study continuous testing integration approaches
 
 
 .. _s3-d3-l3-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Set up automated testing tools for TYPO3
+* Create comprehensive test suites for applications
+* Implement test coverage monitoring systems
+* Integrate automated tests into CI/CD pipelines
 
 
 .. _s3-d3-l3-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand backup strategies and redundancy principles
+* Learn data integrity verification methods
+* Master backup scheduling and retention policies
+* Study disaster recovery planning approaches
 
 
 .. _s3-d3-l3-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement automated backup procedures for TYPO3
+* Configure data redundancy systems across environments
+* Set up backup verification and testing
+* Create disaster recovery procedures
 
 
 .. _s3-d3-l3-resources
