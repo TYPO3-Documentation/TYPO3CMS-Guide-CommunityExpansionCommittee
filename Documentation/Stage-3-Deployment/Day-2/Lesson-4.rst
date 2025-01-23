@@ -26,9 +26,9 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand the challenges associated with database versioning in TYPO3
+* Learn best practices for managing database migrations in a TYPO3 environment
+* Learn how to integrate database migrations into a CI/CD workflow
 
 
 .. _s3-d2-l4-practical-prerequisites
@@ -38,9 +38,9 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Perform database versioning and migrations in TYPO3
+* Implement tools or scripts to automate database migrations
+* Test and validate the success of database migrations across different environments
 
 
 .. _s3-d2-l4-goals
