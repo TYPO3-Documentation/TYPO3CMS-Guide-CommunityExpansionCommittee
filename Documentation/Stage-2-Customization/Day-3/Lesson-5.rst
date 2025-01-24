@@ -81,8 +81,7 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Page TSconfig <https://docs.typo3.org/m/typo3/reference-typoscript/main/en-us/PageTsconfig/Index.html>`__
 
 
 .. _s2-d3-l5-teacher
