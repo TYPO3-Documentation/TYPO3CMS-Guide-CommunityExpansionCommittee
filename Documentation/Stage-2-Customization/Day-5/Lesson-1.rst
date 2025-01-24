@@ -85,8 +85,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `TYPO3 site package tutorial <https://docs.typo3.org/m/typo3/tutorial-sitepackage/main/en-us/Index.html>`__
+* `Generate a site package <https://docs.typo3.org/m/typo3/tutorial-sitepackage/main/en-us/MinimalExample/Index.html#minimal-design>`__
+* `Coding guidelines
+ <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/CodingGuidelines/>`__
 
 
 .. _s2-d5-l1-teacher

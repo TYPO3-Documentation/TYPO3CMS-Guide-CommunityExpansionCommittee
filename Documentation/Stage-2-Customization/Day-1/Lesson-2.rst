@@ -71,8 +71,14 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Backend GUI <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/Backend/BackendModules/BackendGUI.html#backend-gui>`__
+* `Page Module <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/PageModule/Index.html>`__
+* `List Module <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/ListModule/Index.html>`__
+* `Filelist Module <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/FileModule/Index.html>`__
+* `Site Management modules <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/SiteManagement/Index.html>`__
+* `Info module <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/InfoModule/Index.html>`__
+* `Admin Tools <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/AdminTools/Index.html>`__
+* `System modules <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/SystemModules/Index.html>`__
 
 
 .. _s2-d1-l2-teacher

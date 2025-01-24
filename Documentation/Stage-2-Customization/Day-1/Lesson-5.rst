@@ -75,8 +75,9 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Content Elements <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/PageModule/Index.html>`__
+* `Adding Content To A Page <https://www.youtube.com/watch?v=RuQ4CikixdY&list=PL-sDBIrOKGOaguYrZbJebKIEgoIxCnN4V&index=6>`__
+* `Changing A Content Element Type <https://www.youtube.com/watch?v=JR3sOeRImTo&list=PL-sDBIrOKGOaguYrZbJebKIEgoIxCnN4V&index=7>`__
 
 
 .. _s2-d1-l5-teacher

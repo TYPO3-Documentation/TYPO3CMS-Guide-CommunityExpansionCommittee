@@ -81,8 +81,9 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Forms - The basics <https://docs.typo3.org/c/typo3/cms-form/main/en-us/E/Index.html>`__
+* `How to Create a Form <https://docs.typo3.org/c/typo3/cms-form/main/en-us/E/Tutorials/BasicForm/Index.html#create-a-basic-contact-form>`__
+* `Forms - A Quick Start <https://docs.typo3.org/c/typo3/cms-form/main/en-us/QuickStartForEditors/Index.html>`__
 
 
 .. _s2-d2-l4-teacher
