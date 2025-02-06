@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* How to install and configure the Bootstrap Package extension for the newly created TYPO3 project
+* How to add components for your TYPO3 project
+* How to customize the layout for your TYPO3 project
+* How tu use advanced Bootstrap features
 
 
 .. _s1-d5-l1-practical-prerequisites
@@ -38,9 +39,9 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Installed and configured a Bootstrap based Frontend for your TYPO3 project
+* Added Bootstrap components to your project
+* Customized the layout of your TYPO3 project
 
 
 .. _s1-d5-l1-goals
@@ -55,9 +56,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Review DDEV architecture and configuration requirements
+* Review troubleshooting techniques for DDEV installations
+* Review DDEV environment optimization strategies
+* Review DDEV best practices and common pitfalls
 
 
 .. _s1-d5-l1-practical-goals
@@ -67,9 +69,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Verify DDEV installation and configuration completeness
+* Optimize DDEV settings for local development
+* Resolve common DDEV configuration issues
+* Test DDEV environment functionality
 
 
 .. _s1-d5-l1-resources

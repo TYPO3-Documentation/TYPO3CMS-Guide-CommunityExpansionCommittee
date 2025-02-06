@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand TYPO3 project configuration requirements
+* Learn about Composer scripts for TYPO3
+* Master TYPO3 extension management through Composer
+* Study TYPO3 environment configuration approaches
 
 
 .. _s1-d3-l3-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Configure TYPO3 project settings using Composer
+* Set up custom Composer scripts for TYPO3
+* Manage TYPO3 extensions with Composer
+* Implement environment-specific configurations
 
 
 .. _s1-d3-l3-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand Git version control for TYPO3
+* Learn Git workflow basics for web projects
+* Master Git terminology and commands
+* Study version control best practices
 
 
 .. _s1-d3-l3-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Initialize Git for TYPO3 project management
+* Execute basic Git commands for version control
+* Create proper Git ignore rules
+* Set up Git configuration for TYPO3
 
 
 .. _s1-d3-l3-resources

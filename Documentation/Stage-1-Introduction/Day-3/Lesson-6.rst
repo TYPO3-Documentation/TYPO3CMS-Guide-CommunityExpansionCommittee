@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand Git clone process and options
+* Learn local repository management techniques
+* Master remote repository interaction concepts
+* Study development environment integration practices
 
 
 .. _s1-d3-l6-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Clone TYPO3 project repository successfully
+* Configure local repository settings
+* Set up remote repository connections
+* Verify repository functionality in development environment
 
 
 .. _s1-d3-l6-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand TYPO3 commit message conventions
+* Learn proper Git commit practices
+* Master change tracking and documentation
+* Study collaborative development procedures
 
 
 .. _s1-d3-l6-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Write proper TYPO3 commit messages
+* Commit changes following TYPO3 guidelines
+* Push updates to remote repository
+* Maintain clear change documentation
 
 
 .. _s1-d3-l6-resources

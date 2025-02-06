@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand TYPO3 development workflow in DDEV
+* Learn debugging techniques in DDEV environment
+* Master DDEV command usage for TYPO3
+* Study DDEV tools for TYPO3 development
 
 
 .. _s1-d2-l6-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Develop TYPO3 features using DDEV
+* Debug TYPO3 issues in DDEV
+* Use DDEV commands for TYPO3
+* Manage TYPO3 development workflow
 
 
 .. _s1-d2-l6-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand complete TYPO3 installation process
+* Learn troubleshooting installation issues
+* Master TYPO3 configuration in DDEV
+* Study post-installation setup steps
 
 
 .. _s1-d2-l6-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Complete TYPO3 installation in DDEV
+* Resolve common installation issues
+* Configure TYPO3 installation settings
+* Verify TYPO3 installation functionality
 
 
 .. _s1-d2-l6-resources
