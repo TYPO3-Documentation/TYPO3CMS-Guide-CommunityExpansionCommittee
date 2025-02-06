@@ -2,9 +2,9 @@
 
 .. _s4-d1-l6
 
-====================
+=========================================================
 Lesson 6 — Advanced User Management and Security Policies
-====================
+=========================================================
 
 
 .. _s4-d1-l6-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand baseline security configurations
+* Learn about firewall integration with TYPO3
+* Master security extension concepts
+* Understand security monitoring principles
 
 
 .. _s4-d1-l6-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement security baseline settings
+* Configure firewall rules for TYPO3
+* Install and configure security extensions
+* Set up security monitoring tools
 
 
 .. _s4-d1-l6-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand role-based access control principles
+* Learn about authentication methods and workflows
+* Master user permission inheritance concepts
+* Understand security policy frameworks
 
 
 .. _s4-d1-l6-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Create and manage user roles and groups
+* Implement advanced authentication methods
+* Configure granular permissions
+* Develop and implement security policies
 
 
 .. _s4-d1-l6-resources

@@ -2,9 +2,9 @@
 
 .. _s4-d3-l6
 
-====================
+============================================================
 Lesson 6 — Hands-On Security Drills and Strategy Development
-====================
+============================================================
 
 
 .. _s4-d3-l6-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand security reporting automation principles
+* Learn alert system configuration and management
+* Master incident response automation techniques
+* Comprehend security metrics and reporting standards
 
 
 .. _s4-d3-l6-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Configure automated security report generation
+* Implement automated security alert systems
+* Set up incident response automation tools
+* Deploy security metrics tracking and reporting
 
 
 .. _s4-d3-l6-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand security incident response procedures
+* Learn security drill planning and execution
+* Master security strategy development principles
+* Comprehend security assessment and improvement methods
 
 
 .. _s4-d3-l6-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Conduct security incident response drills
+* Implement comprehensive security strategies
+* Set up security assessment procedures
+* Deploy continuous security improvement measures
 
 
 .. _s4-d3-l6-resources

@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand code review best practices and standards
+* Learn effective feedback communication methods
+* Master code quality assessment techniques
+* Study automated code review tool implementation
 
 
 .. _s3-d4-l4-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement structured code review processes
+* Set up automated code quality checks
+* Configure code review feedback systems
+* Execute effective review communication procedures
 
 
 .. _s3-d4-l4-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand common TYPO3 deployment failure patterns
+* Learn conflict resolution strategies in deployments
+* Master post-deployment debugging techniques
+* Study systematic issue diagnosis approaches
 
 
 .. _s3-d4-l4-practical-goals
@@ -67,10 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* Resolve TYPO3 deployment conflicts effectively
+* Implement post-deployment debugging procedures
+* Configure deployment monitoring and alerts
+* Execute systematic troubleshooting processes
 
 .. _s3-d4-l4-resources
 

@@ -2,9 +2,9 @@
 
 .. _s4-d5-l2
 
-====================
+=======================================================================================
 Lesson 2 — Best Practices for Communication and Collaboration During Security Incidents
-====================
+=======================================================================================
 
 
 .. _s4-d5-l2-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Master common indicators of TYPO3 system compromise
+* Understand immediate response procedures for security breaches
+* Learn about evidence preservation in compromised environments
+* Study containment strategies for compromised TYPO3 systems
 
 
 .. _s4-d5-l2-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Detect signs of compromise in TYPO3 installations
+* Execute immediate response procedures following security protocols
+* Implement system containment measures during security incidents
+* Document and preserve evidence of security breaches
 
 
 .. _s4-d5-l2-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand effective security incident communication chains
+* Learn stakeholder management during security incidents
+* Master internal and external communication protocols
+* Study collaborative incident response methodologies
 
 
 .. _s4-d5-l2-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Establish clear communication channels during security incidents
+* Execute stakeholder communication plans effectively
+* Implement incident response collaboration procedures
+* Document security incident communication processes
 
 
 .. _s4-d5-l2-resources

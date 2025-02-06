@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand constructive feedback principles
+* Learn effective code review techniques
+* Master project evaluation methodologies
+* Study peer review best practices
 
 
 .. _s3-d5-l5-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Provide actionable feedback on peer projects
+* Conduct thorough technical reviews
+* Apply evaluation criteria consistently
+* Share improvement suggestions effectively
 
 
 .. _s3-d5-l5-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand feedback implementation strategies
+* Learn continuous improvement principles
+* Master project refinement techniques
+* Study solution optimization approaches
 
 
 .. _s3-d5-l5-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement peer feedback effectively
+* Apply improvements to project implementation
+* Optimize solutions based on suggestions
+* Enhance project quality through revisions
 
 
 .. _s3-d5-l5-resources

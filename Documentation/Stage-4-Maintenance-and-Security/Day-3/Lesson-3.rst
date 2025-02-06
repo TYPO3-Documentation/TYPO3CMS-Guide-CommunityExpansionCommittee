@@ -2,9 +2,9 @@
 
 .. _s4-d3-l3
 
-====================
+===========================================================
 Lesson 3 — Implementing HTTPS and Secure Protocols in TYPO3
-====================
+===========================================================
 
 
 .. _s4-d3-l3-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand common attack vectors targeting TYPO3 systems
+* Learn threat detection and prevention methodologies
+* Master security vulnerability assessment techniques
+* Comprehend risk mitigation strategies for TYPO3
 
 
 .. _s4-d3-l3-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement protection against common TYPO3 vulnerabilities
+* Configure threat detection and prevention tools
+* Perform security vulnerability assessments on systems
+* Deploy effective risk mitigation measures
 
 
 .. _s4-d3-l3-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand SSL/TLS protocols and certificate management
+* Learn secure communication principles in TYPO3
+* Master HTTPS implementation requirements and best practices
+* Comprehend encryption methods and their applications
 
 
 .. _s4-d3-l3-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Configure SSL certificates for TYPO3 installations
+* Implement secure communication protocols across system
+* Set up HTTPS enforcement and redirect rules
+* Deploy encryption for sensitive data transmission
 
 
 .. _s4-d3-l3-resources
