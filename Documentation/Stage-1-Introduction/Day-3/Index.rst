@@ -11,6 +11,8 @@ Day 3 — Composer and Git
 Today's lessons
 ===============
 
+Today concentrates on essential development tools: Composer for dependency management and Git for version control in TYPO3 projects. Students will learn to install and configure TYPO3 using Composer within DDEV, then master Git workflows including repository setup, cloning, and proper commit practices following TYPO3's specific conventions.
+
 .. toctree::
     :titlesonly:
 

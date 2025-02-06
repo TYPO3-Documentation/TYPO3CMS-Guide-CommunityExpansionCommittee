@@ -11,6 +11,8 @@ Day 3 — Advanced CI/CD Implementation and Quality Assurance
 Today's lessons
 ===============
 
+Today advances CI/CD practices with a focus on deployment optimization and quality assurance. Students will learn advanced deployment strategies, automated testing methodologies, and comprehensive backup techniques. The day emphasizes hands-on experience with collaborative development workflows and implementing robust testing and backup systems in a continuous deployment environment.
+
 .. toctree::
     :titlesonly:
 
