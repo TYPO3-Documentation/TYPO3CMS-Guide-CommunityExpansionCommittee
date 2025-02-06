@@ -81,9 +81,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
-
+* `Create a Custom Content element Type <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/ContentElements/AddingYourOwnContentElements.html>`__
+* `TCA Reference <https://docs.typo3.org/m/typo3/reference-tca/main/en-us/Index.html>`__
 
 .. _s2-d2-l6-teacher
 

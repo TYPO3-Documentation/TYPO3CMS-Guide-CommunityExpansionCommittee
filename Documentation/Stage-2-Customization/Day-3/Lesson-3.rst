@@ -81,8 +81,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `HMENU <https://docs.typo3.org/m/typo3/reference-typoscript/main/en-us/ContentObjects/Hmenu/Index.html>`__
+* `TMENU <https://docs.typo3.org/m/typo3/reference-typoscript/main/en-us/ContentObjects/Hmenu/Tmenu/Index.html>`__
+* `Breadcrumb menu
+ <https://docs.typo3.org/p/georgringer/news/main/en-us/Tutorials/BestPractice/BreadcrumbMenu.html>`__
 
 
 .. _s2-d3-l3-teacher
