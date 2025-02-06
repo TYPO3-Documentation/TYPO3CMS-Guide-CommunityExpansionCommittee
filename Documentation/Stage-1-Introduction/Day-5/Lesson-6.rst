@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand Bootstrap Package features and capabilities
+* Learn extension configuration options and settings
+* Master Bootstrap integration with TYPO3
+* Study template customization approaches
 
 
 .. _s1-d5-l6-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Install Bootstrap Package extension correctly
+* Configure extension settings appropriately
+* Implement Bootstrap-based templates effectively
+* Test extension functionality thoroughly
 
 
 .. _s1-d5-l6-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand complete project workflow integration
+* Learn comprehensive project setup procedures
+* Master full development environment configuration
+* Study end-to-end project implementation strategies
 
 
 .. _s1-d5-l6-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Create complete TYPO3 project from scratch
+* Implement all learned concepts together
+* Configure full development environment properly
+* Test entire project functionality thoroughly
 
 
 .. _s1-d5-l6-resources

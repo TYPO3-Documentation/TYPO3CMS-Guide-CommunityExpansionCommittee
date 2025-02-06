@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Review DDEV architecture and configuration requirements
+* Review troubleshooting techniques for DDEV installations
+* Review DDEV environment optimization strategies
+* Review DDEV best practices and common pitfalls
 
 
 .. _s1-d5-l2-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Verify DDEV installation and configuration completeness
+* Optimize DDEV settings for local development
+* Resolve common DDEV configuration issues
+* Test DDEV environment functionality
 
 
 .. _s1-d5-l2-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Review Git workflow for TYPO3 projects
+* Review repository structure and organization principles
+* Review branch management and collaboration strategies
+* Review TYPO3 commit message conventions
 
 
 .. _s1-d5-l2-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Verify and configure Git repositories properly
+* Optimize branch management strategies
+* Apply TYPO3 commit message rules correctly
+* Optimize collaborative workflow efficiently
 
 
 .. _s1-d5-l2-resources

@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* How to use Composer to install a TYPO3 project in a DDEV container
+* How to setup a Git repository for your project and clone it in your local development environment
+* How to commit and push your changes in the project's repository using TYPO3's commit message rules
+
 
 
 .. _s1-d4-l1-practical-prerequisites
@@ -38,9 +39,8 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Installed and configured a new TYPO3 project in your local development environment using Composer
+* Setup and used a Git repository to track changes for your project
 
 
 .. _s1-d4-l1-goals
@@ -55,9 +55,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand Bootstrap Package extension structure and features
+* Learn extension installation methods through Composer
+* Master Bootstrap Package configuration options in TYPO3
+* Study Bootstrap integration with TYPO3 system
 
 
 .. _s1-d4-l1-practical-goals
@@ -67,9 +68,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Install Bootstrap Package using Composer commands
+* Configure Bootstrap Package extension settings
+* Set up initial Bootstrap-based template
+* Verify Bootstrap Package functionality in TYPO3
 
 
 .. _s1-d4-l1-resources
