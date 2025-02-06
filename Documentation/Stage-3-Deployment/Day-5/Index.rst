@@ -11,6 +11,8 @@ Day 5 — Review, Q&A, and Project Presentation
 Today's lessons
 ===============
 
+Today consolidates the week's learning through interactive review and project presentations. Students will clarify remaining questions about CI/CD workflows, share their implementations, and learn from peer feedback. The day emphasizes knowledge sharing and practical application of learned concepts through collaborative discussion and reflection.
+
 .. toctree::
     :titlesonly:
 

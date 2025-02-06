@@ -11,6 +11,8 @@ Day 5 — Recap and assessment
 Today's lessons
 ===============
 
+Today consolidates the week's learning through comprehensive review and practical application. Students will revisit key concepts from DDEV setup through Bootstrap integration, culminating in a hands-on workshop where they'll create a complete TYPO3 project. This final day ensures mastery of essential skills through practical implementation and assessment.
+
 .. toctree::
     :titlesonly:
 

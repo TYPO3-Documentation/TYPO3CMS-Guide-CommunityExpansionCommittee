@@ -2,14 +2,16 @@
 
 .. _s4-d1
 
-=================
+=========================================================
 Day 3 — TYPO3 Security Enhancements and System Monitoring
-=================
+=========================================================
 
 .. _s4-d1-lessons
 
 Today's lessons
 ===============
+
+Today focuses on advanced TYPO3 security implementation and monitoring systems. Students will learn to configure enhanced security settings, implement secure protocols, and set up comprehensive monitoring solutions. The day emphasizes hands-on experience with security tools, automated reporting, and practical incident response strategies.
 
 .. toctree::
     :titlesonly:

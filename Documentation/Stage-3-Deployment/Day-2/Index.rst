@@ -11,6 +11,8 @@ Day 2 — Testing Environments and Database Management
 Today's lessons
 ===============
 
+Today focuses on managing different TYPO3 environments and database operations in a deployment workflow. Students will learn to distinguish between development, testing, staging, and production environments, while mastering database versioning and migration strategies. The day emphasizes practical implementation of automated database management and environment-specific configurations.
+
 .. toctree::
     :titlesonly:
 

@@ -11,6 +11,8 @@ Day 5 — Creating and configuring a site package extension
 Today's lessons
 ===============
 
+Today is dedicated to creating and implementing site package extensions in TYPO3. Beginning with the fundamentals of extension development, students will learn to package design elements and configurations effectively. The day progresses through content editing setup, performance optimization, and security measures, culminating in a hands-on workshop where students will create their own complete site package extension.
+
 .. toctree::
     :titlesonly:
 

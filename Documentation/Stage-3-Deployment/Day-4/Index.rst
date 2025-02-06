@@ -11,6 +11,8 @@ Day 4 — Practical Application and Troubleshooting
 Today's lessons
 ===============
 
+Today concentrates on real-world CI/CD troubleshooting and optimization. Students will learn to diagnose and resolve common workflow issues, implement effective backup strategies, and conduct thorough code reviews. The day emphasizes practical problem-solving skills and pipeline optimization techniques for robust TYPO3 deployments.
+
 .. toctree::
     :titlesonly:
 

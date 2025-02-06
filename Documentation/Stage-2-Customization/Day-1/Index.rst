@@ -11,6 +11,8 @@ Day 1 — Introduction to TYPO3
 Today's lessons
 ===============
 
+Today focuses on mastering TYPO3's core architecture and essential backend functionalities. Starting with the relationship between backend and frontend components, students will explore backend modules, extension management, and page tree structure. The day progresses through hands-on content management and concludes with user administration, providing a comprehensive foundation for effective TYPO3 website management.
+
 .. toctree::
     :titlesonly:
 

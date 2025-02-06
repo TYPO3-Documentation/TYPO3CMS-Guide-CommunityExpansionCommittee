@@ -2,14 +2,16 @@
 
 .. _s4-d1
 
-=================
+======================================
 Day 5 — Crisis management and recovery
-=================
+======================================
 
 .. _s4-d1-lessons
 
 Today's lessons
 ===============
+
+Today covers crisis management and recovery procedures for TYPO3 environments. Students will learn to identify compromised systems, handle security incidents professionally, and navigate legal requirements. The day emphasizes practical response strategies, post-incident analysis, and effective communication during security crises.
 
 .. toctree::
     :titlesonly:

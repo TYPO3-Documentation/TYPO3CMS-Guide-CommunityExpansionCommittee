@@ -11,6 +11,8 @@ Day 1 — Introduction to Continuous Integration and Deployment
 Today's lessons
 ===============
 
+Today introduces the fundamentals of continuous integration and deployment in TYPO3 development. Students will learn CI/CD concepts, explore deployment workflows, and understand environment-specific configurations. The day focuses on automating development processes, comparing CI tools, and implementing efficient deployment strategies for TYPO3 projects.
+
 .. toctree::
     :titlesonly:
 

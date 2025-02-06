@@ -2,14 +2,16 @@
 
 .. _s4-d1
 
-=================
+==================================================
 Day 4 — Managing Security in TYPO3 and Custom Code
-=================
+==================================================
 
 .. _s4-d1-lessons
 
 Today's lessons
 ===============
+
+Today concentrates on securing custom code and managing vulnerabilities in TYPO3. Students will learn to implement security best practices in custom development, manage security patches effectively, and develop secure extensions. The day includes hands-on workshops and interactive scenarios for practicing security breach responses.
 
 .. toctree::
     :titlesonly:
