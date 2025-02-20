@@ -11,6 +11,8 @@ Day 1 — Introduction to TYPO3 Maintenance and Security Best Practices
 Today's lessons
 ===============
 
+Today introduces fundamental concepts of TYPO3 maintenance and security implementation. Students will explore system architecture, essential maintenance practices, and comprehensive security measures. The day progresses from basic security configurations to advanced user management, emphasizing both theoretical understanding and practical application of TYPO3 security best practices.
+
 .. toctree::
     :titlesonly:
 

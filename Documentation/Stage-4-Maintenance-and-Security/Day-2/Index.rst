@@ -2,14 +2,16 @@
 
 .. _s4-d1
 
-=================
+====================================
 Day 2 — Performing Upgrades on TYPO3
-=================
+====================================
 
 .. _s4-d1-lessons
 
 Today's lessons
 ===============
+
+Today focuses on mastering TYPO3's upgrade processes and version management. Students will explore release cycles, learn to update custom code, and handle deprecations effectively. The day combines theoretical understanding with hands-on practice, including version control implementation and practical upgrade workshops.
 
 .. toctree::
     :titlesonly:

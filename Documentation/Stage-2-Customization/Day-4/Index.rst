@@ -11,6 +11,8 @@ Day 4 — Working with Fluid templates and the Rich Text Editor
 Today's lessons
 ===============
 
+Today focuses on mastering two essential TYPO3 components: the Rich Text Editor (RTE) and Fluid templating system. Starting with comprehensive RTE configuration and customization, the day transitions into exploring Fluid templates, from basic concepts to creating custom designs. Students will learn to effectively manage content editing tools while gaining hands-on experience with TYPO3's template engine.
+
 .. toctree::
     :titlesonly:
 
