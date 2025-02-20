@@ -11,6 +11,8 @@ Day 3 — Advanced TYPO3 concepts and typoscript
 Today's lessons
 ===============
 
+Today delves into TYPO3's powerful configuration language, TypoScript, and its practical applications. Students will progress from basic TypoScript concepts to creating page templates and navigation elements, followed by hands-on experience with backend layouts. The day concludes with advanced configuration topics, covering both Page and User TSconfig, providing essential skills for customizing TYPO3's behavior and appearance.
+
 .. toctree::
     :titlesonly:
 

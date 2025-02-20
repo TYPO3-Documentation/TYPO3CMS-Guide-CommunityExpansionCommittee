@@ -11,7 +11,7 @@ Day 2 — Editing and customizing TYPO3 content
 Today's lessons
 ===============
 
-Day 2 of the TYPO3 training dives deep into content management fundamentals, teaching you how to effectively structure and manage your website. Starting with page organization and navigation, you'll learn to build a solid foundation for your site's architecture. The day progresses through hands-on experience with content elements, file management, and form creation, before moving into more advanced topics like backend user administration and custom content types. Throughout these lessons, you'll gain practical experience working directly in the TYPO3 backend, culminating in a comprehensive recap session that ensures all concepts are thoroughly understood.
+Today dives deep into content management fundamentals, teaching you how to effectively structure and manage your website. Starting with page organization and navigation, you'll learn to build a solid foundation for your site's architecture. The day progresses through hands-on experience with content elements, file management, and form creation, before moving into more advanced topics like backend user administration and custom content types. Throughout these lessons, you'll gain practical experience working directly in the TYPO3 backend, culminating in a comprehensive recap session that ensures all concepts are thoroughly understood.
 
 .. toctree::
     :titlesonly:
