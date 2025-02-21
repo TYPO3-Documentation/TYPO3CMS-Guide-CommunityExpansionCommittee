@@ -84,8 +84,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `DDEV: Get Started <https://ddev.com/get-started/>`__
+* `DDEV: GitHub Repository <https://github.com/ddev/ddev>`__
+* `DDEV: Installation <https://ddev.readthedocs.io/en/stable/users/install/ddev-installation/>`__
+* `Docker: Installation Guide <https://docs.docker.com/get-started/get-docker/>`__
 
 
 .. _s1-d2-l1-teacher

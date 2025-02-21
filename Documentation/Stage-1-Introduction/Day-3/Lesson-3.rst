@@ -81,8 +81,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Git Official Documentation <https://git-scm.com/doc>`__
+* `Understanding Version Control with Git <https://www.atlassian.com/git/tutorials/what-is-version-control>`__
+* `Git Setup <https://docs.typo3.org/permalink/t3contribute:setting-up-your-git-environment>`_
+* `GIT CHEAT SHEET <https://education.github.com/git-cheat-sheet-education.pdf>`_
 
 
 .. _s1-d3-l3-teacher

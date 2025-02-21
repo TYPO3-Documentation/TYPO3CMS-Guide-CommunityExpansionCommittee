@@ -79,8 +79,11 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `TYPO3 Bootstrap Package <https://www.bootstrap-package.com/>`__
+* `TYPO3 Bootstrap Package Documentation <https://docs.typo3.org/p/bk2k/bootstrap-package/main/en-us/>`__
+* `How to Install the Bootstrap Package via Composer <https://docs.typo3.org/p/bk2k/bootstrap-package/main/en-us/Installation/Index.html>`__
+* `TYPO3 Extension Repository — Bootstrap Package <https://extensions.typo3.org/extension/bootstrap_package/>`__
+
 
 
 .. _s1-d4-l1-teacher

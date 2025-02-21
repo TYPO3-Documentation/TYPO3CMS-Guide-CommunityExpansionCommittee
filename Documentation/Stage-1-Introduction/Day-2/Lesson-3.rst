@@ -81,8 +81,9 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `DDEV: Get Started <https://ddev.com/get-started/>`__
+* `DDEV: Usage <https://ddev.readthedocs.io/en/stable/users/usage/>`__
+* `DDEV: Extending and Customizing Environments <https://ddev.readthedocs.io/en/latest/users/extend/customization-extendibility/>`__
 
 
 .. _s1-d2-l3-teacher

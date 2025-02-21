@@ -81,8 +81,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Cloning a repository <https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository>`__
+* `Git : About SSH <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh>`__
+* `Comparing Git workflows: What you should know <https://www.atlassian.com/git/tutorials/comparing-workflows>`__
+* `Git Tools - Submodules <https://git-scm.com/book/en/v2/Git-Tools-Submodules>`__
 
 
 .. _s1-d3-l5-teacher

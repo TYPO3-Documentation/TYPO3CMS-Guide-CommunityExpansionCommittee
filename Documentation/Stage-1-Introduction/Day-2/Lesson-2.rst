@@ -81,8 +81,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `DDEV: CMS Quickstarts <https://ddev.readthedocs.io/en/stable/users/quickstart/>`__
+* `DDEV: Config Options <https://ddev.readthedocs.io/en/stable/users/configuration/config/>`__
+* `DDEV: Extending and Customizing Environments <https://ddev.readthedocs.io/en/latest/users/extend/customization-extendibility/>`__
+* `DDEV: Performance <https://ddev.readthedocs.io/en/stable/users/install/performance/>`__
 
 
 .. _s1-d2-l2-teacher

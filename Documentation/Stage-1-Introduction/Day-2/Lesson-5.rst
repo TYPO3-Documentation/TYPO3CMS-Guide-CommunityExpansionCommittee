@@ -81,9 +81,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
-
+* `Installing TYPO3 with DDEV <https://docs.typo3.org/permalink/t3start:installation-ddev-tutorial>`__
+* `Using DDEV for development of TYPO3 extensions <https://brotkrueml.dev/using-ddev-for-development-of-typo3-extensions/>`__
+* `Debug TYPO3 <https://docs.typo3.org/permalink/t3contribute:phpstorm-setup-xdebug>`__
+* `DDEV Trusted HTTPS Certificates <https://ddev.com/blog/ddev-local-trusted-https-certificates/>`__
 
 .. _s1-d2-l5-teacher
 

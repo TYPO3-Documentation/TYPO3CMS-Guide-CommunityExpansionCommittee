@@ -81,8 +81,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Installing TYPO3 with DDEV <https://docs.typo3.org/permalink/t3start:installation-ddev-tutorial>`__
+* `Installing TYPO3 v11 LTS with DDev <https://www.youtube.com/watch?v=HW7J3G1SqZw>`__
+* `How to install TYPO3 13 in a few minutes with DDEV <https://www.youtube.com/watch?v=IS2U6dAXb0Q>`__
+
 
 
 .. _s1-d2-l4-teacher
