@@ -72,9 +72,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
-
+* `Local Development Environment (MDN Web Docs) <https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup>`__
+* `Get Docker <https://docs.docker.com/get-started/get-docker/>`__
+* `Get Composer <https://getcomposer.org/download/>`__
+* `Get Git <https://git-scm.com/downloads>`__
 
 .. _s1-d1-l4-teacher
 

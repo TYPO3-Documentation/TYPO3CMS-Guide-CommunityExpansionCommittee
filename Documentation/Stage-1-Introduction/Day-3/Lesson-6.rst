@@ -81,9 +81,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
-
+* `Commit Message rules for TYPO3 CMS <https://docs.typo3.org/permalink/t3contribute:commitmessage>`__
+* `How to Write a Git Commit Message <https://cbea.ms/git-commit/>`_
+* `Git Tools - Rewriting History <https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History>`_
+* `Stage, commit, and push changes <https://docs.gitlab.com/topics/git/commit/>`_
 
 .. _s1-d3-l6-teacher
 

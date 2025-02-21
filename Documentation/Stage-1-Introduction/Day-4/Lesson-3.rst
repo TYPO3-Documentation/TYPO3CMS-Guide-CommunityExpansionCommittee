@@ -81,8 +81,9 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Quick Start — Bootstrap Package main documentation <https://docs.typo3.org/p/bk2k/bootstrap-package/main/en-us/QuickStart/Index.html>`__
+* `Fluid Templates <https://docs.typo3.org/permalink/t3sitepackage:fluid-templates>`__
+* `Create a custom content element type <https://docs.typo3.org/permalink/t3coreapi:adding-your-own-content-elements>`__
 
 
 .. _s1-d4-l3-teacher

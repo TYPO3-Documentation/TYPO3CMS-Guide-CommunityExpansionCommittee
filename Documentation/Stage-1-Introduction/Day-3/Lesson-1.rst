@@ -79,8 +79,12 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Get Composer <https://getcomposer.org/download/>`__
+* `Composer Introduction <https://getcomposer.org/doc/00-intro.md>`__
+* `Composer, the Cornerstone of Modern PHP Apps <https://www.sitepoint.com/re-introducing-composer/>`__
+* `Get Composer <https://getcomposer.org/download/>`__
+* `Composer Basic Usage <https://getcomposer.org/doc/01-basic-usage.md>`__
+* `Composer CLI Commands <https://getcomposer.org/doc/03-cli.md>`__
 
 
 .. _s1-d3-l1-teacher

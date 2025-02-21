@@ -81,8 +81,12 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Git Official Documentation <https://git-scm.com/doc>`__
+* `Git Basics - Getting a Git Repository <https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository>`__
+* `10 Best Git Practices for TYPO3 Developers <https://t3planet.de/en/typo3-tutorials/best-git-practices-typo3-developers/>`__
+* `.gitignore File for TYPO3 Projects <https://github.com/TYPO3/typo3/blob/main/.gitignore>`__
+* `TYPO3 GitHub Department <https://github.com/TYPO3>`__
+* `Git Setup <https://docs.typo3.org/permalink/t3contribute:setting-up-your-git-environment>`_
 
 
 .. _s1-d3-l4-teacher
