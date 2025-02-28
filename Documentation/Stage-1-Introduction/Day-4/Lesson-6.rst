@@ -81,8 +81,9 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Bootstrap Grid system <https://getbootstrap.com/docs/5.3/layout/grid/>`__
+* `Bootstrap Breakpoints <https://getbootstrap.com/docs/5.3/layout/breakpoints/>`__
+* `Testing Your TYPO3 Bootstrap Site for Mobile Compatibility <https://pagespeed.web.dev/>`__
 
 
 .. _s1-d4-l6-teacher

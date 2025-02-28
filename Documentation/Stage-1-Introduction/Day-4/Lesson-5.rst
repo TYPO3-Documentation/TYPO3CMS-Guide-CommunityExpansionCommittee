@@ -81,9 +81,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
-
+* `Bootstrap Grid system <https://getbootstrap.com/docs/5.3/layout/grid/>`__
+* `TYPO3 Extension Repository — Bootstrap Package <https://extensions.typo3.org/extension/bootstrap_package/>`__
+* `Bootstrap Navbar <https://getbootstrap.com/docs/5.3/components/navbar/>`__
+* `Fluid Templates <https://docs.typo3.org/permalink/t3sitepackage:fluid-templates>`__
 
 .. _s1-d4-l5-teacher
 

@@ -80,9 +80,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
-
+* `Create the project with Composer <https://docs.typo3.org/permalink/t3coreapi:installation>`__
+* `The Best Guide to TYPO3 Composer <https://t3planet.de/en/blog/guide-typo3-composer/>`__
+* `Composer Support for TYPO3 Extensions <https://extensions.typo3.org/help/composer-support>`__
+* `Configuring environments <https://docs.typo3.org/permalink/t3coreapi:environment-configuration>`__
 
 .. _s1-d3-l2-teacher
 

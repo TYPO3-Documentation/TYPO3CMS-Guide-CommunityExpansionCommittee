@@ -74,6 +74,9 @@ Learning resources
 ==================
 
 * `TYPO3 Documentation <https://docs.typo3.org>`__
+* `TYPO3 Explained <https://docs.typo3.org/permalink/t3coreapi:api-overview>`__
+* `TYPO3 Editors Guide <https://docs.typo3.org/permalink/t3editors:start>`__
+* `TypoScript Explained <https://docs.typo3.org/permalink/t3tsref:start>`__
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
