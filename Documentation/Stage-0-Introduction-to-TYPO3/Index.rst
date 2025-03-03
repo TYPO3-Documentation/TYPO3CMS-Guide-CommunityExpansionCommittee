@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s5
+.. _s0
 
 ================================
-Stage 5 — Project Implementation
+Stage 0 — Introduction to TYPO3
 ================================
 
-.. _s5-about
+.. _s0-about
 
 About this stage
 ================
@@ -22,19 +22,19 @@ SHORT INTRODUCTORY TEXT
     Day-4/Index
     Day-5/Index
 
-.. _s5-prerequisites-goals
+.. _s0-prerequisites-goals
 
 Prerequisites and goals
 =======================
 
 
-.. _s5-prerequisites
+.. _s0-prerequisites
 
 Prerequisites
 -------------
 
 
-.. _s5-theoretical-prerequisites
+.. _s0-theoretical-prerequisites
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
