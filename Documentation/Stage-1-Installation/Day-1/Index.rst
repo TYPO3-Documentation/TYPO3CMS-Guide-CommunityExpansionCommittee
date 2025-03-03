@@ -3,7 +3,7 @@
 .. _s1-d1
 
 =================================
-Day 1 — Introduction and concepts
+Day 1 — Installation and concepts
 =================================
 
 .. _s1-d1-lessons

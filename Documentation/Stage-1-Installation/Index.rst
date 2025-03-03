@@ -3,7 +3,7 @@
 .. _s1
 
 ======================
-Stage 1 — Introduction
+Stage 1 — Installation
 ======================
 
 .. _s1-about
@@ -11,7 +11,7 @@ Stage 1 — Introduction
 About this stage
 ================
 
-This stage introduces TYPO3. Day 1 introduces CMS basics, TYPO3 core concepts, and setting up a local environment with Docker, DDEV, and Composer. Day 2 dives into using DDEV for TYPO3 projects. Day 3 covers Composer and Git for project setup and version control. Day 4 integrates Bootstrap, teaching how to enhance TYPO3 with responsive design. Day 5 reviews and consolidates all concepts, concluding with a hands-on workshop to create a complete TYPO3 project.
+This stage will guide you with the installation of TYPO3. Day 1 introduces CMS basics, TYPO3 core concepts, and setting up a local environment with Docker, DDEV, and Composer. Day 2 dives into using DDEV for TYPO3 projects. Day 3 covers Composer and Git for project setup and version control. Day 4 integrates Bootstrap, teaching how to enhance TYPO3 with responsive design. Day 5 reviews and consolidates all concepts, concluding with a hands-on workshop to create a complete TYPO3 project.
 
 .. toctree::
     :titlesonly:
