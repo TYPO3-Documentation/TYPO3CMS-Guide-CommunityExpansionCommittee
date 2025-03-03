@@ -26,10 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* Understand Bootstrap Package extension structure and features
+* Learn extension installation methods through Composer
+* Master Bootstrap Package configuration options in TYPO3
+* Study Bootstrap integration with TYPO3 system
 
 .. _s1-d4-l2-practical-prerequisites
 
@@ -38,9 +38,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Install Bootstrap Package using Composer commands
+* Configure Bootstrap Package extension settings
+* Set up initial Bootstrap-based template
+* Verify Bootstrap Package functionality in TYPO3
 
 
 .. _s1-d4-l2-goals
@@ -55,9 +56,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand available Bootstrap components in TYPO3
+* Learn component integration methods and options
+* Master Bootstrap component configuration principles
+* Study component customization possibilities
 
 
 .. _s1-d4-l2-practical-goals
@@ -67,9 +69,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement core Bootstrap components in TYPO3
+* Configure component settings and options
+* Add custom Bootstrap elements to pages
+* Test component functionality and appearance
 
 
 .. _s1-d4-l2-resources
@@ -77,8 +80,9 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Get started with Bootstrap <https://getbootstrap.com/docs/5.3/getting-started/introduction/>`__
+* `Quick Start — Bootstrap Package main documentation <https://docs.typo3.org/p/bk2k/bootstrap-package/main/en-us/QuickStart/Index.html>`__
+* `Bootstrap Grid system <https://getbootstrap.com/docs/5.3/layout/grid/>`__
 
 
 .. _s1-d4-l2-teacher

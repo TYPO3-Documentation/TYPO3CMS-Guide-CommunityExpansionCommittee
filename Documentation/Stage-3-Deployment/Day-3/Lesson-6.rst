@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand collaborative workflow integration principles
+* Learn code review automation techniques
+* Master branch management strategies
+* Study automated merge and deployment procedures
 
 
 .. _s3-d3-l6-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand collaborative workflow integration principles
+* Learn code review automation techniques
+* Master branch management strategies
+* Study automated merge and deployment procedures
 
 
 .. _s3-d3-l6-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand deployment monitoring and metrics collection
+* Learn deployment performance analysis methods
+* Master deployment optimization techniques
+* Study automated deployment validation approaches
 
 
 .. _s3-d3-l6-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement comprehensive deployment monitoring systems
+* Configure deployment performance tracking
+* Set up automated deployment validation
+* Create deployment optimization procedures
 
 
 .. _s3-d3-l6-resources

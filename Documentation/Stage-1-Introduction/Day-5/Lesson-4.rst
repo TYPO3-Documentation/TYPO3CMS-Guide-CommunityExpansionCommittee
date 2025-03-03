@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand Composer's role in TYPO3 installation
+* Learn dependency management best practices
+* Master TYPO3 package configuration options
+* Study integration between Composer and DDEV
 
 
 .. _s1-d5-l4-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Install TYPO3 using Composer in DDEV
+* Configure project dependencies correctly
+* Manage TYPO3 extensions through Composer
+* Verify installation and configuration success
 
 
 .. _s1-d5-l4-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand TYPO3 configuration structure and options
+* Learn environment-specific configuration management
+* Master TYPO3 customization possibilities
+* Study local development best practices
 
 
 .. _s1-d5-l4-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Configure TYPO3 for local development
+* Implement custom project settings effectively
+* Set up development-specific configurations
+* Test configuration changes thoroughly
 
 
 .. _s1-d5-l4-resources

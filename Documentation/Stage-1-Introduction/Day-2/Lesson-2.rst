@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand DDEV architecture and system requirements
+* Learn DDEV installation process and dependencies
+* Master DDEV command line interface basics
+* Study DDEV configuration file structure
 
 
 .. _s1-d2-l2-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Install DDEV successfully on local machine
+* Verify DDEV installation and dependencies
+* Execute basic DDEV commands
+* Configure basic DDEV settings
 
 
 .. _s1-d2-l2-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand DDEV configuration options and parameters
+* Learn about DDEV environment variables and settings
+* Master DDEV networking and service configuration
+* Study DDEV performance optimization techniques
 
 
 .. _s1-d2-l2-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Configure DDEV for optimal performance
+* Set up DDEV environment variables
+* Configure DDEV services and networking
+* Test DDEV configuration settings
 
 
 .. _s1-d2-l2-resources
@@ -77,8 +81,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `DDEV: CMS Quickstarts <https://ddev.readthedocs.io/en/stable/users/quickstart/>`__
+* `DDEV: Config Options <https://ddev.readthedocs.io/en/stable/users/configuration/config/>`__
+* `DDEV: Extending and Customizing Environments <https://ddev.readthedocs.io/en/latest/users/extend/customization-extendibility/>`__
+* `DDEV: Performance <https://ddev.readthedocs.io/en/stable/users/install/performance/>`__
 
 
 .. _s1-d2-l2-teacher

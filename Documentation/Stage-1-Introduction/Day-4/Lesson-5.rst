@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand advanced Bootstrap functionality and features
+* Learn complex component integration techniques
+* Master Bootstrap JavaScript features integration
+* Study advanced customization possibilities
 
 
 .. _s1-d4-l5-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement advanced Bootstrap components
+* Configure complex Bootstrap features
+* Add interactive Bootstrap elements
+* Test advanced feature functionality
 
 
 .. _s1-d4-l5-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand frontend development with Bootstrap
+* Learn template structure and organization
+* Master frontend component integration
+* Study responsive design principles
 
 
 .. _s1-d4-l5-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Build complete Bootstrap-based frontend
+* Implement consistent design system
+* Create responsive page layouts
+* Test frontend across different devices
 
 
 .. _s1-d4-l5-resources
@@ -77,9 +81,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
-
+* `Bootstrap Grid system <https://getbootstrap.com/docs/5.3/layout/grid/>`__
+* `TYPO3 Extension Repository — Bootstrap Package <https://extensions.typo3.org/extension/bootstrap_package/>`__
+* `Bootstrap Navbar <https://getbootstrap.com/docs/5.3/components/navbar/>`__
+* `Fluid Templates <https://docs.typo3.org/permalink/t3sitepackage:fluid-templates>`__
 
 .. _s1-d4-l5-teacher
 

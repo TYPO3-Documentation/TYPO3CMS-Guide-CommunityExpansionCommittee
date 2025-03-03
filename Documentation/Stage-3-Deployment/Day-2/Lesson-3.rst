@@ -26,9 +26,11 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+By the end of this lesson, you should know the following:
+
+* Learn the differences in configuration needs for development, testing, staging, and production environments
+* Learn the best practices for managing TYPO3 configurations across different environments
+* Learn how to automate environment-specific configurations within CI/CD pipelines
 
 
 .. _s3-d2-l3-practical-prerequisites
@@ -38,9 +40,9 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Configure TYPO3 separately for development, testing, staging, and production environments
+* Implement automated scripts or tools to manage environment-specific configurations
+* Test and validate that each environment is properly configured and functions as expected
 
 
 .. _s3-d2-l3-goals

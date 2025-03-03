@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand common CI workflow failure points and causes
+* Learn systematic issue diagnosis in CI pipelines
+* Master CI tool troubleshooting methodologies
+* Study pipeline optimization and reliability techniques
 
 
 .. _s3-d4-l2-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Identify and resolve common CI workflow issues
+* Implement systematic debugging processes for pipelines
+* Configure proper error handling in CI workflows
+* Set up pipeline monitoring and alerting systems
 
 
 .. _s3-d4-l2-goals
@@ -55,10 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* Understand backup strategies for continuous deployment systems
+* Learn recovery point and time objective planning
+* Master backup verification and validation methods
+* Study automated recovery procedure implementation
 
 .. _s3-d4-l2-practical-goals
 
@@ -67,9 +69,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Configure automated backup systems for CD environments
+* Implement comprehensive recovery procedures for deployments
+* Test backup and recovery processes regularly
+* Set up backup monitoring and verification systems
 
 
 .. _s3-d4-l2-resources

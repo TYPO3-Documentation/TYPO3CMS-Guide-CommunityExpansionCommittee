@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand common TYPO3 deployment failure patterns
+* Learn conflict resolution strategies in deployments
+* Master post-deployment debugging techniques
+* Study systematic issue diagnosis approaches
 
 
 .. _s3-d4-l5-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Resolve TYPO3 deployment conflicts effectively
+* Implement post-deployment debugging procedures
+* Configure deployment monitoring and alerts
+* Execute systematic troubleshooting processes
 
 
 .. _s3-d4-l5-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand deployment pipeline failure patterns
+* Learn pipeline performance optimization techniques
+* Master pipeline debugging methodologies
+* Study automated issue detection approaches
 
 
 .. _s3-d4-l5-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Diagnose and fix pipeline performance issues
+* Implement automated pipeline health checks
+* Configure pipeline monitoring systems
+* Set up automated issue detection
 
 
 .. _s3-d4-l5-resources

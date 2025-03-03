@@ -11,6 +11,8 @@ Day 2 — DDEV and TYPO3
 Today's lessons
 ===============
 
+Today focuses on setting up and mastering DDEV for TYPO3 development. Students will progress from basic DDEV installation to configuring a complete local development environment, culminating in hands-on experience creating and managing TYPO3 projects. The day emphasizes practical skills essential for modern TYPO3 development workflows.
+
 .. toctree::
     :titlesonly:
 

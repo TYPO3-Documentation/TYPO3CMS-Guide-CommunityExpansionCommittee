@@ -11,6 +11,8 @@ Day 1 — Introduction and concepts
 Today's lessons
 ===============
 
+Today introduces the fundamental concepts of content management systems, with a special focus on TYPO3 CMS. Students will explore the basics of CMS functionality, TYPO3's core concepts, and essential development tools including Docker, DDEV, and Composer. This foundational day establishes the groundwork for setting up a local development environment and understanding modern web development workflows.
+
 .. toctree::
     :titlesonly:
 

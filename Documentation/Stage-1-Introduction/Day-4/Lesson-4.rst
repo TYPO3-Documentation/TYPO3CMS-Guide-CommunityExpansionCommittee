@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand Bootstrap layout system in TYPO3
+* Learn layout customization techniques and methods
+* Master template override procedures
+* Study CSS customization approaches
 
 
 .. _s1-d4-l4-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Modify Bootstrap-based page layouts
+* Implement custom layout configurations
+* Create customized template overrides
+* Apply custom styling to Bootstrap elements
 
 
 .. _s1-d4-l4-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand advanced Bootstrap functionality and features
+* Learn complex component integration techniques
+* Master Bootstrap JavaScript features integration
+* Study advanced customization possibilities
 
 
 .. _s1-d4-l4-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement advanced Bootstrap components
+* Configure complex Bootstrap features
+* Add interactive Bootstrap elements
+* Test advanced feature functionality
 
 
 .. _s1-d4-l4-resources
@@ -77,8 +81,11 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Bootstrap Utility API <https://getbootstrap.com/docs/5.3/utilities/api/>`__
+* `Fluid Templates <https://docs.typo3.org/permalink/t3sitepackage:fluid-templates>`__
+* `Advanced Bootstrap JavaScript Components for TYPO3 <https://getbootstrap.com/docs/5.3/components/>`__
+* `Bootsrap Sass advantages <https://getbootstrap.com/docs/5.3/customize/sass/>`__
+* `Bootstrap Icons <https://icons.getbootstrap.com/>`__
 
 
 .. _s1-d4-l4-teacher

@@ -26,9 +26,9 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* How to install and configure DDEV on your local computer in order to have a local development environment
+* How to use DDEV to run and develop web applications
+* How to setup a new TYPO3 project in DDEV
 
 
 .. _s1-d3-l1-practical-prerequisites
@@ -38,9 +38,9 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Installed and configured a local development environment on your computer using DDEV
+* Installed a new TYPO3 project in your local development environment
+* Worked on a TYPO3 project using DDEV
 
 
 .. _s1-d3-l1-goals
@@ -55,9 +55,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand Composer's role in TYPO3 project management
+* Learn TYPO3 project structure and dependencies
+* Master Composer configuration for TYPO3 installations
+* Study TYPO3 package management best practices
 
 
 .. _s1-d3-l1-practical-goals
@@ -67,9 +68,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Create TYPO3 project using Composer in DDEV
+* Configure Composer for TYPO3 project requirements
+* Install required TYPO3 dependencies through Composer
+* Verify successful TYPO3 project installation
 
 
 .. _s1-d3-l1-resources
@@ -77,8 +79,12 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Get Composer <https://getcomposer.org/download/>`__
+* `Composer Introduction <https://getcomposer.org/doc/00-intro.md>`__
+* `Composer, the Cornerstone of Modern PHP Apps <https://www.sitepoint.com/re-introducing-composer/>`__
+* `Get Composer <https://getcomposer.org/download/>`__
+* `Composer Basic Usage <https://getcomposer.org/doc/01-basic-usage.md>`__
+* `Composer CLI Commands <https://getcomposer.org/doc/03-cli.md>`__
 
 
 .. _s1-d3-l1-teacher

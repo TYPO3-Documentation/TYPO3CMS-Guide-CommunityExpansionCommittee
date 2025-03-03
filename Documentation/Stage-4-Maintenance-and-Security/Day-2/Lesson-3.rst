@@ -2,9 +2,9 @@
 
 .. _s4-d2-l3
 
-====================
+=========================================
 Lesson 3 — Upgrading Custom Code in TYPO3
-====================
+=========================================
 
 
 .. _s4-d2-l3-prerequisites-goals
@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Master TYPO3's version numbering system
+* Understand LTS (Long Term Support) release policies
+* Learn about security patches and maintenance releases
+* Grasp upgrade path planning between versions
 
 
 .. _s4-d2-l3-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Create version upgrade roadmaps
+* Identify critical path dependencies
+* Plan maintenance windows for updates
+* Evaluate version-specific features and changes
 
 
 .. _s4-d2-l3-goals
@@ -55,10 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* Understand extension compatibility requirements
+* Learn about API changes between versions
+* Master code migration strategies
+* Understand backward compatibility layers
 
 .. _s4-d2-l3-practical-goals
 
@@ -67,9 +69,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Update custom extensions for newer versions
+* Implement code compatibility fixes
+* Test extension functionality post-upgrade
+* Document code migration changes
 
 
 .. _s4-d2-l3-resources

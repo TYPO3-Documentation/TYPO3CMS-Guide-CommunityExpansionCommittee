@@ -70,8 +70,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Backend <https://docs.typo3.org/m/typo3/tutorial-getting-started/13.4/en-us/Concepts/Backend/Index.html#backend>`__
+* `Frontend <https://docs.typo3.org/m/typo3/tutorial-getting-started/13.4/en-us/Concepts/Frontend/Index.html#frontend>`__
 
 
 .. _s2-d1-l1-teacher

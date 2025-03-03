@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand backup strategies and redundancy principles
+* Learn data integrity verification methods
+* Master backup scheduling and retention policies
+* Study disaster recovery planning approaches
 
 
 .. _s3-d3-l4-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement automated backup procedures for TYPO3
+* Configure data redundancy systems across environments
+* Set up backup verification and testing
+* Create disaster recovery procedures
 
 
 .. _s3-d3-l4-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand backup integration with deployment workflows
+* Learn automated backup verification methods
+* Master backup restoration testing procedures
+* Study backup performance optimization techniques
 
 
 .. _s3-d3-l4-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Integrate backups into CI/CD pipelines
+* Implement automated backup verification systems
+* Configure backup restoration testing procedures
+* Optimize backup processes for performance
 
 
 .. _s3-d3-l4-resources

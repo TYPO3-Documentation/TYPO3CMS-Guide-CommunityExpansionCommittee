@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand TYPO3 development workflow in DDEV
+* Learn debugging techniques in DDEV environment
+* Master DDEV command usage for TYPO3
+* Study DDEV tools for TYPO3 development
 
 
 .. _s1-d2-l6-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Develop TYPO3 features using DDEV
+* Debug TYPO3 issues in DDEV
+* Use DDEV commands for TYPO3
+* Manage TYPO3 development workflow
 
 
 .. _s1-d2-l6-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand complete TYPO3 installation process
+* Learn troubleshooting installation issues
+* Master TYPO3 configuration in DDEV
+* Study post-installation setup steps
 
 
 .. _s1-d2-l6-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Complete TYPO3 installation in DDEV
+* Resolve common installation issues
+* Configure TYPO3 installation settings
+* Verify TYPO3 installation functionality
 
 
 .. _s1-d2-l6-resources
@@ -77,8 +81,12 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `DDEV: Get Started <https://ddev.com/get-started/>`__
+* `DDEV: CMS Quickstarts <https://ddev.readthedocs.io/en/stable/users/quickstart/>`__
+* `Installing TYPO3 with DDEV <https://docs.typo3.org/permalink/t3start:installation-ddev-tutorial>`__
+* `TYPO3 - Tutorial "Installing TYPO3 v11 LTS with DDev" <https://www.youtube.com/watch?v=HW7J3G1SqZw>`__
+* `How to install TYPO3 13 in a few minutes with DDEV" <https://www.youtube.com/watch?v=IS2U6dAXb0Q>`__
+* `Debug TYPO3 <https://docs.typo3.org/permalink/t3contribute:phpstorm-setup-xdebug>`__
 
 
 .. _s1-d2-l6-teacher

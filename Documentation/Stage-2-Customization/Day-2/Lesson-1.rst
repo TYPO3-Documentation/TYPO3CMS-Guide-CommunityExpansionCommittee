@@ -82,8 +82,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Backend GUI <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/Backend/BackendModules/BackendGUI.html#backend-gui>`__
+* `Page Module <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/PageModule/Index.html>`__
+* `Creating Pages in Page Tree <https://www.youtube.com/watch?v=7SJh4IQRrj4&list=PL-sDBIrOKGOaguYrZbJebKIEgoIxCnN4V&index=2>`__
+* `Moving Pages In The Page Tree <https://www.youtube.com/watch?v=1NKE7Pev-D8&list=PL-sDBIrOKGOaguYrZbJebKIEgoIxCnN4V&index=3>`__
 
 
 .. _s2-d2-l1-teacher

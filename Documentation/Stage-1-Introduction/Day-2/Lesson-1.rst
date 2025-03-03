@@ -26,10 +26,14 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* Basic understanding of CMS concepts
+* Basic understanding of TYPO3
+* Basic understanding of TYPO3's filesystem
+* Basic understanding of TYPO3's database
+* Basic understanding of Git
+* Basic understanding of DDEV
+* Basic understanding of Composer
+* Basic understanding of the Bootstrap framework
 
 .. _s1-d2-l1-practical-prerequisites
 
@@ -38,9 +42,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* You have shown that you meet the practical prerequisites
+* You have shown that you meet the Theoretical prerequisites
+* You have shown that you understand the basic concepts behind TYPO3
+* You have been introduced to the different documentation sources
 
 
 .. _s1-d2-l1-goals
@@ -55,9 +60,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand DDEV architecture and system requirements
+* Learn DDEV installation process and dependencies
+* Master DDEV command line interface basics
+* Study DDEV configuration file structure
 
 
 .. _s1-d2-l1-practical-goals
@@ -67,9 +73,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Install DDEV successfully on local machine
+* Verify DDEV installation and dependencies
+* Execute basic DDEV commands
+* Configure basic DDEV settings
 
 
 .. _s1-d2-l1-resources
@@ -77,8 +84,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `DDEV: Get Started <https://ddev.com/get-started/>`__
+* `DDEV: GitHub Repository <https://github.com/ddev/ddev>`__
+* `DDEV: Installation <https://ddev.readthedocs.io/en/stable/users/install/ddev-installation/>`__
+* `Docker: Installation Guide <https://docs.docker.com/get-started/get-docker/>`__
 
 
 .. _s1-d2-l1-teacher

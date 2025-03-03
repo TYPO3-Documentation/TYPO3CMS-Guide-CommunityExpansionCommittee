@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand backup integration with deployment workflows
+* Learn automated backup verification methods
+* Master backup restoration testing procedures
+* Study backup performance optimization techniques
 
 
 .. _s3-d3-l5-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Integrate backups into CI/CD pipelines
+* Implement automated backup verification systems
+* Configure backup restoration testing procedures
+* Optimize backup processes for performance
 
 
 .. _s3-d3-l5-goals
@@ -55,10 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
-
+* Understand collaborative workflow integration principles
+* Learn code review automation techniques
+* Master branch management strategies
+* Study automated merge and deployment procedures
 
 .. _s3-d3-l5-practical-goals
 
@@ -67,9 +69,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Set up collaborative CI/CD workflows
+* Implement automated code review processes
+* Configure branch management and protection rules
+* Create automated merge and deployment pipelines
 
 
 .. _s3-d3-l5-resources

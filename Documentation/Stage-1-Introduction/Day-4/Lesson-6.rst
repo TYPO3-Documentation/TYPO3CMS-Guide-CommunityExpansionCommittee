@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand frontend development with Bootstrap
+* Learn template structure and organization
+* Master frontend component integration
+* Study responsive design principles
 
 
 .. _s1-d4-l6-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Build complete Bootstrap-based frontend
+* Implement consistent design system
+* Create responsive page layouts
+* Test frontend across different devices
 
 
 .. _s1-d4-l6-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand Bootstrap's responsive grid system
+* Learn mobile-first design principles
+* Master responsive breakpoint configuration
+* Study responsive component behavior
 
 
 .. _s1-d4-l6-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement responsive layouts using Bootstrap grid
+* Configure breakpoints for different devices
+* Create mobile-friendly navigation systems
+* Test responsiveness across screen sizes
 
 
 .. _s1-d4-l6-resources
@@ -77,8 +81,9 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Bootstrap Grid system <https://getbootstrap.com/docs/5.3/layout/grid/>`__
+* `Bootstrap Breakpoints <https://getbootstrap.com/docs/5.3/layout/breakpoints/>`__
+* `Testing Your TYPO3 Bootstrap Site for Mobile Compatibility <https://pagespeed.web.dev/>`__
 
 
 .. _s1-d4-l6-teacher

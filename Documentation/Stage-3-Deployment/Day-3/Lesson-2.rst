@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand zero-downtime deployment principles in TYPO3
+* Learn risk assessment methods for deployment processes
+* Master rollback strategies for failed deployments
+* Study advanced deployment monitoring techniques
 
 
 .. _s3-d3-l2-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Implement zero-downtime deployment procedures in TYPO3
+* Execute risk mitigation strategies during deployments
+* Configure automated rollback procedures for deployments
+* Set up comprehensive deployment monitoring systems
 
 
 .. _s3-d3-l2-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand different types of automated testing
+* Learn test suite organization and management
+* Master test coverage analysis methods
+* Study continuous testing integration approaches
 
 
 .. _s3-d3-l2-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Set up automated testing tools for TYPO3
+* Create comprehensive test suites for applications
+* Implement test coverage monitoring systems
+* Integrate automated tests into CI/CD pipelines
 
 
 .. _s3-d3-l2-resources

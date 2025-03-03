@@ -26,9 +26,10 @@ Theoretical prerequisites
 
 This lesson assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand effective project presentation techniques
+* Master process documentation best practices
+* Learn strategic decision-making explanation methods
+* Study problem-solving methodology presentation approaches
 
 
 .. _s3-d5-l4-practical-prerequisites
@@ -38,9 +39,10 @@ Practical prerequisites
 
 Before you start this lesson, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* Present project implementation clearly and effectively
+* Document processes and decisions comprehensively
+* Demonstrate problem-solving strategies through examples
+* Share technical solutions and implementation insights
 
 
 .. _s3-d5-l4-goals
@@ -55,9 +57,10 @@ Theoretical goals
 
 By the end of this lesson, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Understand constructive feedback principles
+* Learn effective code review techniques
+* Master project evaluation methodologies
+* Study peer review best practices
 
 
 .. _s3-d5-l4-practical-goals
@@ -67,9 +70,10 @@ Practical goals
 
 By the end of this lesson, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Provide actionable feedback on peer projects
+* Conduct thorough technical reviews
+* Apply evaluation criteria consistently
+* Share improvement suggestions effectively
 
 
 .. _s3-d5-l4-resources

@@ -2,14 +2,16 @@
 
 .. _s1-d1
 
-=================
+===========================
 Day 4 — Bootstrap and TYPO3
-=================
+===========================
 
 .. _s1-d1-lessons
 
 Today's lessons
 ===============
+
+Today explores integrating Bootstrap with TYPO3 through the Bootstrap Package extension. Students will progress from basic installation to advanced implementation, learning to add components, customize layouts, and create responsive designs. The day emphasizes hands-on practice in building modern, mobile-friendly TYPO3 websites using Bootstrap's framework.
 
 .. toctree::
     :titlesonly:
