@@ -77,8 +77,7 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `TYPO3 Migration <https://docs.typo3.org/permalink/t3coreapi:upgrading>`__
 
 
 .. _s3-d2-l4-teacher

@@ -81,8 +81,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Deploying with GitHub Actions <https://docs.github.com/en/actions/use-cases-and-examples/deploying/deploying-with-github-actions>`__
+* `Deploying TYPO3 <https://docs.typo3.org/permalink/t3coreapi:deployment>`__
 
 
 .. _s3-d3-l6-teacher

@@ -83,8 +83,7 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `CI/CD Process: Flow, Stages, and Critical Best Practices <https://codefresh.io/learn/ci-cd-pipelines/ci-cd-process-flow-stages-and-critical-best-practices/>`__
 
 
 .. _s3-d5-l1-teacher

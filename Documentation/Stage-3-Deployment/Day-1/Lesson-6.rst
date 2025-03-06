@@ -72,8 +72,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Deployer <https://deployer.org/docs/8.x/getting-started>`__
+* `Pull Requests <https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests>`__
 
 
 .. _s3-d1-l6-teacher

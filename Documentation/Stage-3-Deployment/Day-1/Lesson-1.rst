@@ -77,7 +77,7 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `What is CI/CD? <https://about.gitlab.com/topics/ci-cd/>`
+* `What is CI/CD? <https://about.gitlab.com/topics/ci-cd/>`__
 
 
 .. _s3-d1-l1-teacher
