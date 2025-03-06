@@ -42,11 +42,11 @@ Table of Contents
     :titlesonly:
 
     Introduction
-    Stage-1-Introduction/Index
+    Stage-0-Introduction-to-TYPO3/Index
+    Stage-1-Installation/Index
     Stage-2-Customization/Index
     Stage-3-Deployment/Index
     Stage-4-Maintenance-and-Security/Index
-    Stage-5-Project-Implementation/Index
 
 .. Meta Menu
 
