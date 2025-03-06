@@ -2,10 +2,11 @@
 
 .. _s5-d5-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+==================================================
+Lesson 5 — Performance Monitoring and Optimization
+==================================================
 
+A comparative demonstration of performance monitoring tools in action. The showcase will include before-and-after examples of optimization techniques. The presentation will illustrate how ongoing performance management maintains optimal site functionality.
 
 .. _s5-d5-l5-prerequisites-goals
 

@@ -2,10 +2,11 @@
 
 .. _s5-d4-l4
 
-====================
-Lesson 4 — ADD TITLE
-====================
+====================================================
+Lesson 4 — Version Control in the Deployment Process
+====================================================
 
+A demonstration showing how version control integrates with TYPO3 deployments. The session will showcase Git branches, tags, and workflows in action, demonstrating how code changes progress through environments. Examples will highlight how version control ensures reliable deployments.
 
 .. _s5-d4-l4-prerequisites-goals
 

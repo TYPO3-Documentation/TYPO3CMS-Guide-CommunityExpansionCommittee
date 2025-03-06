@@ -2,10 +2,11 @@
 
 .. _s0-d1-l2
 
-====================
-Lesson 2 — ADD TITLE
-====================
+=========================================================
+Lesson 2 — TYPO3: History, Evolution, and Market Position
+=========================================================
 
+Through a showcase of websites built on different TYPO3 versions, the instructor will demonstrate the system's evolution. Students will observe real-world implementations across various sectors, seeing how organizations leverage TYPO3's capabilities for complex digital experiences.
 
 .. _s0-d1-l2-prerequisites-goals
 

@@ -2,10 +2,11 @@
 
 .. _s5-d3-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+==========================================
+Lesson 6 — Multilingual Content Management
+==========================================
 
+A practical showcase of TYPO3's multilingual capabilities in operation. The demonstration will include configuring language settings, creating translated content, and switching between language versions. The session will illustrate how the system handles translations, language-specific settings, and the user experience for both editors and visitors of multilingual websites.
 
 .. _s5-d3-l6-prerequisites-goals
 

@@ -2,10 +2,11 @@
 
 .. _s5-d5-l4
 
-====================
-Lesson 4 — ADD TITLE
-====================
+==================================================
+Lesson 4 — Backup Strategies and Disaster Recovery
+==================================================
 
+A step-by-step demonstration of backup creation and restoration processes. The presentation will include database exports, file system backups, and configuration preservation. This practical showcase will illustrate recovery procedures for different emergency scenarios.
 
 .. _s5-d5-l4-prerequisites-goals
 

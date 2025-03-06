@@ -2,10 +2,11 @@
 
 .. _s5-d3-l2
 
-====================
-Lesson 2 — ADD TITLE
-====================
+============================================
+Lesson 2 — Page Structure and Site Hierarchy
+============================================
 
+A practical demonstration focusing on TYPO3's hierarchical page structure. The session will showcase the construction of a multi-level website hierarchy, illustrating how parent-child relationships affect navigation, permissions, and content inheritance. The demonstration will include moving, copying, hiding, and deleting pages to provide a visual understanding of site structure management in TYPO3.
 
 .. _s5-d3-l2-prerequisites-goals
 

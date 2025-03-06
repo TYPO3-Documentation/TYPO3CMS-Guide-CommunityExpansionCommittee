@@ -2,10 +2,11 @@
 
 .. _s0-d2-l3
 
-====================
-Lesson 3 — ADD TITLE
-====================
+==================================================
+Lesson 3 — Overview of Docker and Containerization
+==================================================
 
+A practical demonstration of Docker in action, showing how containerization creates consistent environments across different systems. Containers will be created, started, and stopped, with clear visualization of how the technology isolates development environments. This hands-on approach will make containerization concepts accessible to beginners.
 
 .. _s0-d2-l3-prerequisites-goals
 

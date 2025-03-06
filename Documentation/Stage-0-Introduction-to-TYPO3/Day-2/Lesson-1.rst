@@ -2,10 +2,11 @@
 
 .. _s0-d2-l1
 
-====================
-Lesson 1 — ADD TITLE
-====================
+=====================================================
+Lesson 1 — Understanding TYPO3's Technical Foundation
+=====================================================
 
+A live demonstration of TYPO3's technical architecture through an active installation environment. The PHP framework will be shown in operation, alongside database interactions and server configuration requirements. This practical showcase will illustrate technical concepts in a way that requires no prior technical knowledge.
 
 .. _s0-d2-l1-prerequisites-goals
 

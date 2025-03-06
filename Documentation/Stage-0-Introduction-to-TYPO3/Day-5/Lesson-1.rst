@@ -2,10 +2,11 @@
 
 .. _s5-d5-l1
 
-====================
-Lesson 1 — ADD TITLE
-====================
+===========================================
+Lesson 1 — TYPO3's Update and Release Cycle
+===========================================
 
+A demonstration of TYPO3's release process and updates in action. The presentation will showcase different release types and their installation procedures. This practical session will illustrate how the predictable release cycle supports sustainable website management.
 
 .. _s5-d5-l1-prerequisites-goals
 
