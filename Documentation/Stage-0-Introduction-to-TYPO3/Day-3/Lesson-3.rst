@@ -2,10 +2,11 @@
 
 .. _s5-d3-l3
 
-====================
-Lesson 3 — ADD TITLE
-====================
+==================================================
+Lesson 3 — Content Elements and Their Applications
+==================================================
 
+A hands-on showcase of TYPO3's content elements being created and configured. The demonstration will include text, image, multimedia, and interactive elements, showing how each serves different communication needs. Each element will be configured, positioned, and displayed to demonstrate the flexibility of TYPO3's content building blocks.
 
 .. _s5-d3-l3-prerequisites-goals
 

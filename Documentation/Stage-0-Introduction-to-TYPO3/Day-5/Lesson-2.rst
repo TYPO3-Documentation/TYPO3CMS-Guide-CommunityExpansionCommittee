@@ -2,10 +2,11 @@
 
 .. _s5-d5-l2
 
-====================
-Lesson 2 — ADD TITLE
-====================
+==========================================
+Lesson 2 — Security Fundamentals for TYPO3
+==========================================
 
+A live demonstration of TYPO3's security features and vulnerabilities. The showcase will include security bulletins, patch applications, and prevention techniques. The presentation will demonstrate how the TYPO3 community addresses security concerns in real-world scenarios.
 
 .. _s5-d5-l2-prerequisites-goals
 

@@ -2,10 +2,11 @@
 
 .. _s0-d1-l3
 
-====================
-Lesson 3 — ADD TITLE
-====================
+===============================================
+Lesson 3 — TYPO3 Architecture and Core Features
+===============================================
 
+This demonstration will showcase TYPO3's architecture in action. The instructor will navigate through the system, demonstrating the backend/frontend separation, extension integration, and content rendering process. Students will observe each core feature functioning in a live environment.
 
 .. _s0-d1-l3-prerequisites-goals
 

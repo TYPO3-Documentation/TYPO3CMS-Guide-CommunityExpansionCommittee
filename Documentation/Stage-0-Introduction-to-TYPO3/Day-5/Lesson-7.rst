@@ -6,6 +6,7 @@
 Lesson 7 — Recap and Catch-Up
 =============================
 
+A thorough recap of the entire introductory stage, reinforcing key concepts from all five days. This lesson will consolidate learning, address remaining questions, and prepare students for the hands-on implementation work that begins in Stage 1.
 
 .. _s5-d5-l7-prerequisites-goals
 

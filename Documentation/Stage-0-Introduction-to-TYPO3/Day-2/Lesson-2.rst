@@ -2,10 +2,11 @@
 
 .. _s5-d2-l2
 
-====================
-Lesson 2 — ADD TITLE
-====================
+===================================================
+Lesson 2 — Introduction to Development Environments
+===================================================
 
+A side-by-side comparison demonstrating the differences between development and production environments. The presentation will show how changes can be safely implemented in development before moving to production. This practical demonstration will illustrate why separate environments are essential for professional TYPO3 implementations.
 
 .. _s5-d2-l2-prerequisites-goals
 

@@ -2,10 +2,11 @@
 
 .. _s0-d1-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+=======================================================
+Lesson 5 — The TYPO3 Ecosystem: Community and Resources
+=======================================================
 
+Through practical navigation, the instructor will demonstrate TYPO3's support resources. Students will observe the extension repository, documentation portals, and community forums. The demonstration will include finding solutions to common problems, showing the practical value of the TYPO3 community.
 
 .. _s0-d1-l5-prerequisites-goals
 

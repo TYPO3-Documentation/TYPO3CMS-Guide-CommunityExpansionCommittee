@@ -2,14 +2,16 @@
 
 .. _s5-d1
 
-=================
-Day 4 — ADD TITLE
-=================
+======================================================
+Day 4 — Development to Production: The TYPO3 Lifecycle
+======================================================
 
 .. _s5-d1-lessons
 
 Today's lessons
 ===============
+
+Through practical demonstrations, instructors will show students how TYPO3 projects move from development to production. Students will observe a deployment workflow in action, seeing how code changes are committed to Git, passed through automated tests, and deployed to staging and production environments. Demonstrations will include showing the difference between environments, how caching affects performance, and how continuous integration tools automate quality checks. These visual examples will prepare students for the in-depth deployment training in Stage 3.
 
 .. toctree::
     :titlesonly:

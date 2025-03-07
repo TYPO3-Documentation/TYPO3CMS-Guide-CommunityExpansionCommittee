@@ -2,10 +2,11 @@
 
 .. _s5-d4-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+=============================================
+Lesson 5 — Continuous Integration and Testing
+=============================================
 
+A demonstration of continuous integration tools processing TYPO3 code changes. The showcase will include automated tests executing, code quality checks running, and deployment triggering based on results. This presentation will illustrate how automation improves reliability in the deployment process.
 
 .. _s5-d4-l5-prerequisites-goals
 

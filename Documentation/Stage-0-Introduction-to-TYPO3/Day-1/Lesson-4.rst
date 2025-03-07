@@ -2,10 +2,11 @@
 
 .. _s0-d1-l4
 
-====================
-Lesson 4 — ADD TITLE
-====================
+=================================================
+Lesson 4 — TYPO3 in Action: Demo and Case Studies
+=================================================
 
+The instructor will provide live demonstrations of complete TYPO3 websites from different industries. Students will observe how these sites address specific business needs as the instructor navigates both frontend and backend environments. Demonstrations will include multi-site setups, multilingual features, and content workflows.
 
 .. _s0-d1-l4-prerequisites-goals
 

@@ -2,10 +2,11 @@
 
 .. _s5-d3-l4
 
-====================
-Lesson 4 — ADD TITLE
-====================
+====================================
+Lesson 4 — Media Management in TYPO3
+====================================
 
+A practical demonstration of TYPO3's media handling capabilities in action. The session will include uploading various file types, creating folder structures, and implementing media assets within content elements. The demonstration will showcase how images are cropped, scaled, and optimized automatically, illustrating TYPO3's powerful digital asset management capabilities.
 
 .. _s5-d3-l4-prerequisites-goals
 

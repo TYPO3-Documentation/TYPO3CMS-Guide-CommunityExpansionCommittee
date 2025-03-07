@@ -2,10 +2,11 @@
 
 .. _s0-d1-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+=====================================================
+Lesson 6 — Curriculum Overview: Your Learning Journey
+=====================================================
 
+Using visual aids and sample projects, the instructor will demonstrate the progression of skills throughout the curriculum. Students will observe examples of work they'll complete at each stage, seeing the concrete applications of concepts they'll learn through before-and-after examples.
 
 .. _s0-d1-l6-prerequisites-goals
 

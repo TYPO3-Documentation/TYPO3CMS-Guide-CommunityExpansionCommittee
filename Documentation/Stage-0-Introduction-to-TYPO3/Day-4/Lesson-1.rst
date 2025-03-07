@@ -2,10 +2,11 @@
 
 .. _s5-d4-l1
 
-====================
-Lesson 1 — ADD TITLE
-====================
+===============================================
+Lesson 1 — The TYPO3 Project Lifecycle Overview
+===============================================
 
+A demonstration of the complete TYPO3 project lifecycle in action. The presentation will visualize progression from concept through development, deployment, and maintenance. This showcase will provide a clear framework for understanding how TYPO3 projects evolve over time.
 
 .. _s5-d4-l1-prerequisites-goals
 

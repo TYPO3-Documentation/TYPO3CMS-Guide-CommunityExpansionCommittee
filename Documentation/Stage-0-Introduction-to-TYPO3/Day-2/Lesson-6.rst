@@ -2,10 +2,11 @@
 
 .. _s5-d2-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+==========================================
+Lesson 6 — Version Control Basics with Git
+==========================================
 
+A hands-on demonstration of Git's fundamental operations in a TYPO3 development context. Changes will be committed, branches created, and code merged to illustrate version control workflows. This practical showcase will demonstrate how Git supports collaborative development of TYPO3 projects in a beginner-friendly manner.
 
 .. _s5-d2-l6-prerequisites-goals
 

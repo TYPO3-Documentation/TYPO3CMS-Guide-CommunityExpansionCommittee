@@ -2,10 +2,11 @@
 
 .. _s5-d3-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+=============================================
+Lesson 5 — User Roles and Editorial Workflows
+=============================================
 
+A live demonstration of user management and workflow processes in TYPO3. The session will include creating different user types, assigning varied permissions, and showcasing how these settings affect what each user can see and do in the system. The demonstration will illustrate TYPO3's granular control for managing content workflows and editorial processes.
 
 .. _s5-d3-l5-prerequisites-goals
 

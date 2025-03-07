@@ -6,6 +6,7 @@
 Lesson 7 — Recap and Catch-Up
 =============================
 
+A comprehensive review of the day's deployment concepts and their practical application. This lesson will consolidate key learning points, address questions, and help students begin thinking about deployment strategies for their future TYPO3 projects.
 
 .. _s5-d4-l7-prerequisites-goals
 
