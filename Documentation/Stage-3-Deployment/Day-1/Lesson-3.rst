@@ -74,8 +74,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `Sitehandling Using Variants  <https://docs.typo3.org>`__
-* :ref:`Base variants <t3coreapi:sitehandling-baseVariants>``
+* `Configuration Overview <https://docs.typo3.org/permalink/t3coreapi:config-overview>`__
+* :ref:`Base variants <t3coreapi:sitehandling-baseVariants>`
 
 
 .. _s3-d1-l3-teacher

@@ -66,8 +66,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Github Actions <https://github.com/features/actions>`__
+* `Git Cheat Sheet <https://docs.typo3.org/permalink/t3contribute:cheat-sheet-git>`__
 
 
 .. _s3-d1-l5-teacher

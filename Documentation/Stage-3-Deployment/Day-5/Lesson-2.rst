@@ -81,8 +81,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `TYPO3 Database <https://docs.typo3.org/permalink/t3coreapi:database>`__
+* `TYPO3 Testing <https://docs.typo3.org/permalink/t3coreapi:testing>`__
 
 
 .. _s3-d5-l2-teacher

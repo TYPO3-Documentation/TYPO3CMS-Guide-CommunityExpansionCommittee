@@ -80,8 +80,9 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `TYPO3 Auto Deployment with Bitbucket CI/CD <https://t3planet.de/en/blog/typo3-bitbucket/>`__
+* `Branch protection rules <https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/managing-a-branch-protection-rule>`__
+* `Deploying with GitHub Actions <https://docs.github.com/en/actions/use-cases-and-examples/deploying/deploying-with-github-actions>`__
 
 
 .. _s3-d3-l5-teacher

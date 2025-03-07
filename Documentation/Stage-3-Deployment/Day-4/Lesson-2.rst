@@ -80,8 +80,9 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `GitHub Actions <https://docs.github.com/en/actions>`__
+* `Deploying TYPO3 <https://docs.typo3.org/permalink/t3coreapi:deployment>`__
+
 
 
 .. _s3-d4-l2-teacher

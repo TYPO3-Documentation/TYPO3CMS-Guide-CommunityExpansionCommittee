@@ -84,8 +84,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `What is CI/CD? <https://github.com/resources/articles/devops/ci-cd>`__
+* `GitHub Actions - workflows <https://docs.github.com/en/actions/writing-workflows/about-workflows>`__
 
 
 .. _s3-d4-l1-teacher

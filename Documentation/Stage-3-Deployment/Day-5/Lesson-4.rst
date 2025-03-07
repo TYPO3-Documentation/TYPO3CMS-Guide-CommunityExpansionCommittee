@@ -81,8 +81,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Review code effectively <https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/>`__
+* `Review code effectively <https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/>`__
 
 
 .. _s3-d5-l4-teacher
