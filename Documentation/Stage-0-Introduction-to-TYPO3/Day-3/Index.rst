@@ -2,14 +2,16 @@
 
 .. _s5-d1
 
-=================
-Day 3 — ADD TITLE
-=================
+===============================================
+Day 3 — Content Creation and Management Preview
+===============================================
 
 .. _s5-d1-lessons
 
 Today's lessons
 ===============
+
+This day features hands-on demonstrations of TYPO3's content management capabilities. Instructors will create pages, implement various content elements, upload and manage media files, and demonstrate the editing workflow from creation to publication. Students will observe how content appears differently in the backend versus the frontend, how user permissions affect editing capabilities, and how multilingual content is managed. These demonstrations will provide students with a clear visual understanding of the content management capabilities they'll master in Stage 2.
 
 .. toctree::
     :titlesonly:

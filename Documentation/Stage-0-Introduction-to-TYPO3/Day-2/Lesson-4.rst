@@ -2,10 +2,11 @@
 
 .. _s5-d2-l4
 
-====================
-Lesson 4 — ADD TITLE
-====================
+============================================
+Lesson 4 — Local Development Tools for TYPO3
+============================================
 
+A showcase of specialized tools for TYPO3 development in operation. The demonstration will reveal how these tools simplify environment setup and standardize development processes. Particular emphasis will be placed on features specifically relevant to TYPO3 projects through practical examples.
 
 .. _s5-d2-l4-prerequisites-goals
 

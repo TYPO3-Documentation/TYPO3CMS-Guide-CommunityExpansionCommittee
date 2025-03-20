@@ -2,14 +2,16 @@
 
 .. _s0-d1
 
-=================
-Day 2 — ADD TITLE
-=================
+===============================================
+Day 2 — TYPO3 Ecosystem: Tools and Technologies
+===============================================
 
 .. _s0-d1-lessons
 
 Today's lessons
 ===============
+
+On day two, instructors will demonstrate the essential tools that power the TYPO3 ecosystem. Students will observe Docker containers being launched, see how DDEV creates standardized development environments, and watch as Composer installs and manages dependencies. Through these practical demonstrations, students will gain a visual understanding of the development workflow before implementing it themselves in Stage 1. The focus will be on showing rather than explaining, allowing students to see these technologies in action.
 
 .. toctree::
     :titlesonly:

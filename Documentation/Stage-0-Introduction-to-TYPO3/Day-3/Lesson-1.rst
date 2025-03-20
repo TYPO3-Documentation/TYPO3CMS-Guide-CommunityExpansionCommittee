@@ -2,10 +2,11 @@
 
 .. _s5-d3-l1
 
-====================
-Lesson 1 — ADD TITLE
-====================
+======================================
+Lesson 1 — The TYPO3 Backend Interface
+======================================
 
+A comprehensive walkthrough of the TYPO3 backend interface in action. The demonstration will navigate through various modules, showing how to access key functionality while highlighting the logical organization of the system. The session will include creating a new page, accessing the file system, and utilizing the extension manager to provide a concrete understanding of TYPO3's administrative environment.
 
 .. _s5-d3-l1-prerequisites-goals
 

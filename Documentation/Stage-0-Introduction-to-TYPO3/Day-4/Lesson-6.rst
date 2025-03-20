@@ -2,10 +2,11 @@
 
 .. _s5-d4-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+=====================================================
+Lesson 6 — Performance and Scalability Considerations
+=====================================================
 
+A comparative demonstration of TYPO3 performance optimization techniques. The showcase will include before-and-after examples of caching implementation, content delivery networks, and other optimization strategies. Examples will visually demonstrate the impact on website performance.
 
 .. _s5-d4-l6-prerequisites-goals
 

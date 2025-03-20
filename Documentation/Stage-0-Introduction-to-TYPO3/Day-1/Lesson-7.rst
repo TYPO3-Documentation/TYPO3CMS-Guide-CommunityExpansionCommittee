@@ -6,6 +6,7 @@
 Lesson 7 — Recap and Catch-Up
 =============================
 
+A review of the key concepts covered throughout the day, reinforcing the foundational understanding of TYPO3 and its position in the CMS ecosystem. This lesson will include interactive discussions to address questions, share insights, and ensure all students have a solid grasp of the material before proceeding to Day 2.
 
 .. _s0-d1-l7-prerequisites-goals
 

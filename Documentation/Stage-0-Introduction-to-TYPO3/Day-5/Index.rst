@@ -2,14 +2,16 @@
 
 .. _s5-d1
 
-=================
-Day 5 — ADD TITLE
-=================
+==============================
+Day 5 — TYPO3 in the Long Term
+==============================
 
 .. _s5-d1-lessons
 
 Today's lessons
 ===============
+
+The final day includes demonstrations of essential maintenance and security practices for TYPO3 websites. Instructors will show the update process for TYPO3 core and extensions, demonstrate security auditing tools, perform a backup and restore operation, and showcase performance optimization techniques. Students will observe how to identify and address common security vulnerabilities and see the impact of various optimization strategies on website performance. These demonstrations will establish the importance of proper maintenance procedures before students dive deeper into these topics in Stage 4.
 
 .. toctree::
     :titlesonly:

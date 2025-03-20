@@ -2,10 +2,11 @@
 
 .. _s5-d5-l6
 
-====================
-Lesson 6 — ADD TITLE
-====================
+========================================================
+Lesson 6 — Planning for Long-term Growth and Scalability
+========================================================
 
+A visual demonstration of how TYPO3 websites evolve over time. The showcase will include examples of sites that have scaled successfully. This presentation will illustrate strategic approaches to content growth and technical sustainability.
 
 .. _s5-d5-l6-prerequisites-goals
 

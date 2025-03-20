@@ -2,10 +2,11 @@
 
 .. _s5-d5-l3
 
-====================
-Lesson 3 — ADD TITLE
-====================
+=============================================
+Lesson 3 — User Management and Access Control
+=============================================
 
+A practical demonstration of TYPO3's permission system in operation. The showcase will illustrate different user configurations and their impact on system security. Examples will demonstrate how proper access control contributes to overall website protection.
 
 .. _s5-d5-l3-prerequisites-goals
 

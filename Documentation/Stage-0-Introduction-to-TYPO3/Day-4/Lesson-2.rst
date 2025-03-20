@@ -2,10 +2,11 @@
 
 .. _s5-d4-l2
 
-====================
-Lesson 2 — ADD TITLE
-====================
+==============================================
+Lesson 2 — Environment Types and Their Purpose
+==============================================
 
+A comparison of different TYPO3 environments in operation. The demonstration will showcase development, testing, staging, and production environments side by side, highlighting their distinct characteristics. These examples will illustrate how environments work together to ensure quality and stability.
 
 .. _s5-d4-l2-prerequisites-goals
 

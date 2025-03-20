@@ -2,14 +2,16 @@
 
 .. _s0-d1
 
-=================
-Day 1 — ADD TITLE
-=================
+=========================
+Day 1 — Discovering TYPO3
+=========================
 
 .. _s0-d1-lessons
 
 Today's lessons
 ===============
+
+This first day features live demonstrations of TYPO3's capabilities through real-world website examples. Instructors will guide students through the backend interface, showcasing how content is managed, pages are created, and extensions enhance functionality. Students will observe practical demonstrations of TYPO3's enterprise features, including user management, multilingual capabilities, and content workflows. These interactive sessions will provide a tangible understanding of TYPO3's power and flexibility while setting expectations for the skills students will develop throughout the curriculum.
 
 .. toctree::
     :titlesonly:

@@ -2,10 +2,11 @@
 
 .. _s5-d2-l5
 
-====================
-Lesson 5 — ADD TITLE
-====================
+===========================================
+Lesson 5 — Package Management with Composer
+===========================================
 
+A live demonstration of Composer in action, installing TYPO3 and managing extensions through dependency commands. The showcase will include dependency resolution, package updates, and environment consistency management. This practical demonstration will illustrate dependency management concepts in accessible terms.
 
 .. _s5-d2-l5-prerequisites-goals
 
