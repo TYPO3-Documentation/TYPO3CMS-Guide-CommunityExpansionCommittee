@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s4-d1
+.. _s4-d1:
 
 =========================================================
 Day 3 — TYPO3 Security Enhancements and System Monitoring
 =========================================================
 
-.. _s4-d1-lessons
+.. _s4-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today focuses on advanced TYPO3 security implementation and monitoring systems. 
     Lesson-7
 
 
-.. _s4-d3-prerequisites-goals
+.. _s4-d3-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s4-d3-prerequisites
+.. _s4-d3-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s4-d3-theoretical-prerequisites
+.. _s4-d3-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -52,7 +52,7 @@ This day assumes that you already know the following:
 * Foster collaborative learning through sharing and discussing TYPO3 upgrade experiences and challenges
 
 
-.. _s4-d3-practical-prerequisites
+.. _s4-d3-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -67,12 +67,12 @@ Before you start this day, please have the following things ready:
 * Shared and discussed upgrade experiences and solved upgrade challenges together
 
 
-.. _s4-d3-goals
+.. _s4-d3-goals:
 
 Goals
 -----
 
-.. _s4-d3-theoretical-goals
+.. _s4-d3-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -89,7 +89,7 @@ By the end of this day, you should know the following:
 * Develop theoretical knowledge of security response strategies and their practical application through drills
 
 
-.. _s4-d3-practical-goals
+.. _s4-d3-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

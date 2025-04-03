@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s4-d1
+.. _s4-d1:
 
 ====================================
 Day 2 — Performing Upgrades on TYPO3
 ====================================
 
-.. _s4-d1-lessons
+.. _s4-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today focuses on mastering TYPO3's upgrade processes and version management. Stu
     Lesson-7
 
 
-.. _s4-d2-prerequisites-goals
+.. _s4-d2-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s4-d2-prerequisites
+.. _s4-d2-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s4-d2-theoretical-prerequisites
+.. _s4-d2-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -53,7 +53,7 @@ This day assumes that you already know the following:
 * Gain hands-on experience in configuring security settings and securing TYPO3 against database vulnerabilities
 
 
-.. _s4-d2-practical-prerequisites
+.. _s4-d2-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -69,12 +69,12 @@ Before you start this day, please have the following things ready:
 * Managed user roles, permissions, and security policies in TYPO3
 
 
-.. _s4-d2-goals
+.. _s4-d2-goals:
 
 Goals
 -----
 
-.. _s4-d2-theoretical-goals
+.. _s4-d2-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -89,7 +89,7 @@ By the end of this day, you should know the following:
 * Foster collaborative learning through sharing and discussing TYPO3 upgrade experiences and challenges
 
 
-.. _s4-d2-practical-goals
+.. _s4-d2-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

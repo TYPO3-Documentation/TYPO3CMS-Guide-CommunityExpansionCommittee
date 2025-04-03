@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d4-l6
+.. _s2-d4-l6:
 
 ===============================================
 Lesson 6 — Creating custom templates with Fluid
 ===============================================
 
 
-.. _s2-d4-l6-prerequisites-goals
+.. _s2-d4-l6-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-d4-l6-prerequisites
+.. _s2-d4-l6-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-d4-l6-theoretical-prerequisites
+.. _s2-d4-l6-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Understand caching and template processing in TYPO3
 
 
-.. _s2-d4-l6-practical-prerequisites
+.. _s2-d4-l6-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Apply proper template maintenance practices
 
 
-.. _s2-d4-l6-goals
+.. _s2-d4-l6-goals:
 
 Goals
 -----
 
-.. _s2-d4-l6-theoretical-goals
+.. _s2-d4-l6-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Understand integration with TypoScript and backend layouts
 
 
-.. _s2-d4-l6-practical-goals
+.. _s2-d4-l6-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Apply advanced template integration techniques
 
 
-.. _s2-d4-l6-resources
+.. _s2-d4-l6-resources:
 
 Learning resources
 ==================
@@ -86,13 +86,13 @@ Learning resources
  <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/Fluid/DevelopCustomViewhelper.html>`__
 
 
-.. _s2-d4-l6-teacher
+.. _s2-d4-l6-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s2-d4-l6-student
+.. _s2-d4-l6-student:
 
 Student's instructions
 ======================

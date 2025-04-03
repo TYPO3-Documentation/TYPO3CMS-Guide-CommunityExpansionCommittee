@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d1
+.. _s3-d1:
 
 =============================================
 Day 5 — Review, Q&A, and Project Presentation
 =============================================
 
-.. _s3-d1-lessons
+.. _s3-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today consolidates the week's learning through interactive review and project pr
     Lesson-7
 
 
-.. _s3-d5-prerequisites-goals
+.. _s3-d5-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-d5-prerequisites
+.. _s3-d5-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-d5-theoretical-prerequisites
+.. _s3-d5-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -51,7 +51,7 @@ This day assumes that you already know the following:
 * Understand how to evaluate and refine deployment processes to reduce deployment times, minimize downtime, and improve overall efficiency in their CI/CD pipelines
 
 
-.. _s3-d5-practical-prerequisites
+.. _s3-d5-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,12 +65,12 @@ Before you start this day, please have the following things ready:
 * Use tools and techniques to streamline processes, improve pipeline performance, and ensure scalability
 
 
-.. _s3-d5-goals
+.. _s3-d5-goals:
 
 Goals
 -----
 
-.. _s3-d5-theoretical-goals
+.. _s3-d5-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -82,7 +82,7 @@ By the end of this day, you should know the following:
 * Acknowledge learning experiences
 
 
-.. _s3-d5-practical-goals
+.. _s3-d5-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

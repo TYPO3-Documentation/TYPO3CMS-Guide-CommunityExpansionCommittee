@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d1
+.. _s3-d1:
 
 =============================================================
 Day 1 — Introduction to Continuous Integration and Deployment
 =============================================================
 
-.. _s3-d1-lessons
+.. _s3-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today introduces the fundamentals of continuous integration and deployment in TY
     Lesson-7
 
 
-.. _s3-d1-prerequisites-goals
+.. _s3-d1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-d1-prerequisites
+.. _s3-d1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-d1-theoretical-prerequisites
+.. _s3-d1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +48,7 @@ This day assumes that you already know the following:
 * The theoretical knowledge goals of the previous curriculum stage
 
 
-.. _s3-d1-practical-prerequisites
+.. _s3-d1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -59,12 +59,12 @@ Before you start this day, please have the following things ready:
 * The practical knowledge goals of the previous curriculum stage
 
 
-.. _s3-d1-goals
+.. _s3-d1-goals:
 
 Goals
 -----
 
-.. _s3-d1-theoretical-goals
+.. _s3-d1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -79,7 +79,7 @@ By the end of this day, you should know the following:
 * Recognize the components of effective deployment workflows and understand how to design these to enhance collaboration and efficiency.
 
 
-.. _s3-d1-practical-goals
+.. _s3-d1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

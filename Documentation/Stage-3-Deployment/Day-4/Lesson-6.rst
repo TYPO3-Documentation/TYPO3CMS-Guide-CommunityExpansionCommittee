@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d4-l6
+.. _s3-d4-l6:
 
 ==================================================================================================
 Lesson 6 — Integrating, customizing, and optimizing CI/CD pipelines for robustness and scalability
 ==================================================================================================
 
 
-.. _s3-d4-l6-prerequisites-goals
+.. _s3-d4-l6-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-d4-l6-prerequisites
+.. _s3-d4-l6-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-d4-l6-theoretical-prerequisites
+.. _s3-d4-l6-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Study automated issue detection approaches
 
 
-.. _s3-d4-l6-practical-prerequisites
+.. _s3-d4-l6-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Set up automated issue detection
 
 
-.. _s3-d4-l6-goals
+.. _s3-d4-l6-goals:
 
 Goals
 -----
 
-.. _s3-d4-l6-theoretical-goals
+.. _s3-d4-l6-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Study advanced pipeline monitoring approaches
 
 
-.. _s3-d4-l6-practical-goals
+.. _s3-d4-l6-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Set up comprehensive monitoring systems
 
 
-.. _s3-d4-l6-resources
+.. _s3-d4-l6-resources:
 
 Learning resources
 ==================
@@ -84,13 +84,13 @@ Learning resources
 * `GitHub Actions - Monitor Workflows <https://docs.github.com/en/enterprise-cloud@latest/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows>`__
 
 
-.. _s3-d4-l6-teacher
+.. _s3-d4-l6-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s3-d4-l6-student
+.. _s3-d4-l6-student:
 
 Student's instructions
 ======================

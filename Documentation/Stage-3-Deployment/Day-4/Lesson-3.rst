@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d4-l3
+.. _s3-d4-l3:
 
 ====================================================================
 Lesson 3 — Conducting effective code reviews and addressing feedback
 ====================================================================
 
 
-.. _s3-d4-l3-prerequisites-goals
+.. _s3-d4-l3-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-d4-l3-prerequisites
+.. _s3-d4-l3-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-d4-l3-theoretical-prerequisites
+.. _s3-d4-l3-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Study automated recovery procedure implementation
 
 
-.. _s3-d4-l3-practical-prerequisites
+.. _s3-d4-l3-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Set up backup monitoring and verification systems
 
 
-.. _s3-d4-l3-goals
+.. _s3-d4-l3-goals:
 
 Goals
 -----
 
-.. _s3-d4-l3-theoretical-goals
+.. _s3-d4-l3-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Study automated code review tool implementation
 
 
-.. _s3-d4-l3-practical-goals
+.. _s3-d4-l3-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Execute effective review communication procedures
 
 
-.. _s3-d4-l3-resources
+.. _s3-d4-l3-resources:
 
 Learning resources
 ==================
@@ -85,13 +85,13 @@ Learning resources
 * `Code Review Tips <https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/>`__
 
 
-.. _s3-d4-l3-teacher
+.. _s3-d4-l3-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s3-d4-l3-student
+.. _s3-d4-l3-student:
 
 Student's instructions
 ======================

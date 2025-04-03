@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s4-d1-l1
+.. _s4-d1-l1:
 
 ====================================================
 Lesson 1 — Introduction to TYPO3 System Architecture
 ====================================================
 
 
-.. _s4-d1-l1-prerequisites-goals
+.. _s4-d1-l1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s4-d1-l1-prerequisites
+.. _s4-d1-l1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s4-d1-l1-theoretical-prerequisites
+.. _s4-d1-l1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -30,7 +30,7 @@ This lesson assumes that you already know the following:
 * The theoretical knowledge goals of the previous curriculum stages
 
 
-.. _s4-d1-l1-practical-prerequisites
+.. _s4-d1-l1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -41,12 +41,12 @@ Before you start this lesson, please have the following things ready:
 * The practical knowledge goals of the previous curriculum stage
 
 
-.. _s4-d1-l1-goals
+.. _s4-d1-l1-goals:
 
 Goals
 -----
 
-.. _s4-d1-l1-theoretical-goals
+.. _s4-d1-l1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -59,7 +59,7 @@ By the end of this lesson, you should know the following:
 * Grasp TYPO3's database structure and request handling
 
 
-.. _s4-d1-l1-practical-goals
+.. _s4-d1-l1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -72,7 +72,7 @@ By the end of this lesson, you should have completed the following:
 * Implement basic system optimization techniques
 
 
-.. _s4-d1-l1-resources
+.. _s4-d1-l1-resources:
 
 Learning resources
 ==================
@@ -81,13 +81,13 @@ Learning resources
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s4-d1-l1-teacher
+.. _s4-d1-l1-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s4-d1-l1-student
+.. _s4-d1-l1-student:
 
 Student's instructions
 ======================

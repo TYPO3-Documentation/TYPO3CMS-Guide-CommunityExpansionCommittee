@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d5-l5
+.. _s3-d5-l5:
 
 ==========================================================================================
 Lesson 5 — Applying insights and suggestions to improve both your project and others' work
 ==========================================================================================
 
 
-.. _s3-d5-l5-prerequisites-goals
+.. _s3-d5-l5-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-d5-l5-prerequisites
+.. _s3-d5-l5-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-d5-l5-theoretical-prerequisites
+.. _s3-d5-l5-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Study peer review best practices
 
 
-.. _s3-d5-l5-practical-prerequisites
+.. _s3-d5-l5-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Share improvement suggestions effectively
 
 
-.. _s3-d5-l5-goals
+.. _s3-d5-l5-goals:
 
 Goals
 -----
 
-.. _s3-d5-l5-theoretical-goals
+.. _s3-d5-l5-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Study solution optimization approaches
 
 
-.. _s3-d5-l5-practical-goals
+.. _s3-d5-l5-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Enhance project quality through revisions
 
 
-.. _s3-d5-l5-resources
+.. _s3-d5-l5-resources:
 
 Learning resources
 ==================
@@ -84,13 +84,13 @@ Learning resources
 * Intentionally left empty
 
 
-.. _s3-d5-l5-teacher
+.. _s3-d5-l5-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s3-d5-l5-student
+.. _s3-d5-l5-student:
 
 Student's instructions
 ======================

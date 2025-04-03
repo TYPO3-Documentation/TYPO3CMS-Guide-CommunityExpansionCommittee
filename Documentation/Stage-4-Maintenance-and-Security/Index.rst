@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s4
+.. _s4:
 
 ==================================
 Stage 4 — Maintenance and Security
 ==================================
 
-.. _s4-about
+.. _s4-about:
 
 About this stage
 ================
@@ -22,19 +22,19 @@ This stage is focused on maintaining and securing TYPO3 installations. Over five
     Day-4/Index
     Day-5/Index
 
-.. _s4-prerequisites-goals
+.. _s4-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s4-prerequisites
+.. _s4-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s4-theoretical-prerequisites
+.. _s4-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -52,7 +52,7 @@ Particularly important to know for success at this stage:
 * Backup best practices for continuous deployment environments.
 
 
-.. _s4-practical-prerequisites
+.. _s4-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,12 +65,12 @@ Before you start this stage, please have the following things ready:
 Ideally a contribution team with other contributors should be available for you to test best-practice collaboration and review processes.
 
 
-.. _s4-goals
+.. _s4-goals:
 
 Goals
 -----
 
-.. _s4-theoretical-goals
+.. _s4-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -86,7 +86,7 @@ By the end of this stage, you should know the following:
 * Who to work with and best practices for handling compromised live environments and minimizing impact.
 
 
-.. _s4-practical-goals
+.. _s4-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

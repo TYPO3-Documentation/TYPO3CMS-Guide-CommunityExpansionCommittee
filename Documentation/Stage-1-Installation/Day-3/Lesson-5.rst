@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d3-l5
+.. _s1-d3-l5:
 
 =========================================================================
 Lesson 5 — Cloning a Git repository in your local development environment
 =========================================================================
 
 
-.. _s1-d3-l5-prerequisites-goals
+.. _s1-d3-l5-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d3-l5-prerequisites
+.. _s1-d3-l5-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d3-l5-theoretical-prerequisites
+.. _s1-d3-l5-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Study collaborative development workflows
 
 
-.. _s1-d3-l5-practical-prerequisites
+.. _s1-d3-l5-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Initialize project structure in repository
 
 
-.. _s1-d3-l5-goals
+.. _s1-d3-l5-goals:
 
 Goals
 -----
 
-.. _s1-d3-l5-theoretical-goals
+.. _s1-d3-l5-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Study development environment integration practices
 
 
-.. _s1-d3-l5-practical-goals
+.. _s1-d3-l5-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Verify repository functionality in development environment
 
 
-.. _s1-d3-l5-resources
+.. _s1-d3-l5-resources:
 
 Learning resources
 ==================
@@ -87,13 +87,13 @@ Learning resources
 * `Git Tools - Submodules <https://git-scm.com/book/en/v2/Git-Tools-Submodules>`__
 
 
-.. _s1-d3-l5-teacher
+.. _s1-d3-l5-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s1-d3-l5-student
+.. _s1-d3-l5-student:
 
 Student's instructions
 ======================

@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d2-l2
+.. _s2-d2-l2:
 
 ========================================
 Lesson 2 — Working with Content Elements
 ========================================
 
 
-.. _s2-d2-l2-prerequisites-goals
+.. _s2-d2-l2-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-d2-l2-prerequisites
+.. _s2-d2-l2-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-d2-l2-theoretical-prerequisites
+.. _s2-d2-l2-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Grasp essential TYPO3 terminology related to page management, including slugs, page properties, and menu visibility settings
 
 
-.. _s2-d2-l2-practical-prerequisites
+.. _s2-d2-l2-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Effectively use TYPO3's drag-and-drop functionality to organize and restructure page trees
 
 
-.. _s2-d2-l2-goals
+.. _s2-d2-l2-goals:
 
 Goals
 -----
 
-.. _s2-d2-l2-theoretical-goals
+.. _s2-d2-l2-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Understand how content elements interact with page layouts and different display options available in TYPO3
 
 
-.. _s2-d2-l2-practical-goals
+.. _s2-d2-l2-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Apply proper content element spacing and positioning techniques to achieve desired page layouts
 
 
-.. _s2-d2-l2-resources
+.. _s2-d2-l2-resources:
 
 Learning resources
 ==================
@@ -84,13 +84,13 @@ Learning resources
 * `The content elements <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/main/en-us/ContentElements/Index.html>`__
 
 
-.. _s2-d2-l2-teacher
+.. _s2-d2-l2-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s2-d2-l2-student
+.. _s2-d2-l2-student:
 
 Student's instructions
 ======================

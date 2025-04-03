@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s5
+.. _s5:
 
 ================================
 Stage 5 — Project Implementation
 ================================
 
-.. _s5-about
+.. _s5-about:
 
 About this stage
 ================
@@ -22,19 +22,19 @@ SHORT INTRODUCTORY TEXT
     Day-4/Index
     Day-5/Index
 
-.. _s5-prerequisites-goals
+.. _s5-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s5-prerequisites
+.. _s5-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s5-theoretical-prerequisites
+.. _s5-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,7 +46,7 @@ This stage assumes that you already know the following:
 * How to implement security and collaboration practices for quality assurance in development and emergency handling in production.
 
 
-.. _s0-practical-prerequisites
+.. _s0-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -56,12 +56,12 @@ Before you start this stage, please have the following things ready:
 * Local development environment with a local version of a live TYPO3 installation, connected through a continuous integration and continuous deployment pipeline.
 
 
-.. _s0-goals
+.. _s0-goals:
 
 Goals
 -----
 
-.. _s0-theoretical-goals
+.. _s0-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -79,7 +79,7 @@ By the end of this stage, you should know the following:
 * How to report bugs in the TYPO3 core, including how to safely deal with security-related issues
 
 
-.. _s0-practical-goals
+.. _s0-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

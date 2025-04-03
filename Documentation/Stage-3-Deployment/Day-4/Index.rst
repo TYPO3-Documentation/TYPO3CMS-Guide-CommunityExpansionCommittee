@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d1
+.. _s3-d1:
 
 =================================================
 Day 4 — Practical Application and Troubleshooting
 =================================================
 
-.. _s3-d1-lessons
+.. _s3-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today concentrates on real-world CI/CD troubleshooting and optimization. Student
     Lesson-7
 
 
-.. _s3-d4-prerequisites-goals
+.. _s3-d4-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-d4-prerequisites
+.. _s3-d4-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-d4-theoretical-prerequisites
+.. _s3-d4-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,7 +50,7 @@ This day assumes that you already know the following:
 * Understand how to effectively plan and execute backups in continuous deployment environments
 
 
-.. _s3-d4-practical-prerequisites
+.. _s3-d4-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,12 +65,12 @@ Before you start this day, please have the following things ready:
 * Deployed database schema changes and automated data migrations using TYPO3 core technologies
 
 
-.. _s3-d4-goals
+.. _s3-d4-goals:
 
 Goals
 -----
 
-.. _s3-d4-theoretical-goals
+.. _s3-d4-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -84,7 +84,7 @@ By the end of this day, you should know the following:
 * Understand how to evaluate and refine deployment processes to reduce deployment times, minimize downtime, and improve overall efficiency in their CI/CD pipelines
 
 
-.. _s3-d4-practical-goals
+.. _s3-d4-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

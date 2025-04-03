@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d5-l4
+.. _s2-d5-l4:
 
 =========================================================
 Lesson 4 — Optimizing performance and efficiency in TYPO3
 =========================================================
 
 
-.. _s2-d5-l4-prerequisites-goals
+.. _s2-d5-l4-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-d5-l4-prerequisites
+.. _s2-d5-l4-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-d5-l4-theoretical-prerequisites
+.. _s2-d5-l4-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Understand content rendering and templating options
 
 
-.. _s2-d5-l4-practical-prerequisites
+.. _s2-d5-l4-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Apply proper content rendering templates
 
 
-.. _s2-d5-l4-goals
+.. _s2-d5-l4-goals:
 
 Goals
 -----
 
-.. _s2-d5-l4-theoretical-goals
+.. _s2-d5-l4-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Understand frontend performance best practices
 
 
-.. _s2-d5-l4-practical-goals
+.. _s2-d5-l4-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Apply performance monitoring and improvement techniques
 
 
-.. _s2-d5-l4-resources
+.. _s2-d5-l4-resources:
 
 Learning resources
 ==================
@@ -84,13 +84,13 @@ Learning resources
 * `Caching in TYPO3 <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/CachingFramework/Index.html>`__
 
 
-.. _s2-d5-l4-teacher
+.. _s2-d5-l4-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s2-d5-l4-student
+.. _s2-d5-l4-student:
 
 Student's instructions
 ======================

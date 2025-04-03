@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d2-l1
+.. _s1-d2-l1:
 
 ================================================
 Lesson 1 — Installing DDEV for local development
 ================================================
 
 
-.. _s1-d2-l1-prerequisites-goals
+.. _s1-d2-l1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d2-l1-prerequisites
+.. _s1-d2-l1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d2-l1-theoretical-prerequisites
+.. _s1-d2-l1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -35,7 +35,7 @@ This lesson assumes that you already know the following:
 * Basic understanding of Composer
 * Basic understanding of the Bootstrap framework
 
-.. _s1-d2-l1-practical-prerequisites
+.. _s1-d2-l1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,12 +48,12 @@ Before you start this lesson, please have the following things ready:
 * You have been introduced to the different documentation sources
 
 
-.. _s1-d2-l1-goals
+.. _s1-d2-l1-goals:
 
 Goals
 -----
 
-.. _s1-d2-l1-theoretical-goals
+.. _s1-d2-l1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -66,7 +66,7 @@ By the end of this lesson, you should know the following:
 * Study DDEV configuration file structure
 
 
-.. _s1-d2-l1-practical-goals
+.. _s1-d2-l1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -79,7 +79,7 @@ By the end of this lesson, you should have completed the following:
 * Configure basic DDEV settings
 
 
-.. _s1-d2-l1-resources
+.. _s1-d2-l1-resources:
 
 Learning resources
 ==================
@@ -90,13 +90,13 @@ Learning resources
 * `Docker: Installation Guide <https://docs.docker.com/get-started/get-docker/>`__
 
 
-.. _s1-d2-l1-teacher
+.. _s1-d2-l1-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s1-d2-l1-student
+.. _s1-d2-l1-student:
 
 Student's instructions
 ======================

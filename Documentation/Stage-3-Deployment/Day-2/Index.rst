@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d1
+.. _s3-d1:
 
 ====================================================
 Day 2 — Testing Environments and Database Management
 ====================================================
 
-.. _s3-d1-lessons
+.. _s3-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today focuses on managing different TYPO3 environments and database operations i
     Lesson-7
 
 
-.. _s3-d2-prerequisites-goals
+.. _s3-d2-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-d2-prerequisites
+.. _s3-d2-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-d2-theoretical-prerequisites
+.. _s3-d2-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -52,7 +52,7 @@ This day assumes that you already know the following:
 * Recognize the components of effective deployment workflows and understand how to design these to enhance collaboration and efficiency.
 
 
-.. _s3-d2-practical-prerequisites
+.. _s3-d2-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,12 +64,12 @@ Before you start this day, please have the following things ready:
 * Created and managed multiple environment setups, ensuring each is optimized for its purpose.
 
 
-.. _s3-d2-goals
+.. _s3-d2-goals:
 
 Goals
 -----
 
-.. _s3-d2-theoretical-goals
+.. _s3-d2-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -83,7 +83,7 @@ By the end of this day, you should know the following:
 * Know the theoretical best practices for handling these changes seamlessly
 
 
-.. _s3-d2-practical-goals
+.. _s3-d2-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

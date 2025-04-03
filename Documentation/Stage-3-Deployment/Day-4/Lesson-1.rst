@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d4-l1
+.. _s3-d4-l1:
 
 ==============================================================
 Lesson 1 — Diagnosing and fixing common issues in CI workflows
 ==============================================================
 
 
-.. _s3-d4-l1-prerequisites-goals
+.. _s3-d4-l1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-d4-l1-prerequisites
+.. _s3-d4-l1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-d4-l1-theoretical-prerequisites
+.. _s3-d4-l1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -33,7 +33,7 @@ This lesson assumes that you already know the following:
 
 
 
-.. _s3-d4-l1-practical-prerequisites
+.. _s3-d4-l1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,12 +48,12 @@ Before you start this lesson, please have the following things ready:
 * Deployed database schema changes and automated data migrations using TYPO3 core technologies
 
 
-.. _s3-d4-l1-goals
+.. _s3-d4-l1-goals:
 
 Goals
 -----
 
-.. _s3-d4-l1-theoretical-goals
+.. _s3-d4-l1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -66,7 +66,7 @@ By the end of this lesson, you should know the following:
 * Study pipeline optimization and reliability techniques
 
 
-.. _s3-d4-l1-practical-goals
+.. _s3-d4-l1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -79,7 +79,7 @@ By the end of this lesson, you should have completed the following:
 * Set up pipeline monitoring and alerting systems
 
 
-.. _s3-d4-l1-resources
+.. _s3-d4-l1-resources:
 
 Learning resources
 ==================
@@ -88,13 +88,13 @@ Learning resources
 * `GitHub Actions - workflows <https://docs.github.com/en/actions/writing-workflows/about-workflows>`__
 
 
-.. _s3-d4-l1-teacher
+.. _s3-d4-l1-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s3-d4-l1-student
+.. _s3-d4-l1-student:
 
 Student's instructions
 ======================
