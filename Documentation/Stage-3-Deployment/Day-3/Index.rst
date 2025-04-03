@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d1:
+.. _s3-d3:
 
 ===========================================================
 Day 3 — Advanced CI/CD Implementation and Quality Assurance
 ===========================================================
 
-.. _s3-d1-lessons:
+.. _s3-d3-lessons:
 
 Today's lessons
 ===============

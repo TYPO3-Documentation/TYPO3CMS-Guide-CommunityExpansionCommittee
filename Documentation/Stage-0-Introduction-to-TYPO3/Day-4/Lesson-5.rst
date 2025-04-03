@@ -1,6 +1,6 @@
 .. include:: /Includes.rst.txt
 
-.. _s5-d4-l5:
+.. _s0-d4-l5:
 
 =============================================
 Lesson 5 — Continuous Integration and Testing
@@ -8,19 +8,19 @@ Lesson 5 — Continuous Integration and Testing
 
 A demonstration of continuous integration tools processing TYPO3 code changes. The showcase will include automated tests executing, code quality checks running, and deployment triggering based on results. This presentation will illustrate how automation improves reliability in the deployment process.
 
-.. _s5-d4-l5-prerequisites-goals:
+.. _s0-d4-l5-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s5-d4-l5-prerequisites:
+.. _s0-d4-l5-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s5-d4-l5-theoretical-prerequisites:
+.. _s0-d4-l5-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Item 3
 
 
-.. _s5-d4-l5-practical-prerequisites:
+.. _s0-d4-l5-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,12 +44,12 @@ Before you start this lesson, please have the following things ready:
 * Item 3
 
 
-.. _s5-d4-l5-goals:
+.. _s0-d4-l5-goals:
 
 Goals
 -----
 
-.. _s5-d4-l5-theoretical-goals:
+.. _s0-d4-l5-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -61,7 +61,7 @@ By the end of this lesson, you should know the following:
 * Item 3
 
 
-.. _s5-d4-l5-practical-goals:
+.. _s0-d4-l5-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -73,7 +73,7 @@ By the end of this lesson, you should have completed the following:
 * Item 3
 
 
-.. _s5-d4-l5-resources:
+.. _s0-d4-l5-resources:
 
 Learning resources
 ==================
@@ -82,13 +82,13 @@ Learning resources
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s5-d4-l5-teacher:
+.. _s0-d4-l5-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s5-d4-l5-student:
+.. _s0-d4-l5-student:
 
 Student's instructions
 ======================

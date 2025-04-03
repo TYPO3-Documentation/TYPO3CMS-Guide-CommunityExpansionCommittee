@@ -73,7 +73,7 @@ By the end of this lesson, you should have completed the following:
 * Item 3
 
 
-.. _s5-d1-l4-resources:
+.. _s0-d1-l4-resources:
 
 Learning resources
 ==================
@@ -82,13 +82,13 @@ Learning resources
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s5-d1-l4-teacher:
+.. _s0-d1-l4-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s5-d1-l4-student:
+.. _s0-d1-l4-student:
 
 Student's instructions
 ======================

@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s4-d1:
+.. _s4-d3:
 
 =========================================================
 Day 3 — TYPO3 Security Enhancements and System Monitoring
 =========================================================
 
-.. _s4-d1-lessons:
+.. _s4-d3-lessons:
 
 Today's lessons
 ===============

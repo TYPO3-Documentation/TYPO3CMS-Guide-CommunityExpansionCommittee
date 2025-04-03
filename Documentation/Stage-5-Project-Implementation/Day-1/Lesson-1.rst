@@ -87,7 +87,7 @@ Teacher's instructions
 ======================
 
 
-.. _s0-d1-l1-student:
+.. _s5-d1-l1-student:
 
 Student's instructions
 ======================

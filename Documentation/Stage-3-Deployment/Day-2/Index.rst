@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d1:
+.. _s3-d2:
 
 ====================================================
 Day 2 — Testing Environments and Database Management
 ====================================================
 
-.. _s3-d1-lessons:
+.. _s3-d2-lessons:
 
 Today's lessons
 ===============

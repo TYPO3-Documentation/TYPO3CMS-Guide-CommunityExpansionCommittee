@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Item 3
 
 
-.. _s5-d2-l3-practical-prerequisites:
+.. _s0-d2-l3-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,12 +44,12 @@ Before you start this lesson, please have the following things ready:
 * Item 3
 
 
-.. _s5-d2-l3-goals:
+.. _s0-d2-l3-goals:
 
 Goals
 -----
 
-.. _s5-d2-l3-theoretical-goals:
+.. _s0-d2-l3-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -61,7 +61,7 @@ By the end of this lesson, you should know the following:
 * Item 3
 
 
-.. _s5-d2-l3-practical-goals:
+.. _s0-d2-l3-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -73,7 +73,7 @@ By the end of this lesson, you should have completed the following:
 * Item 3
 
 
-.. _s5-d2-l3-resources:
+.. _s0-d2-l3-resources:
 
 Learning resources
 ==================
@@ -82,13 +82,13 @@ Learning resources
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s5-d2-l3-teacher:
+.. _s0-d2-l3-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s5-d2-l3-student:
+.. _s0-d2-l3-student:
 
 Student's instructions
 ======================

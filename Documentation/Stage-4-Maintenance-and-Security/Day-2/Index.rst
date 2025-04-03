@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s4-d1:
+.. _s4-d2:
 
 ====================================
 Day 2 — Performing Upgrades on TYPO3
 ====================================
 
-.. _s4-d1-lessons:
+.. _s4-d2-lessons:
 
 Today's lessons
 ===============

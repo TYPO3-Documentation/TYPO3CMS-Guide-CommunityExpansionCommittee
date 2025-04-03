@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d1:
+.. _s3-d4:
 
 =================================================
 Day 4 — Practical Application and Troubleshooting
 =================================================
 
-.. _s3-d1-lessons:
+.. _s3-d4-lessons:
 
 Today's lessons
 ===============

@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s0-d1:
+.. _s0-d2:
 
 ===============================================
 Day 2 — TYPO3 Ecosystem: Tools and Technologies
 ===============================================
 
-.. _s0-d1-lessons:
+.. _s0-d2-lessons:
 
 Today's lessons
 ===============

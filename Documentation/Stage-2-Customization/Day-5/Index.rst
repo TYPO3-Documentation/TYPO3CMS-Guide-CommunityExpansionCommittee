@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d1:
+.. _s2-d5:
 
 =========================================================
 Day 5 — Creating and configuring a site package extension
 =========================================================
 
-.. _s2-d1-lessons:
+.. _s2-d5-lessons:
 
 Today's lessons
 ===============

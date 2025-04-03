@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d1:
+.. _s2-d3:
 
 ==============================================
 Day 3 — Advanced TYPO3 concepts and typoscript
 ==============================================
 
-.. _s2-d1-lessons:
+.. _s2-d3-lessons:
 
 Today's lessons
 ===============
