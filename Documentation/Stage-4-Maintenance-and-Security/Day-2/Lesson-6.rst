@@ -81,8 +81,9 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `TYPO3 Version Control <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/Administration/Upgrade/MigrateToComposer/VersionControl.html#version-control>`__
+* `Backup strategy
+ <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/Security/Backups/Index.html#security-backups>`__
 
 
 .. _s4-d2-l6-teacher:

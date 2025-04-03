@@ -81,8 +81,9 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Extension scanner <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ExtensionArchitecture/HowTo/UpdateExtensions/ExtensionScanner.html#extension-scanner>`__
+* `TYPO3 Deprecation <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/Deprecation/Index.html#deprecation>`__
+* `Update your extension for new TYPO3 versions <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ExtensionArchitecture/HowTo/UpdateExtensions/Index.html#update-extension>`__
 
 
 .. _s4-d2-l4-teacher:

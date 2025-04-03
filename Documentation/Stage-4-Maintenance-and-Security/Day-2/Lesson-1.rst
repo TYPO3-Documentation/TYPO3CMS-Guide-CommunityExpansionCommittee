@@ -87,8 +87,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `System requirements <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Installation/SystemRequirements/Index.html#system-requirements>`__
+* `TYPO3 Roadmap <https://typo3.org/cms/roadmap>`__
 
 
 .. _s4-d2-l1-teacher:
