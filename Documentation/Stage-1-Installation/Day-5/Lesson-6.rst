@@ -81,8 +81,12 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* :ref:`Day 1 - Lesson 3's learning resources <s1-d1-l3-resources>`
+* :ref:`Day 2 - Lesson 2's learning resources <s1-d2-l2-resources>`
+* :ref:`Day 3 - Lesson 1's learning resources <s1-d3-l1-resources>`
+* :ref:`Day 3 - Lesson 4's learning resources <s1-d3-l4-resources>`
+* :ref:`Day 4 - Lesson 1's learning resources <s1-d4-l1-resources>`
+* :ref:`Day 4 - Lesson 4's learning resources <s1-d4-l4-resources>`
 
 
 .. _s1-d5-l6-teacher:
