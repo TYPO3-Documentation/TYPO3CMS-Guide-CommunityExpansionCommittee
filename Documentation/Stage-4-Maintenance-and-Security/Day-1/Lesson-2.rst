@@ -81,8 +81,10 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `TYPO3 Scheduler <https://docs.typo3.org/c/typo3/cms-scheduler/main/en-us/Index.html#start>`__
+* `TYPO3 Maintenance <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/Fal/Administration/Maintenance.html#fal-administration-maintenance>`__
+* `Cleanup Tasks <https://docs.typo3.org/m/typo3/guide-contributionworkflow/main/en-us/HandlingAPatch/CleanupTypo3.html#cleanup-tasks>`__
+* `Configuration of the logging system <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/Logging/Configuration/Index.html#logging-configuration>`__
 
 
 .. _s4-d1-l2-teacher:

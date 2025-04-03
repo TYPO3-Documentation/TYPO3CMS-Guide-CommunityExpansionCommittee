@@ -81,8 +81,7 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Applying Core patches <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/Administration/Upgrade/ApplyingCorePatches/Index.html#applying-core-patches>`__
 
 
 .. _s4-d4-l3-teacher:

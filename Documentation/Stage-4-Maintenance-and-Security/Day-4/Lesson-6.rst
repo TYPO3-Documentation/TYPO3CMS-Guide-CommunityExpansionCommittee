@@ -81,8 +81,7 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Security in TYPO3 <https://typo3.org/community/teams/security/security-in-typo3>`__
 
 
 .. _s4-d4-l6-teacher:

@@ -81,8 +81,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `What is an SSL certificate? <https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/>`__
+* `Enforce HTTPS connections <https://developers.cloudflare.com/ssl/edge-certificates/encrypt-visitor-traffic/>`__
 
 
 .. _s4-d3-l3-teacher:

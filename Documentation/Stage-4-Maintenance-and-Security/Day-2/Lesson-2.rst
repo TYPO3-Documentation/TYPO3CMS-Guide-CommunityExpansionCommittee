@@ -81,8 +81,8 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `Upgrading the TYPO3 Core and extensions <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/Administration/Upgrade/#upgrading>`__
+* `TYPO3 Core Changelog <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Index.html#typo3-core-changelog>`__
 
 
 .. _s4-d2-l2-teacher:

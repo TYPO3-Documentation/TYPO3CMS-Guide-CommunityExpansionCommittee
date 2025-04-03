@@ -77,8 +77,11 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
+* `TYPO3 Directory structure <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/Administration/DirectoryStructure/Index.html#directory-structure>`__
+* `TYPO3 File structure <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ExtensionArchitecture/FileStructure/Index.html#extension-reserved-folders-legacy>`__
+* `Config <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/Administration/DirectoryStructure/Index.html#directory-config-system>`__
+* `TYPO3 Caching <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/CachingFramework/Index.html#caching>`__
+
 
 
 .. _s4-d1-l1-teacher:
