@@ -2,9 +2,9 @@
 
 .. _s5-d2-l5:
 
-====================
-Lesson 5 — ADD TITLE
-====================
+===================================================================
+Lesson 5 — Developing Fluid templates for structured content output
+===================================================================
 
 
 .. _s5-d2-l5-prerequisites-goals:

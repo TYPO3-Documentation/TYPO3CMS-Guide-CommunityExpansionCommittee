@@ -11,7 +11,7 @@ Stage 5 — Project Implementation
 About this stage
 ================
 
-SHORT INTRODUCTORY TEXT
+In this final stage of the TYPO3 onboarding curriculum, participants apply their knowledge to build, optimize, and deploy a fully functional TYPO3 project. The process begins with project planning, environment setup, and backend configuration, ensuring a solid foundation for content management. The focus then shifts to frontend development, where templates, theming, and interactivity are implemented to create a seamless user experience. Once the core functionality is in place, rigorous testing, debugging, and performance optimization are conducted to ensure a high-quality, secure, and efficient TYPO3 site. The stage culminates in deployment, where best practices for CI/CD, staging, and production management are followed for a smooth launch. Finally, post-launch monitoring and continuous improvements are addressed, ensuring long-term project success.
 
 .. toctree::
     :titlesonly:

@@ -2,9 +2,9 @@
 
 .. _s5-d2-l4:
 
-====================
-Lesson 4 — ADD TITLE
-====================
+===========================================================================
+Lesson 4 — Installing & configuring extensions for additional functionality
+===========================================================================
 
 
 .. _s5-d2-l4-prerequisites-goals:

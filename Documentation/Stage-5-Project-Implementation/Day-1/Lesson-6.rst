@@ -2,9 +2,9 @@
 
 .. _s5-d1-l6:
 
-====================
-Lesson 6 — ADD TITLE
-====================
+================================
+Lesson 6 — Backend configuration
+================================
 
 
 .. _s5-d1-l6-prerequisites-goals:
