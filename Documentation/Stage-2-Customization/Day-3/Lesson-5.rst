@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d3-l5
+.. _s2-d3-l5:
 
 =====================================================
 Lesson 5 — Implementing and customizing Page TsConfig
 =====================================================
 
 
-.. _s2-d3-l5-prerequisites-goals
+.. _s2-d3-l5-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-d3-l5-prerequisites
+.. _s2-d3-l5-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-d3-l5-theoretical-prerequisites
+.. _s2-d3-l5-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Understand how backend layouts interact with TypoScript configurations
 
 
-.. _s2-d3-l5-practical-prerequisites
+.. _s2-d3-l5-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Apply backend layouts to different page types and template configurations
 
 
-.. _s2-d3-l5-goals
+.. _s2-d3-l5-goals:
 
 Goals
 -----
 
-.. _s2-d3-l5-theoretical-goals
+.. _s2-d3-l5-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Understand how Page TSconfig affects content editing and page behavior
 
 
-.. _s2-d3-l5-practical-goals
+.. _s2-d3-l5-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Apply proper inheritance strategies for Page TSconfig across the page tree
 
 
-.. _s2-d3-l5-resources
+.. _s2-d3-l5-resources:
 
 Learning resources
 ==================
@@ -84,13 +84,13 @@ Learning resources
 * `Page TSconfig <https://docs.typo3.org/m/typo3/reference-typoscript/main/en-us/PageTsconfig/Index.html>`__
 
 
-.. _s2-d3-l5-teacher
+.. _s2-d3-l5-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s2-d3-l5-student
+.. _s2-d3-l5-student:
 
 Student's instructions
 ======================

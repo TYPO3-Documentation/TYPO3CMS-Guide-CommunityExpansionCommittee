@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d1-l5
+.. _s2-d1-l5:
 
 ==============================================
 Lesson 5 — Adding and editing content elements
 ==============================================
 
 
-.. _s2-d1-l5-prerequisites-goals
+.. _s2-d1-l5-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-d1-l5-prerequisites
+.. _s2-d1-l5-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-d1-l5-theoretical-prerequisites
+.. _s2-d1-l5-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -31,7 +31,7 @@ This lesson assumes that you already know the following:
 * Explore how the page tree relates to site navigation and content hierarchy
 
 
-.. _s2-d1-l5-practical-prerequisites
+.. _s2-d1-l5-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,12 +42,12 @@ Before you start this lesson, please have the following things ready:
 * Manage the page tree to reflect the desired site structure
 
 
-.. _s2-d1-l5-goals
+.. _s2-d1-l5-goals:
 
 Goals
 -----
 
-.. _s2-d1-l5-theoretical-goals
+.. _s2-d1-l5-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -59,7 +59,7 @@ By the end of this lesson, you should know the following:
 * Explore how content elements are used within pages.
 
 
-.. _s2-d1-l5-practical-goals
+.. _s2-d1-l5-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -70,7 +70,7 @@ By the end of this lesson, you should have completed the following:
 * Customize content elements to meet specific design and content needs
 
 
-.. _s2-d1-l5-resources
+.. _s2-d1-l5-resources:
 
 Learning resources
 ==================
@@ -80,13 +80,13 @@ Learning resources
 * `Changing A Content Element Type <https://www.youtube.com/watch?v=JR3sOeRImTo&list=PL-sDBIrOKGOaguYrZbJebKIEgoIxCnN4V&index=7>`__
 
 
-.. _s2-d1-l5-teacher
+.. _s2-d1-l5-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s2-d1-l5-student
+.. _s2-d1-l5-student:
 
 Student's instructions
 ======================

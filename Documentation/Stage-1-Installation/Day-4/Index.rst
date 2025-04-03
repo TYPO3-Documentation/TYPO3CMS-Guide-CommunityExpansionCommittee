@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d1
+.. _s1-d1:
 
 ===========================
 Day 4 — Bootstrap and TYPO3
 ===========================
 
-.. _s1-d1-lessons
+.. _s1-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today explores integrating Bootstrap with TYPO3 through the Bootstrap Package ex
     Lesson-7
 
 
-.. _s1-d4-prerequisites-goals
+.. _s1-d4-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d4-prerequisites
+.. _s1-d4-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d4-theoretical-prerequisites
+.. _s1-d4-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,7 +49,7 @@ This day assumes that you already know the following:
 * How to commit and push your changes in the project's repository using TYPO3's commit message rules
 
 
-.. _s1-d4-practical-prerequisites
+.. _s1-d4-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -60,12 +60,12 @@ Before you start this day, please have the following things ready:
 * Setup and used a Git repository to track changes for your project
 
 
-.. _s1-d4-goals
+.. _s1-d4-goals:
 
 Goals
 -----
 
-.. _s1-d4-theoretical-goals
+.. _s1-d4-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -78,7 +78,7 @@ By the end of this day, you should know the following:
 * How tu use advanced Bootstrap features
 
 
-.. _s1-d4-practical-goals
+.. _s1-d4-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

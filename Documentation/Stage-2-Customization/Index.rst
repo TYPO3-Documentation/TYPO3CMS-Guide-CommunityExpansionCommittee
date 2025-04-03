@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s2
+.. _s2:
 
 =======================
 Stage 2 — Customization
 =======================
 
-.. _s2-about
+.. _s2-about:
 
 About this stage
 ================
@@ -22,19 +22,19 @@ This stage is about customizing TYPO3. Day 1 covers TYPO3's architecture, backen
     Day-4/Index
     Day-5/Index
 
-.. _s2-prerequisites-goals
+.. _s2-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-prerequisites
+.. _s2-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-theoretical-prerequisites
+.. _s2-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +48,7 @@ This stage assumes that you already know the following:
 * How to install and configure Bootstrap Package extension
 
 
-.. _s2-practical-prerequisites
+.. _s2-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,12 +64,12 @@ Before you start this stage, please have the following things ready:
     * With the Bootstrap Package extension installed
 
 
-.. _s2-goals
+.. _s2-goals:
 
 Goals
 -----
 
-.. _s2-theoretical-goals
+.. _s2-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -101,7 +101,7 @@ By the end of this stage, you should know the following:
 * How to create and configure a Site Package Extension
 
 
-.. _s2-practical-goals
+.. _s2-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

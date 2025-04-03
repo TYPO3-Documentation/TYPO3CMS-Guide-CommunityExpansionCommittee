@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d5-l1
+.. _s3-d5-l1:
 
 =============================================================================
 Lesson 1 — Addressing questions about CI/CD workflows and TYPO3 configuration
 =============================================================================
 
 
-.. _s3-d5-l1-prerequisites-goals
+.. _s3-d5-l1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-d5-l1-prerequisites
+.. _s3-d5-l1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-d5-l1-theoretical-prerequisites
+.. _s3-d5-l1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -33,7 +33,7 @@ This lesson assumes that you already know the following:
 * Understand how to evaluate and refine deployment processes to reduce deployment times, minimize downtime, and improve overall efficiency in their CI/CD pipelines
 
 
-.. _s3-d5-l1-practical-prerequisites
+.. _s3-d5-l1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,12 +47,12 @@ Before you start this lesson, please have the following things ready:
 * Use tools and techniques to streamline processes, improve pipeline performance, and ensure scalability
 
 
-.. _s3-d5-l1-goals
+.. _s3-d5-l1-goals:
 
 Goals
 -----
 
-.. _s3-d5-l1-theoretical-goals
+.. _s3-d5-l1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -65,7 +65,7 @@ By the end of this lesson, you should know the following:
 * Study deployment strategy best practices
 
 
-.. _s3-d5-l1-practical-goals
+.. _s3-d5-l1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -78,7 +78,7 @@ By the end of this lesson, you should have completed the following:
 * Implement effective deployment strategies
 
 
-.. _s3-d5-l1-resources
+.. _s3-d5-l1-resources:
 
 Learning resources
 ==================
@@ -86,13 +86,13 @@ Learning resources
 * `CI/CD Process: Flow, Stages, and Critical Best Practices <https://codefresh.io/learn/ci-cd-pipelines/ci-cd-process-flow-stages-and-critical-best-practices/>`__
 
 
-.. _s3-d5-l1-teacher
+.. _s3-d5-l1-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s3-d5-l1-student
+.. _s3-d5-l1-student:
 
 Student's instructions
 ======================

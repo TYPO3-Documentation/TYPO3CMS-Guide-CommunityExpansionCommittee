@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d3-l2
+.. _s2-d3-l2:
 
 ===================================================
 Lesson 2 — Building page templates using TypoScript
 ===================================================
 
 
-.. _s2-d3-l2-prerequisites-goals
+.. _s2-d3-l2-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-d3-l2-prerequisites
+.. _s2-d3-l2-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-d3-l2-theoretical-prerequisites
+.. _s2-d3-l2-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Understand how TypoScript integrates with other TYPO3 components and templates
 
 
-.. _s2-d3-l2-practical-prerequisites
+.. _s2-d3-l2-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Apply debugging techniques to troubleshoot TypoScript configurations
 
 
-.. _s2-d3-l2-goals
+.. _s2-d3-l2-goals:
 
 Goals
 -----
 
-.. _s2-d3-l2-theoretical-goals
+.. _s2-d3-l2-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Understand how to manage static and dynamic page elements through TypoScript
 
 
-.. _s2-d3-l2-practical-goals
+.. _s2-d3-l2-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Apply proper template inheritance and override techniques
 
 
-.. _s2-d3-l2-resources
+.. _s2-d3-l2-resources:
 
 Learning resources
 ==================
@@ -85,13 +85,13 @@ Learning resources
 * `PAGE Object Example <https://docs.typo3.org/m/typo3/reference-typoscript/main/en-us/TopLevelObjects/Page/Examples.html>`__
 
 
-.. _s2-d3-l2-teacher
+.. _s2-d3-l2-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s2-d3-l2-student
+.. _s2-d3-l2-student:
 
 Student's instructions
 ======================

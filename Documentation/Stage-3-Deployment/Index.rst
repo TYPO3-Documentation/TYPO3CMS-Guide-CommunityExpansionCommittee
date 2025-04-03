@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s3
+.. _s3:
 
 ====================
 Stage 3 — Deployment
 ====================
 
-.. _s3-about
+.. _s3-about:
 
 About this stage
 ================
@@ -22,19 +22,19 @@ This stage focuses on implementing continuous integration and deployment (CI/CD)
     Day-4/Index
     Day-5/Index
 
-.. _s3-prerequisites-goals
+.. _s3-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-prerequisites
+.. _s3-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-theoretical-prerequisites
+.. _s3-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,7 +47,7 @@ This stage assumes that you already know the following:
 * How to configure and provide proper access to Backend Users in order to edit the content
 
 
-.. _s3-practical-prerequisites
+.. _s3-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -60,12 +60,12 @@ Before you start this stage, please have the following things ready:
     * Configured Backend Users
 
 
-.. _s3-goals
+.. _s3-goals:
 
 Goals
 -----
 
-.. _s3-theoretical-goals
+.. _s3-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -82,7 +82,7 @@ By the end of this stage, you should know the following:
 * Best practices for code review
 
 
-.. _s3-practical-goals
+.. _s3-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

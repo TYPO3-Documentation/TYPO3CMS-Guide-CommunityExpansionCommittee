@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d1-l3
+.. _s2-d1-l3:
 
 =======================================
 Lesson 3 — Managing extensions in TYPO3
 =======================================
 
 
-.. _s2-d1-l3-prerequisites-goals
+.. _s2-d1-l3-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-d1-l3-prerequisites
+.. _s2-d1-l3-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-d1-l3-theoretical-prerequisites
+.. _s2-d1-l3-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -31,7 +31,7 @@ This lesson assumes that you already know the following:
 * Explore how backend modules integrate with extensions
 
 
-.. _s2-d1-l3-practical-prerequisites
+.. _s2-d1-l3-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,12 +42,12 @@ Before you start this lesson, please have the following things ready:
 * Customize and configure backend modules to suit specific project needs.
 
 
-.. _s2-d1-l3-goals
+.. _s2-d1-l3-goals:
 
 Goals
 -----
 
-.. _s2-d1-l3-theoretical-goals
+.. _s2-d1-l3-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -59,7 +59,7 @@ By the end of this lesson, you should know the following:
 * Explore the TYPO3 Extension Manager and its features
 
 
-.. _s2-d1-l3-practical-goals
+.. _s2-d1-l3-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -70,7 +70,7 @@ By the end of this lesson, you should have completed the following:
 * Remove or disable extensions as needed
 
 
-.. _s2-d1-l3-resources
+.. _s2-d1-l3-resources:
 
 Learning resources
 ==================
@@ -80,13 +80,13 @@ Learning resources
 * `Working with Extensions <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Extensions/Index.html#extensions_index>`__
 
 
-.. _s2-d1-l3-teacher
+.. _s2-d1-l3-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s2-d1-l3-student
+.. _s2-d1-l3-student:
 
 Student's instructions
 ======================

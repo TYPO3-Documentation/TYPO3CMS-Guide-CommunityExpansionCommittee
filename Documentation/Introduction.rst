@@ -1,13 +1,13 @@
 .. include:: /Includes.rst.txt
 
-.. _introduction
+.. _introduction:
 
 ===============================================
 Introduction to the TYPO3 Onboarding Curriculum
 ===============================================
 
 
-.. _background
+.. _background:
 
 Background
 ==========
@@ -19,7 +19,7 @@ This curriculum is created by the `TYPO3 Community Expansion Committee <https://
 #. IT professionals learning TYPO3 on their own
 
 
-.. _audience
+.. _audience:
 
 Intended audience
 =================
@@ -43,13 +43,13 @@ Student profile
 A student following this curriculum will need time available to take part in every lesson. The student must fulfill the :ref:`theoretical <s1-theoretical-prerequisites>` and :ref:`practical <s1-practical-prerequisites>` prerequisites outlined for :ref:`Stage 1 <s1-prerequisites>`.
 
 
-.. _curriculum-overview
+.. _curriculum-overview:
 
 Overview
 ========
 
 
-.. _curriculum-overview-time
+.. _curriculum-overview-time:
 
 Time
 ~~~~
@@ -58,7 +58,7 @@ The curriculum describes 175 lessons over 35 days, split into 5 week-long stages
 
 Each stage should ideally be separated by 2–5 weeks, where the student has time to get further acquainted with TYPO3 through individual work and tasks assigned by the teacher (according to agreement and need).
 
-.. _curriculum-overview-goal-progression
+.. _curriculum-overview-goal-progression:
 
 Goal and progression
 ~~~~~~~~~~~~~~~~~~~~

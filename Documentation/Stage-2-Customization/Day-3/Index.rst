@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d1
+.. _s2-d1:
 
 ==============================================
 Day 3 — Advanced TYPO3 concepts and typoscript
 ==============================================
 
-.. _s2-d1-lessons
+.. _s2-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today delves into TYPO3's powerful configuration language, TypoScript, and its p
     Lesson-7
 
 
-.. _s2-d3-prerequisites-goals
+.. _s2-d3-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-d3-prerequisites
+.. _s2-d3-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-d3-theoretical-prerequisites
+.. _s2-d3-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -52,7 +52,7 @@ This day assumes that you already know the following:
 * How to set up and manage Backend Users, including defining access rights
 
 
-.. _s2-d3-practical-prerequisites
+.. _s2-d3-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -66,12 +66,12 @@ Before you start this day, please have the following things ready:
 * Setted up Backend Users and configured their access rights for content management
 
 
-.. _s2-d3-goals
+.. _s2-d3-goals:
 
 Goals
 -----
 
-.. _s2-d3-theoretical-goals
+.. _s2-d3-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -85,7 +85,7 @@ By the end of this day, you should know the following:
 * The concept and usage of Page TsConfig
 * The concept and usage of User TsConfig
 
-.. _s2-d3-practical-goals
+.. _s2-d3-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
