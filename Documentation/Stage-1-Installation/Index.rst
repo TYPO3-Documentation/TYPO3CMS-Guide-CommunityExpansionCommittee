@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s1
+.. _s1:
 
 ======================
 Stage 1 — Installation
 ======================
 
-.. _s1-about
+.. _s1-about:
 
 About this stage
 ================
@@ -22,19 +22,19 @@ This stage will guide you with the installation of TYPO3. Day 1 introduces CMS b
     Day-4/Index
     Day-5/Index
 
-.. _s1-prerequisites-goals
+.. _s1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-prerequisites
+.. _s1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-theoretical-prerequisites
+.. _s1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,7 +54,7 @@ This stage assumes that you already know the following:
 * Intermediate English proficiency for reading and understanding the resources in this curriculum.
 
 
-.. _s1-practical-prerequisites
+.. _s1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -71,12 +71,12 @@ Before you start this stage, please have the following things ready:
 * Headphones for listening to video resources without disturbing others.
 
 
-.. _s1-goals
+.. _s1-goals:
 
 Goals
 -----
 
-.. _s1-theoretical-goals
+.. _s1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -91,7 +91,7 @@ By the end of this stage, you should know the following:
 * How to commit and push your changes in the project's repository using TYPO3's commit message rules
 
 
-.. _s1-practical-goals
+.. _s1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

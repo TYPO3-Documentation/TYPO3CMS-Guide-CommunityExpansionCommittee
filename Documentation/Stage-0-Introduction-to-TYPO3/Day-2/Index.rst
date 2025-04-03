@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s0-d1
+.. _s0-d1:
 
 ===============================================
 Day 2 — TYPO3 Ecosystem: Tools and Technologies
 ===============================================
 
-.. _s0-d1-lessons
+.. _s0-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ On day two, instructors will demonstrate the essential tools that power the TYPO
     Lesson-7
 
 
-.. _s0-d2-prerequisites-goals
+.. _s0-d2-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s0-d2-prerequisites
+.. _s0-d2-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s0-d2-theoretical-prerequisites
+.. _s0-d2-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,7 +49,7 @@ This day assumes that you already know the following:
 * Item 3
 
 
-.. _s0-d2-practical-prerequisites
+.. _s0-d2-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -61,12 +61,12 @@ Before you start this day, please have the following things ready:
 * Item 3
 
 
-.. _s0-d2-goals
+.. _s0-d2-goals:
 
 Goals
 -----
 
-.. _s0-d2-theoretical-goals
+.. _s0-d2-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -78,7 +78,7 @@ By the end of this day, you should know the following:
 * Item 3
 
 
-.. _s0-d2-practical-goals
+.. _s0-d2-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

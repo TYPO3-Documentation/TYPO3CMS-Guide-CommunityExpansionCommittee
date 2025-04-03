@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d1-l2
+.. _s1-d1-l2:
 
 ====================================
 Lesson 2 — Introduction to TYPO3 CMS
 ====================================
 
 
-.. _s1-d1-l2-prerequisites-goals
+.. _s1-d1-l2-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d1-l2-prerequisites
+.. _s1-d1-l2-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d1-l2-theoretical-prerequisites
+.. _s1-d1-l2-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -29,7 +29,7 @@ This lesson assumes that you already know the following:
 * What (superficially) constitutes a content management system (CMS)
 
 
-.. _s1-d1-l2-practical-prerequisites
+.. _s1-d1-l2-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -39,12 +39,12 @@ Before you start this lesson, please have the following things ready:
 * The general prerequisites for Stage 1
 
 
-.. _s1-d1-l2-goals
+.. _s1-d1-l2-goals:
 
 Goals
 -----
 
-.. _s1-d1-l2-theoretical-goals
+.. _s1-d1-l2-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -61,7 +61,7 @@ By the end of this lesson, you should know the following:
 * How to preview a page in the frontend using the page tree’s context menu
 
 
-.. _s1-d1-l2-practical-goals
+.. _s1-d1-l2-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Previewed a TYPO3 page in the frontend
 
 
-.. _s1-d1-l2-resources
+.. _s1-d1-l2-resources:
 
 Learning resources
 ==================
@@ -88,13 +88,13 @@ Learning resources
 * `The TYPO3 Backend and Login <https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Concepts/Backend/Index.html>`__
 
 
-.. _s1-d1-l2-teacher
+.. _s1-d1-l2-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s1-d1-l2-student
+.. _s1-d1-l2-student:
 
 Student's instructions
 ======================

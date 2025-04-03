@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s4-d1
+.. _s4-d1:
 
 =================
 Day 1 — Introduction to TYPO3 Maintenance and Security Best Practices
 =================
 
-.. _s4-d1-lessons
+.. _s4-d1-lessons:
 
 Today's lessons
 ===============
@@ -16,7 +16,7 @@ Today introduces fundamental concepts of TYPO3 maintenance and security implemen
 .. toctree::
     :titlesonly:
 
-    Lesson-1 
+    Lesson-1
     Lesson-2
     Lesson-3
     Lesson-4
@@ -25,19 +25,19 @@ Today introduces fundamental concepts of TYPO3 maintenance and security implemen
     Lesson-7
 
 
-.. _s4-d1-prerequisites-goals
+.. _s4-d1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s4-d1-prerequisites
+.. _s4-d1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s4-d1-theoretical-prerequisites
+.. _s4-d1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +48,7 @@ This day assumes that you already know the following:
 * The theoretical knowledge goals of the previous curriculum stages
 
 
-.. _s4-d1-practical-prerequisites
+.. _s4-d1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -59,12 +59,12 @@ Before you start this day, please have the following things ready:
 * The practical knowledge goals of the previous curriculum stage
 
 
-.. _s4-d1-goals
+.. _s4-d1-goals:
 
 Goals
 -----
 
-.. _s4-d1-theoretical-goals
+.. _s4-d1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -79,7 +79,7 @@ By the end of this day, you should know the following:
 * Use TYPO3's Security Extension for effective security management and practical security measures
 * Gain hands-on experience in configuring security settings and securing TYPO3 against database vulnerabilities
 
-.. _s4-d1-practical-goals
+.. _s4-d1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

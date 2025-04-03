@@ -1,6 +1,6 @@
 .. include:: /Includes.rst.txt
 
-.. _s0-d1-l4
+.. _s0-d1-l4:
 
 =================================================
 Lesson 4 — TYPO3 in Action: Demo and Case Studies
@@ -8,19 +8,19 @@ Lesson 4 — TYPO3 in Action: Demo and Case Studies
 
 The instructor will provide live demonstrations of complete TYPO3 websites from different industries. Students will observe how these sites address specific business needs as the instructor navigates both frontend and backend environments. Demonstrations will include multi-site setups, multilingual features, and content workflows.
 
-.. _s0-d1-l4-prerequisites-goals
+.. _s0-d1-l4-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s0-d1-l4-prerequisites
+.. _s0-d1-l4-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s0-d1-l4-theoretical-prerequisites
+.. _s0-d1-l4-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Item 3
 
 
-.. _s0-d1-l4-practical-prerequisites
+.. _s0-d1-l4-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,12 +44,12 @@ Before you start this lesson, please have the following things ready:
 * Item 3
 
 
-.. _s0-d1-l4-goals
+.. _s0-d1-l4-goals:
 
 Goals
 -----
 
-.. _s0-d1-l4-theoretical-goals
+.. _s0-d1-l4-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -61,7 +61,7 @@ By the end of this lesson, you should know the following:
 * Item 3
 
 
-.. _s0-d1-l4-practical-goals
+.. _s0-d1-l4-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -73,7 +73,7 @@ By the end of this lesson, you should have completed the following:
 * Item 3
 
 
-.. _s5-d1-l4-resources
+.. _s5-d1-l4-resources:
 
 Learning resources
 ==================
@@ -82,13 +82,13 @@ Learning resources
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s5-d1-l4-teacher
+.. _s5-d1-l4-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s5-d1-l4-student
+.. _s5-d1-l4-student:
 
 Student's instructions
 ======================

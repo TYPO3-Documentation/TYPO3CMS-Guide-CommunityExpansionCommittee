@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d2-l4
+.. _s1-d2-l4:
 
 ===================================================
 Lesson 4 — Setting up a new TYPO3 project with DDEV
 ===================================================
 
 
-.. _s1-d2-l4-prerequisites-goals
+.. _s1-d2-l4-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d2-l4-prerequisites
+.. _s1-d2-l4-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d2-l4-theoretical-prerequisites
+.. _s1-d2-l4-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Study DDEV development tools and features
 
 
-.. _s1-d2-l4-practical-prerequisites
+.. _s1-d2-l4-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Use DDEV development tools
 
 
-.. _s1-d2-l4-goals
+.. _s1-d2-l4-goals:
 
 Goals
 -----
 
-.. _s1-d2-l4-theoretical-goals
+.. _s1-d2-l4-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Study TYPO3 development workflow in DDEV
 
 
-.. _s1-d2-l4-practical-goals
+.. _s1-d2-l4-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Test TYPO3 installation in DDEV
 
 
-.. _s1-d2-l4-resources
+.. _s1-d2-l4-resources:
 
 Learning resources
 ==================
@@ -87,13 +87,13 @@ Learning resources
 
 
 
-.. _s1-d2-l4-teacher
+.. _s1-d2-l4-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s1-d2-l4-student
+.. _s1-d2-l4-student:
 
 Student's instructions
 ======================

@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s0-d1
+.. _s0-d1:
 
 =========================
 Day 1 — Discovering TYPO3
 =========================
 
-.. _s0-d1-lessons
+.. _s0-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ This first day features live demonstrations of TYPO3's capabilities through real
     Lesson-7
 
 
-.. _s0-d1-prerequisites-goals
+.. _s0-d1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s0-d1-prerequisites
+.. _s0-d1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s0-d1-theoretical-prerequisites
+.. _s0-d1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +48,7 @@ This day assumes that you already know the following:
 * The theoretical knowledge goals of the previous curriculum stages
 
 
-.. _s0-d1-practical-prerequisites
+.. _s0-d1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -59,12 +59,12 @@ Before you start this day, please have the following things ready:
 * The practical knowledge goals of the previous curriculum stage
 
 
-.. _s0-d1-goals
+.. _s0-d1-goals:
 
 Goals
 -----
 
-.. _s0-d1-theoretical-goals
+.. _s0-d1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -75,7 +75,7 @@ By the end of this day, you should know the following:
 * What your learning needs are in order to implement your TYPO3-based website project.
 
 
-.. _s0-d1-practical-goals
+.. _s0-d1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

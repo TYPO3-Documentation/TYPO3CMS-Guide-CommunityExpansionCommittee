@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s4-d4-l1
+.. _s4-d4-l1:
 
 ====================================================================
 Lesson 1 — Applying Best Practices for Securing Custom Code in TYPO3
 ====================================================================
 
 
-.. _s4-d4-l1-prerequisites-goals
+.. _s4-d4-l1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s4-d4-l1-prerequisites
+.. _s4-d4-l1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s4-d4-l1-theoretical-prerequisites
+.. _s4-d4-l1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -36,7 +36,7 @@ This lesson assumes that you already know the following:
 * Develop theoretical knowledge of security response strategies and their practical application through drills
 
 
-.. _s4-d4-l1-practical-prerequisites
+.. _s4-d4-l1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -52,12 +52,12 @@ Before you start this lesson, please have the following things ready:
 * Conducted security drills and developed a response strategy
 
 
-.. _s4-d4-l1-goals
+.. _s4-d4-l1-goals:
 
 Goals
 -----
 
-.. _s4-d4-l1-theoretical-goals
+.. _s4-d4-l1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -70,7 +70,7 @@ By the end of this lesson, you should know the following:
 * Study extension security testing and validation approaches
 
 
-.. _s4-d4-l1-practical-goals
+.. _s4-d4-l1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -83,7 +83,7 @@ By the end of this lesson, you should have completed the following:
 * Test custom code against TYPO3 security standards
 
 
-.. _s4-d4-l1-resources
+.. _s4-d4-l1-resources:
 
 Learning resources
 ==================
@@ -92,13 +92,13 @@ Learning resources
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s4-d4-l1-teacher
+.. _s4-d4-l1-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s4-d4-l1-student
+.. _s4-d4-l1-student:
 
 Student's instructions
 ======================

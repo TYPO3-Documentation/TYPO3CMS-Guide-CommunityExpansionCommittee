@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d5-l6
+.. _s3-d5-l6:
 
 ==================================================================
 Lesson 6 — Sharing and reflecting on personal learning experiences
 ==================================================================
 
 
-.. _s3-d5-l6-prerequisites-goals
+.. _s3-d5-l6-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-d5-l6-prerequisites
+.. _s3-d5-l6-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-d5-l6-theoretical-prerequisites
+.. _s3-d5-l6-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Study solution optimization approaches
 
 
-.. _s3-d5-l6-practical-prerequisites
+.. _s3-d5-l6-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Enhance project quality through revisions
 
 
-.. _s3-d5-l6-goals
+.. _s3-d5-l6-goals:
 
 Goals
 -----
 
-.. _s3-d5-l6-theoretical-goals
+.. _s3-d5-l6-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Study learning process evaluation approaches
 
 
-.. _s3-d5-l6-practical-goals
+.. _s3-d5-l6-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Demonstrate understanding through practical examples
 
 
-.. _s3-d5-l6-resources
+.. _s3-d5-l6-resources:
 
 Learning resources
 ==================
@@ -84,13 +84,13 @@ Learning resources
 * Intentionally left empty
 
 
-.. _s3-d5-l6-teacher
+.. _s3-d5-l6-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s3-d5-l6-student
+.. _s3-d5-l6-student:
 
 Student's instructions
 ======================

@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d1
+.. _s2-d1:
 
 =============================
 Day 1 — Introduction to TYPO3
 =============================
 
-.. _s2-d1-lessons
+.. _s2-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today focuses on mastering TYPO3's core architecture and essential backend funct
     Lesson-7
 
 
-.. _s2-d1-prerequisites-goals
+.. _s2-d1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-d1-prerequisites
+.. _s2-d1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-d1-theoretical-prerequisites
+.. _s2-d1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +48,7 @@ This day assumes that you already know the following:
 * The theoretical knowledge goals of the previous curriculum stages
 
 
-.. _s2-d1-practical-prerequisites
+.. _s2-d1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -59,12 +59,12 @@ Before you start this day, please have the following things ready:
 * The practical knowledge goals of the previous curriculum stage
 
 
-.. _s2-d1-goals
+.. _s2-d1-goals:
 
 Goals
 -----
 
-.. _s2-d1-theoretical-goals
+.. _s2-d1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -77,7 +77,7 @@ By the end of this day, you should know the following:
 * Gain knowledge about TYPO3's page structure and the importance of the page tree
 * Understand basic content management within TYPO3, including content elements and file management
 
-.. _s2-d1-practical-goals
+.. _s2-d1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

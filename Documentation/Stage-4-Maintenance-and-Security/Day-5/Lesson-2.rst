@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s4-d5-l2
+.. _s4-d5-l2:
 
 =======================================================================================
 Lesson 2 — Best Practices for Communication and Collaboration During Security Incidents
 =======================================================================================
 
 
-.. _s4-d5-l2-prerequisites-goals
+.. _s4-d5-l2-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s4-d5-l2-prerequisites
+.. _s4-d5-l2-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s4-d5-l2-theoretical-prerequisites
+.. _s4-d5-l2-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Study containment strategies for compromised TYPO3 systems
 
 
-.. _s4-d5-l2-practical-prerequisites
+.. _s4-d5-l2-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Document and preserve evidence of security breaches
 
 
-.. _s4-d5-l2-goals
+.. _s4-d5-l2-goals:
 
 Goals
 -----
 
-.. _s4-d5-l2-theoretical-goals
+.. _s4-d5-l2-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Study collaborative incident response methodologies
 
 
-.. _s4-d5-l2-practical-goals
+.. _s4-d5-l2-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Document security incident communication processes
 
 
-.. _s4-d5-l2-resources
+.. _s4-d5-l2-resources:
 
 Learning resources
 ==================
@@ -85,13 +85,13 @@ Learning resources
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s4-d5-l2-teacher
+.. _s4-d5-l2-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s4-d5-l2-student
+.. _s4-d5-l2-student:
 
 Student's instructions
 ======================

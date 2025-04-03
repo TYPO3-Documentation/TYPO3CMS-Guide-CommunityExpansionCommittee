@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d1
+.. _s2-d1:
 
 =========================================================
 Day 5 — Creating and configuring a site package extension
 =========================================================
 
-.. _s2-d1-lessons
+.. _s2-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today is dedicated to creating and implementing site package extensions in TYPO3
     Lesson-7
 
 
-.. _s2-d5-prerequisites-goals
+.. _s2-d5-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-d5-prerequisites
+.. _s2-d5-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-d5-theoretical-prerequisites
+.. _s2-d5-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -52,7 +52,7 @@ This day assumes that you already know the following:
 * Various configuration options available for the WYSIWYG Editor
 
 
-.. _s2-d5-practical-prerequisites
+.. _s2-d5-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -67,12 +67,12 @@ Before you start this day, please have the following things ready:
 * Used the WYSIWYG Editor to create and edit content efficiently in TYPO3
 
 
-.. _s2-d5-goals
+.. _s2-d5-goals:
 
 Goals
 -----
 
-.. _s2-d5-theoretical-goals
+.. _s2-d5-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -86,7 +86,7 @@ By the end of this day, you should know the following:
 * The best practices for ensuring secure and efficient user access management
 * More key concepts learned throughout creation and configuration of a Site Package Extension
 
-.. _s2-d5-practical-goals
+.. _s2-d5-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

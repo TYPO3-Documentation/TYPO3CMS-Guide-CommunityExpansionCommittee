@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d2-l1
+.. _s2-d2-l1:
 
 ==============================================
 Lesson 1 — TYPO3 Page Structure and Navigation
 ==============================================
 
 
-.. _s2-d2-l1-prerequisites-goals
+.. _s2-d2-l1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-d2-l1-prerequisites
+.. _s2-d2-l1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-d2-l1-theoretical-prerequisites
+.. _s2-d2-l1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -33,7 +33,7 @@ This lesson assumes that you already know the following:
 * Understand basic content management within TYPO3, including content elements and file management
 
 
-.. _s2-d2-l1-practical-prerequisites
+.. _s2-d2-l1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,12 +46,12 @@ Before you start this lesson, please have the following things ready:
 * Added and edited content elements on TYPO3 pages
 * Familiarized yourself with user management and access rights in TYPO3
 
-.. _s2-d2-l1-goals
+.. _s2-d2-l1-goals:
 
 Goals
 -----
 
-.. _s2-d2-l1-theoretical-goals
+.. _s2-d2-l1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -64,7 +64,7 @@ By the end of this lesson, you should know the following:
 * Grasp essential TYPO3 terminology related to page management, including slugs, page properties, and menu visibility settings
 
 
-.. _s2-d2-l1-practical-goals
+.. _s2-d2-l1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -77,7 +77,7 @@ By the end of this lesson, you should have completed the following:
 * Effectively use TYPO3's drag-and-drop functionality to organize and restructure page trees
 
 
-.. _s2-d2-l1-resources
+.. _s2-d2-l1-resources:
 
 Learning resources
 ==================
@@ -88,13 +88,13 @@ Learning resources
 * `Moving Pages In The Page Tree <https://www.youtube.com/watch?v=1NKE7Pev-D8&list=PL-sDBIrOKGOaguYrZbJebKIEgoIxCnN4V&index=3>`__
 
 
-.. _s2-d2-l1-teacher
+.. _s2-d2-l1-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s2-d2-l1-student
+.. _s2-d2-l1-student:
 
 Student's instructions
 ======================

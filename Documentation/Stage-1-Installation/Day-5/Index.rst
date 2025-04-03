@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d1
+.. _s1-d1:
 
 ============================
 Day 5 — Recap and assessment
 ============================
 
-.. _s1-d1-lessons
+.. _s1-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today consolidates the week's learning through comprehensive review and practica
     Lesson-7
 
 
-.. _s1-d5-prerequisites-goals
+.. _s1-d5-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d5-prerequisites
+.. _s1-d5-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d5-theoretical-prerequisites
+.. _s1-d5-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,7 +50,7 @@ This day assumes that you already know the following:
 * How tu use advanced Bootstrap features
 
 
-.. _s1-d5-practical-prerequisites
+.. _s1-d5-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -62,12 +62,12 @@ Before you start this day, please have the following things ready:
 * Customized the layout of your TYPO3 project
 
 
-.. _s1-d5-goals
+.. _s1-d5-goals:
 
 Goals
 -----
 
-.. _s1-d5-theoretical-goals
+.. _s1-d5-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -82,7 +82,7 @@ By the end of this day, you should know the following:
 * How to commit and push your changes in the project's repository using TYPO3's commit message rules
 
 
-.. _s1-d5-practical-goals
+.. _s1-d5-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

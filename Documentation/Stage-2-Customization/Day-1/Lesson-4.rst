@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d1-l4
+.. _s2-d1-l4:
 
 ==========================
 Lesson 4 — TYPO3 page tree
 ==========================
 
 
-.. _s2-d1-l4-prerequisites-goals
+.. _s2-d1-l4-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-d1-l4-prerequisites
+.. _s2-d1-l4-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-d1-l4-theoretical-prerequisites
+.. _s2-d1-l4-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -31,7 +31,7 @@ This lesson assumes that you already know the following:
 * Explore the TYPO3 Extension Manager and its features
 
 
-.. _s2-d1-l4-practical-prerequisites
+.. _s2-d1-l4-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,12 +42,12 @@ Before you start this lesson, please have the following things ready:
 * Remove or disable extensions as needed
 
 
-.. _s2-d1-l4-goals
+.. _s2-d1-l4-goals:
 
 Goals
 -----
 
-.. _s2-d1-l4-theoretical-goals
+.. _s2-d1-l4-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -59,7 +59,7 @@ By the end of this lesson, you should know the following:
 * Explore how the page tree relates to site navigation and content hierarchy
 
 
-.. _s2-d1-l4-practical-goals
+.. _s2-d1-l4-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -70,7 +70,7 @@ By the end of this lesson, you should have completed the following:
 * Manage the page tree to reflect the desired site structure
 
 
-.. _s2-d1-l4-resources
+.. _s2-d1-l4-resources:
 
 Learning resources
 ==================
@@ -80,13 +80,13 @@ Learning resources
 * `Previewing a Page in The Page Tree <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Backend/PageModule/Index.html#preview-page>`__
 
 
-.. _s2-d1-l4-teacher
+.. _s2-d1-l4-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s2-d1-l4-student
+.. _s2-d1-l4-student:
 
 Student's instructions
 ======================
