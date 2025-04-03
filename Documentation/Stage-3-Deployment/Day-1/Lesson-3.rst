@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d1-l3
+.. _s3-d1-l3:
 
 ============================================================
 Lesson 3 — How to configure TYPO3 for different environments
 ============================================================
 
 
-.. _s3-d1-l3-prerequisites-goals
+.. _s3-d1-l3-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-d1-l3-prerequisites
+.. _s3-d1-l3-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-d1-l3-theoretical-prerequisites
+.. _s3-d1-l3-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -30,7 +30,7 @@ This lesson assumes that you already know the following:
 * Use environment conditions
 
 
-.. _s3-d1-l3-practical-prerequisites
+.. _s3-d1-l3-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -40,12 +40,12 @@ Before you start this lesson, please have the following things ready:
 * Having a running DDEV setup for local development
 
 
-.. _s3-d1-l3-goals
+.. _s3-d1-l3-goals:
 
 Goals
 -----
 
-.. _s3-d1-l3-theoretical-goals
+.. _s3-d1-l3-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -57,7 +57,7 @@ By the end of this lesson, you should know the following:
 * Avoid storing access data in versioning systems (f.e. git)
 
 
-.. _s3-d1-l3-practical-goals
+.. _s3-d1-l3-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -69,7 +69,7 @@ By the end of this lesson, you should have completed the following:
 * Define Local Configuration, define Additional Configurations
 
 
-.. _s3-d1-l3-resources
+.. _s3-d1-l3-resources:
 
 Learning resources
 ==================
@@ -78,13 +78,13 @@ Learning resources
 * :ref:`Base variants <t3coreapi:sitehandling-baseVariants>`
 
 
-.. _s3-d1-l3-teacher
+.. _s3-d1-l3-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s3-d1-l3-student
+.. _s3-d1-l3-student:
 
 Student's instructions
 ======================

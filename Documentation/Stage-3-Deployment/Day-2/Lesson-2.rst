@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d2-l2
+.. _s3-d2-l2:
 
 ==============================================================================
 Lesson 2 — Configuring TYPO3 for development, testing, staging, and production
 ==============================================================================
 
 
-.. _s3-d2-l2-prerequisites-goals
+.. _s3-d2-l2-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-d2-l2-prerequisites
+.. _s3-d2-l2-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-d2-l2-theoretical-prerequisites
+.. _s3-d2-l2-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -31,7 +31,7 @@ This lesson assumes that you already know the following:
 * Understand the challenges of database versioning and migration
 
 
-.. _s3-d2-l2-practical-prerequisites
+.. _s3-d2-l2-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,12 +43,12 @@ Before you start this lesson, please have the following things ready:
 * Validate environment setups and ensure smooth deployment processes
 
 
-.. _s3-d2-l2-goals
+.. _s3-d2-l2-goals:
 
 Goals
 -----
 
-.. _s3-d2-l2-theoretical-goals
+.. _s3-d2-l2-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -60,7 +60,7 @@ By the end of this lesson, you should know the following:
 * Learn how to automate environment-specific configurations within CI/CD pipelines
 
 
-.. _s3-d2-l2-practical-goals
+.. _s3-d2-l2-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -72,7 +72,7 @@ By the end of this lesson, you should have completed the following:
 * Test and validate that each environment is properly configured and functions as expected
 
 
-.. _s3-d2-l2-resources
+.. _s3-d2-l2-resources:
 
 Learning resources
 ==================
@@ -81,13 +81,13 @@ Learning resources
 * `TYPO3 Migration <https://docs.typo3.org/permalink/t3coreapi:upgrading>`__
 
 
-.. _s3-d2-l2-teacher
+.. _s3-d2-l2-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s3-d2-l2-student
+.. _s3-d2-l2-student:
 
 Student's instructions
 ======================

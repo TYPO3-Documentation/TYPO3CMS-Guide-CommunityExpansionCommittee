@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s4-d4-l3
+.. _s4-d4-l3:
 
 ======================================================================
 Lesson 3 — Strategies for Effective Security Patch Management in TYPO3
 ======================================================================
 
 
-.. _s4-d4-l3-prerequisites-goals
+.. _s4-d4-l3-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s4-d4-l3-prerequisites
+.. _s4-d4-l3-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s4-d4-l3-theoretical-prerequisites
+.. _s4-d4-l3-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Study core security patch verification techniques
 
 
-.. _s4-d4-l3-practical-prerequisites
+.. _s4-d4-l3-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Verify and validate core security fixes
 
 
-.. _s4-d4-l3-goals
+.. _s4-d4-l3-goals:
 
 Goals
 -----
 
-.. _s4-d4-l3-theoretical-goals
+.. _s4-d4-l3-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Study security patch documentation requirements
 
 
-.. _s4-d4-l3-practical-goals
+.. _s4-d4-l3-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Document complete patch implementation procedures
 
 
-.. _s4-d4-l3-resources
+.. _s4-d4-l3-resources:
 
 Learning resources
 ==================
@@ -85,13 +85,13 @@ Learning resources
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s4-d4-l3-teacher
+.. _s4-d4-l3-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s4-d4-l3-student
+.. _s4-d4-l3-student:
 
 Student's instructions
 ======================

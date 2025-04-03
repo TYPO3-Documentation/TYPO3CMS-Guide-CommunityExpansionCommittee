@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d1
+.. _s1-d1:
 
 =================================
 Day 1 — Installation and concepts
 =================================
 
-.. _s1-d1-lessons
+.. _s1-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today introduces the fundamental concepts of content management systems, with a 
     Lesson-7
 
 
-.. _s1-d1-prerequisites-goals
+.. _s1-d1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d1-prerequisites
+.. _s1-d1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d1-theoretical-prerequisites
+.. _s1-d1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,7 +46,7 @@ This day assumes that you already know the following:
 
 * :ref:`Theoretical Prerequisites for Stage 1 <s1-theoretical-prerequisites>`
 
-.. _s1-d1-practical-prerequisites
+.. _s1-d1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -55,12 +55,12 @@ Before you start this day, please have the following things ready:
 
 * :ref:`Practical Prerequisites for Stage 1 <s1-practical-prerequisites>`
 
-.. _s1-d1-goals
+.. _s1-d1-goals:
 
 Goals
 -----
 
-.. _s1-d1-theoretical-goals
+.. _s1-d1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -78,7 +78,7 @@ By the end of this day, you should know the following:
 * Knowledge of the different documentation sources
 
 
-.. _s1-d1-practical-goals
+.. _s1-d1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

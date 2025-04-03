@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d5-l3
+.. _s1-d5-l3:
 
 ============================================================================
 Lesson 3 — Using Composer to install and configure TYPO3 in a DDEV container
 ============================================================================
 
 
-.. _s1-d5-l3-prerequisites-goals
+.. _s1-d5-l3-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d5-l3-prerequisites
+.. _s1-d5-l3-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d5-l3-theoretical-prerequisites
+.. _s1-d5-l3-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Review TYPO3 commit message conventions
 
 
-.. _s1-d5-l3-practical-prerequisites
+.. _s1-d5-l3-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Optimize collaborative workflow efficiently
 
 
-.. _s1-d5-l3-goals
+.. _s1-d5-l3-goals:
 
 Goals
 -----
 
-.. _s1-d5-l3-theoretical-goals
+.. _s1-d5-l3-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Study integration between Composer and DDEV
 
 
-.. _s1-d5-l3-practical-goals
+.. _s1-d5-l3-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Verify installation and configuration success
 
 
-.. _s1-d5-l3-resources
+.. _s1-d5-l3-resources:
 
 Learning resources
 ==================
@@ -93,13 +93,13 @@ Learning resources
 * `Configuring environments <https://docs.typo3.org/permalink/t3coreapi:environment-configuration>`__
 
 
-.. _s1-d5-l3-teacher
+.. _s1-d5-l3-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s1-d5-l3-student
+.. _s1-d5-l3-student:
 
 Student's instructions
 ======================

@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d1
+.. _s1-d1:
 
 ========================
 Day 3 — Composer and Git
 ========================
 
-.. _s1-d1-lessons
+.. _s1-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today concentrates on essential development tools: Composer for dependency manag
     Lesson-7
 
 
-.. _s1-d3-prerequisites-goals
+.. _s1-d3-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d3-prerequisites
+.. _s1-d3-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d3-theoretical-prerequisites
+.. _s1-d3-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +48,7 @@ This day assumes that you already know the following:
 * How to use DDEV to run and develop web applications
 * How to setup a new TYPO3 project in DDEV
 
-.. _s1-d3-practical-prerequisites
+.. _s1-d3-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -60,12 +60,12 @@ Before you start this day, please have the following things ready:
 * Worked on a TYPO3 project using DDEV
 
 
-.. _s1-d3-goals
+.. _s1-d3-goals:
 
 Goals
 -----
 
-.. _s1-d3-theoretical-goals
+.. _s1-d3-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -77,7 +77,7 @@ By the end of this day, you should know the following:
 * How to commit and push your changes in the project's repository using TYPO3's commit message rules
 
 
-.. _s1-d3-practical-goals
+.. _s1-d3-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

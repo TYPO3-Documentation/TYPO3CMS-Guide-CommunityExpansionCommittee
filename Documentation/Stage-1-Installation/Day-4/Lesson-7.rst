@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d4-l7
+.. _s1-d4-l7:
 
 =============================
 Lesson 7 — Recap and Catch-Up
 =============================
 
 
-.. _s1-d4-l7-prerequisites-goals
+.. _s1-d4-l7-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d4-l7-prerequisites
+.. _s1-d4-l7-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d4-l7-theoretical-prerequisites
+.. _s1-d4-l7-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -29,7 +29,7 @@ This lesson assumes that you already know the following:
 * The content of today's previous lessons.
 
 
-.. _s1-d4-l7-l7-practical-prerequisites
+.. _s1-d4-l7-l7-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -40,12 +40,12 @@ Before you start this lesson, please have the following things ready:
 * A list of any uncompleted tasks from previous lessons (if any) and what you need from the teacher to complete them.
 
 
-.. _s1-d4-l7-goals
+.. _s1-d4-l7-goals:
 
 Goals
 -----
 
-.. _s1-d4-l7-theoretical-goals
+.. _s1-d4-l7-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -57,7 +57,7 @@ By the end of this lesson, you should know the following:
 * What to expect for tomorrow.
 
 
-.. _s1-d4-l7-practical-goals
+.. _s1-d4-l7-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -67,7 +67,7 @@ By the end of this lesson, you should have completed the following:
 * You should have completed any outstanding tasks or know what to do in order to complete them.
 
 
-.. _s1-d4-l7-resources
+.. _s1-d4-l7-resources:
 
 Learning resources
 ==================
@@ -80,13 +80,13 @@ Learning resources
 * :ref:`Lesson 6's learning resources <s1-d4-l6-resources>`
 
 
-.. _s1-d4-l7-teacher
+.. _s1-d4-l7-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s1-d4-l7-student
+.. _s1-d4-l7-student:
 
 Student's instructions
 ======================

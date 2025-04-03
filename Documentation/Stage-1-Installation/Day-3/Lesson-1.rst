@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d3-l1
+.. _s1-d3-l1:
 
 ============================================================
 Lesson 1 — Using Composer to install a TYPO3 project in DDEV
 ============================================================
 
 
-.. _s1-d3-l1-prerequisites-goals
+.. _s1-d3-l1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d3-l1-prerequisites
+.. _s1-d3-l1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d3-l1-theoretical-prerequisites
+.. _s1-d3-l1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -31,7 +31,7 @@ This lesson assumes that you already know the following:
 * How to setup a new TYPO3 project in DDEV
 
 
-.. _s1-d3-l1-practical-prerequisites
+.. _s1-d3-l1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,12 +43,12 @@ Before you start this lesson, please have the following things ready:
 * Worked on a TYPO3 project using DDEV
 
 
-.. _s1-d3-l1-goals
+.. _s1-d3-l1-goals:
 
 Goals
 -----
 
-.. _s1-d3-l1-theoretical-goals
+.. _s1-d3-l1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -61,7 +61,7 @@ By the end of this lesson, you should know the following:
 * Study TYPO3 package management best practices
 
 
-.. _s1-d3-l1-practical-goals
+.. _s1-d3-l1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -74,7 +74,7 @@ By the end of this lesson, you should have completed the following:
 * Verify successful TYPO3 project installation
 
 
-.. _s1-d3-l1-resources
+.. _s1-d3-l1-resources:
 
 Learning resources
 ==================
@@ -87,13 +87,13 @@ Learning resources
 * `Composer CLI Commands <https://getcomposer.org/doc/03-cli.md>`__
 
 
-.. _s1-d3-l1-teacher
+.. _s1-d3-l1-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s1-d3-l1-student
+.. _s1-d3-l1-student:
 
 Student's instructions
 ======================

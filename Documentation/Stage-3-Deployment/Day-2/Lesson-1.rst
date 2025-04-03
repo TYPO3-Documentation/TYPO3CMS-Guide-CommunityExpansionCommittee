@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d2-l1
+.. _s3-d2-l1:
 
 ====================================================================================
 Lesson 1 — Differences and benefits of testing, staging, and production environments
 ====================================================================================
 
 
-.. _s3-d2-l1-prerequisites-goals
+.. _s3-d2-l1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-d2-l1-prerequisites
+.. _s3-d2-l1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-d2-l1-theoretical-prerequisites
+.. _s3-d2-l1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -34,7 +34,7 @@ This lesson assumes that you already know the following:
 * Recognize the components of effective deployment workflows and understand how to design these to enhance collaboration and efficiency.
 
 
-.. _s3-d2-l1-practical-prerequisites
+.. _s3-d2-l1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,12 +46,12 @@ Before you start this lesson, please have the following things ready:
 * Created and managed multiple environment setups, ensuring each is optimized for its purpose.
 
 
-.. _s3-d2-l1-goals
+.. _s3-d2-l1-goals:
 
 Goals
 -----
 
-.. _s3-d2-l1-theoretical-goals
+.. _s3-d2-l1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Understand the challenges of database versioning and migration
 
 
-.. _s3-d2-l1-practical-goals
+.. _s3-d2-l1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -75,7 +75,7 @@ By the end of this lesson, you should have completed the following:
 * Validate environment setups and ensure smooth deployment processes
 
 
-.. _s3-d2-l1-resources
+.. _s3-d2-l1-resources:
 
 Learning resources
 ==================
@@ -84,13 +84,13 @@ Learning resources
 * `Deploying TYPO3 <https://docs.typo3.org/permalink/t3coreapi:deployment>`__
 
 
-.. _s3-d2-l1-teacher
+.. _s3-d2-l1-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s3-d2-l1-student
+.. _s3-d2-l1-student:
 
 Student's instructions
 ======================

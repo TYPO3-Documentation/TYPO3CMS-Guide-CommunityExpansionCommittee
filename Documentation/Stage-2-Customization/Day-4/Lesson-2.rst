@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d4-l2
+.. _s2-d4-l2:
 
 ====================================================
 Lesson 2 — Configuring and using the RTE efficiently
 ====================================================
 
 
-.. _s2-d4-l2-prerequisites-goals
+.. _s2-d4-l2-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-d4-l2-prerequisites
+.. _s2-d4-l2-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-d4-l2-theoretical-prerequisites
+.. _s2-d4-l2-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Understand how the RTE integrates with TYPO3's content management system
 
 
-.. _s2-d4-l2-practical-prerequisites
+.. _s2-d4-l2-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Apply proper content formatting techniques using the RTE toolbar
 
 
-.. _s2-d4-l2-goals
+.. _s2-d4-l2-goals:
 
 Goals
 -----
 
-.. _s2-d4-l2-theoretical-goals
+.. _s2-d4-l2-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Understand how to optimize RTE settings for different use cases
 
 
-.. _s2-d4-l2-practical-goals
+.. _s2-d4-l2-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -75,7 +75,7 @@ By the end of this lesson, you should have completed the following:
 * Demonstrate proficiency in managing RTE behavior settings
 * Apply proper configuration strategies for different user groups
 
-.. _s2-d4-l2-resources
+.. _s2-d4-l2-resources:
 
 Learning resources
 ==================
@@ -83,13 +83,13 @@ Learning resources
 * `RTE Configuration <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/Configuration/Examples.html>`__
 
 
-.. _s2-d4-l2-teacher
+.. _s2-d4-l2-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s2-d4-l2-student
+.. _s2-d4-l2-student:
 
 Student's instructions
 ======================

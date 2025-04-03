@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s4-d3-l4
+.. _s4-d3-l4:
 
 =====================================================
 Lesson 4 — Monitoring TYPO3 Systems and Managing Logs
 =====================================================
 
 
-.. _s4-d3-l4-prerequisites-goals
+.. _s4-d3-l4-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s4-d3-l4-prerequisites
+.. _s4-d3-l4-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s4-d3-l4-theoretical-prerequisites
+.. _s4-d3-l4-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Comprehend encryption methods and their applications
 
 
-.. _s4-d3-l4-practical-prerequisites
+.. _s4-d3-l4-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Deploy encryption for sensitive data transmission
 
 
-.. _s4-d3-l4-goals
+.. _s4-d3-l4-goals:
 
 Goals
 -----
 
-.. _s4-d3-l4-theoretical-goals
+.. _s4-d3-l4-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Comprehend log analysis and threat detection
 
 
-.. _s4-d3-l4-practical-goals
+.. _s4-d3-l4-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Deploy log analysis for threat detection
 
 
-.. _s4-d3-l4-resources
+.. _s4-d3-l4-resources:
 
 Learning resources
 ==================
@@ -85,13 +85,13 @@ Learning resources
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s4-d3-l4-teacher
+.. _s4-d3-l4-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s4-d3-l4-student
+.. _s4-d3-l4-student:
 
 Student's instructions
 ======================

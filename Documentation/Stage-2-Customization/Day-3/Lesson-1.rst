@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d3-l1
+.. _s2-d3-l1:
 
 =====================================
 Lesson 1 — Introduction to TypoScript
 =====================================
 
 
-.. _s2-d3-l1-prerequisites-goals
+.. _s2-d3-l1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s2-d3-l1-prerequisites
+.. _s2-d3-l1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s2-d3-l1-theoretical-prerequisites
+.. _s2-d3-l1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -34,7 +34,7 @@ This lesson assumes that you already know the following:
 * How to set up and manage Backend Users, including defining access rights
 
 
-.. _s2-d3-l1-practical-prerequisites
+.. _s2-d3-l1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,12 +48,12 @@ Before you start this lesson, please have the following things ready:
 * Setted up Backend Users and configured their access rights for content management
 
 
-.. _s2-d3-l1-goals
+.. _s2-d3-l1-goals:
 
 Goals
 -----
 
-.. _s2-d3-l1-theoretical-goals
+.. _s2-d3-l1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -66,7 +66,7 @@ By the end of this lesson, you should know the following:
 * Understand how TypoScript integrates with other TYPO3 components and templates
 
 
-.. _s2-d3-l1-practical-goals
+.. _s2-d3-l1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -79,7 +79,7 @@ By the end of this lesson, you should have completed the following:
 * Apply debugging techniques to troubleshoot TypoScript configurations
 
 
-.. _s2-d3-l1-resources
+.. _s2-d3-l1-resources:
 
 Learning resources
 ==================
@@ -87,13 +87,13 @@ Learning resources
 * `TypoScript Explained <https://docs.typo3.org/m/typo3/reference-typoscript/main/en-us/Index.html>`__
 
 
-.. _s2-d3-l1-teacher
+.. _s2-d3-l1-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s2-d3-l1-student
+.. _s2-d3-l1-student:
 
 Student's instructions
 ======================

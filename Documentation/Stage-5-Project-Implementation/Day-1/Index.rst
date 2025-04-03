@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s5-d1
+.. _s5-d1:
 
 =================
 Day 1 — ADD TITLE
 =================
 
-.. _s5-d1-lessons
+.. _s5-d1-lessons:
 
 Today's lessons
 ===============
@@ -23,19 +23,19 @@ Today's lessons
     Lesson-7
 
 
-.. _s5-d1-prerequisites-goals
+.. _s5-d1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s5-d1-prerequisites
+.. _s5-d1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s5-d1-theoretical-prerequisites
+.. _s5-d1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,7 +46,7 @@ This day assumes that you already know the following:
 * The theoretical knowledge goals of the previous curriculum stages
 
 
-.. _s5-d1-practical-prerequisites
+.. _s5-d1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -57,12 +57,12 @@ Before you start this day, please have the following things ready:
 * The practical knowledge goals of the previous curriculum stage
 
 
-.. _s5-d1-goals
+.. _s5-d1-goals:
 
 Goals
 -----
 
-.. _s5-d1-theoretical-goals
+.. _s5-d1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -73,7 +73,7 @@ By the end of this day, you should know the following:
 * What your learning needs are in order to implement your TYPO3-based website project.
 
 
-.. _s5-d1-practical-goals
+.. _s5-d1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

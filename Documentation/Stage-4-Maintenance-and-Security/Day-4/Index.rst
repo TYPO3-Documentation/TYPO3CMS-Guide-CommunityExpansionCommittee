@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s4-d1
+.. _s4-d1:
 
 ==================================================
 Day 4 — Managing Security in TYPO3 and Custom Code
 ==================================================
 
-.. _s4-d1-lessons
+.. _s4-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today concentrates on securing custom code and managing vulnerabilities in TYPO3
     Lesson-7
 
 
-.. _s4-d4-prerequisites-goals
+.. _s4-d4-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s4-d4-prerequisites
+.. _s4-d4-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s4-d4-theoretical-prerequisites
+.. _s4-d4-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,7 +54,7 @@ This day assumes that you already know the following:
 * Develop theoretical knowledge of security response strategies and their practical application through drills
 
 
-.. _s4-d4-practical-prerequisites
+.. _s4-d4-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,12 +70,12 @@ Before you start this day, please have the following things ready:
 * Conducted security drills and developed a response strategy
 
 
-.. _s4-d4-goals
+.. _s4-d4-goals:
 
 Goals
 -----
 
-.. _s4-d4-theoretical-goals
+.. _s4-d4-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -91,7 +91,7 @@ By the end of this day, you should know the following:
 * Theorize handling of hypothetical security breaches through role-play scenarios
 
 
-.. _s4-d4-practical-goals
+.. _s4-d4-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d3-l3
+.. _s1-d3-l3:
 
 =================================================
 Lesson 3 — Introduction to Git for TYPO3 projects
 =================================================
 
 
-.. _s1-d3-l3-prerequisites-goals
+.. _s1-d3-l3-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d3-l3-prerequisites
+.. _s1-d3-l3-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d3-l3-theoretical-prerequisites
+.. _s1-d3-l3-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Study TYPO3 environment configuration approaches
 
 
-.. _s1-d3-l3-practical-prerequisites
+.. _s1-d3-l3-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Implement environment-specific configurations
 
 
-.. _s1-d3-l3-goals
+.. _s1-d3-l3-goals:
 
 Goals
 -----
 
-.. _s1-d3-l3-theoretical-goals
+.. _s1-d3-l3-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Study version control best practices
 
 
-.. _s1-d3-l3-practical-goals
+.. _s1-d3-l3-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Set up Git configuration for TYPO3
 
 
-.. _s1-d3-l3-resources
+.. _s1-d3-l3-resources:
 
 Learning resources
 ==================
@@ -87,13 +87,13 @@ Learning resources
 * `GIT CHEAT SHEET <https://education.github.com/git-cheat-sheet-education.pdf>`_
 
 
-.. _s1-d3-l3-teacher
+.. _s1-d3-l3-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s1-d3-l3-student
+.. _s1-d3-l3-student:
 
 Student's instructions
 ======================

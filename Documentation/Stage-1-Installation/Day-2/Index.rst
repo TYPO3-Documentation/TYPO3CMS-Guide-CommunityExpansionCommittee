@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d1
+.. _s1-d1:
 
 ======================
 Day 2 — DDEV and TYPO3
 ======================
 
-.. _s1-d1-lessons
+.. _s1-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today focuses on setting up and mastering DDEV for TYPO3 development. Students w
     Lesson-7
 
 
-.. _s1-d2-prerequisites-goals
+.. _s1-d2-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d2-prerequisites
+.. _s1-d2-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d2-theoretical-prerequisites
+.. _s1-d2-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,7 +54,7 @@ This day assumes that you already know the following:
 * Basic understanding of the Bootstrap framework
 
 
-.. _s1-d2-practical-prerequisites
+.. _s1-d2-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -66,12 +66,12 @@ Before you start this day, please have the following things ready:
 * You have shown that you understand the basic concepts behind TYPO3
 * You have been introduced to the different documentation sources
 
-.. _s1-d2-goals
+.. _s1-d2-goals:
 
 Goals
 -----
 
-.. _s1-d2-theoretical-goals
+.. _s1-d2-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -83,7 +83,7 @@ By the end of this day, you should know the following:
 * How to setup a new TYPO3 project in DDEV
 
 
-.. _s1-d2-practical-goals
+.. _s1-d2-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

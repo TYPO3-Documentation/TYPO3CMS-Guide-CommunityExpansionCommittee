@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s3-d1
+.. _s3-d1:
 
 ===========================================================
 Day 3 — Advanced CI/CD Implementation and Quality Assurance
 ===========================================================
 
-.. _s3-d1-lessons
+.. _s3-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today advances CI/CD practices with a focus on deployment optimization and quali
     Lesson-7
 
 
-.. _s3-d3-prerequisites-goals
+.. _s3-d3-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s3-d3-prerequisites
+.. _s3-d3-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s3-d3-theoretical-prerequisites
+.. _s3-d3-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -51,7 +51,7 @@ This day assumes that you already know the following:
 * Know the theoretical best practices for handling these changes seamlessly
 
 
-.. _s3-d3-practical-prerequisites
+.. _s3-d3-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,12 +64,12 @@ Before you start this day, please have the following things ready:
 * Demonstrated the setup of each environment and validated that each configuration and migration strategy works as expected
 
 
-.. _s3-d3-goals
+.. _s3-d3-goals:
 
 Goals
 -----
 
-.. _s3-d3-theoretical-goals
+.. _s3-d3-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -82,7 +82,7 @@ By the end of this day, you should know the following:
 * Understand how to effectively plan and execute backups in continuous deployment environments
 
 
-.. _s3-d3-practical-goals
+.. _s3-d3-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

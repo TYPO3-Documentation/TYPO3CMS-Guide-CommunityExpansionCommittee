@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d5-l6
+.. _s1-d5-l6:
 
 ====================================================================================
 Lesson 6 — Hands-on workshop: Integrating all concepts into a complete TYPO3 project
 ====================================================================================
 
 
-.. _s1-d5-l6-prerequisites-goals
+.. _s1-d5-l6-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d5-l6-prerequisites
+.. _s1-d5-l6-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d5-l6-theoretical-prerequisites
+.. _s1-d5-l6-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Study template customization approaches
 
 
-.. _s1-d5-l6-practical-prerequisites
+.. _s1-d5-l6-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Test extension functionality thoroughly
 
 
-.. _s1-d5-l6-goals
+.. _s1-d5-l6-goals:
 
 Goals
 -----
 
-.. _s1-d5-l6-theoretical-goals
+.. _s1-d5-l6-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Study end-to-end project implementation strategies
 
 
-.. _s1-d5-l6-practical-goals
+.. _s1-d5-l6-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Test entire project functionality thoroughly
 
 
-.. _s1-d5-l6-resources
+.. _s1-d5-l6-resources:
 
 Learning resources
 ==================
@@ -85,13 +85,13 @@ Learning resources
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s1-d5-l6-teacher
+.. _s1-d5-l6-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s1-d5-l6-student
+.. _s1-d5-l6-student:
 
 Student's instructions
 ======================

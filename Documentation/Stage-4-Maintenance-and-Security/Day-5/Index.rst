@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s4-d1
+.. _s4-d1:
 
 ======================================
 Day 5 — Crisis management and recovery
 ======================================
 
-.. _s4-d1-lessons
+.. _s4-d1-lessons:
 
 Today's lessons
 ===============
@@ -25,19 +25,19 @@ Today covers crisis management and recovery procedures for TYPO3 environments. S
     Lesson-7
 
 
-.. _s4-d5-prerequisites-goals
+.. _s4-d5-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s4-d5-prerequisites
+.. _s4-d5-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s4-d5-theoretical-prerequisites
+.. _s4-d5-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -53,7 +53,7 @@ This day assumes that you already know the following:
 * Theorize handling of hypothetical security breaches through role-play scenarios
 
 
-.. _s4-d5-practical-prerequisites
+.. _s4-d5-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -69,12 +69,12 @@ Before you start this day, please have the following things ready:
 * Practiced handling security breaches with role-play scenarios
 
 
-.. _s4-d5-goals
+.. _s4-d5-goals:
 
 Goals
 -----
 
-.. _s4-d5-theoretical-goals
+.. _s4-d5-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -88,7 +88,7 @@ By the end of this day, you should know the following:
 * Review and consolidate key concepts learned throughout the week
 * Understand the importance of feedback and continuous improvement
 
-.. _s4-d5-practical-goals
+.. _s4-d5-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~

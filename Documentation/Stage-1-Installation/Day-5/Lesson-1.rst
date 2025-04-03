@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d5-l1
+.. _s1-d5-l1:
 
 ==============================================================================
 Lesson 1 — Reviewing DDEV installation and configuration for local development
 ==============================================================================
 
 
-.. _s1-d5-l1-prerequisites-goals
+.. _s1-d5-l1-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d5-l1-prerequisites
+.. _s1-d5-l1-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d5-l1-theoretical-prerequisites
+.. _s1-d5-l1-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * How tu use advanced Bootstrap features
 
 
-.. _s1-d5-l1-practical-prerequisites
+.. _s1-d5-l1-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,12 +44,12 @@ Before you start this lesson, please have the following things ready:
 * Customized the layout of your TYPO3 project
 
 
-.. _s1-d5-l1-goals
+.. _s1-d5-l1-goals:
 
 Goals
 -----
 
-.. _s1-d5-l1-theoretical-goals
+.. _s1-d5-l1-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -62,7 +62,7 @@ By the end of this lesson, you should know the following:
 * Review DDEV best practices and common pitfalls
 
 
-.. _s1-d5-l1-practical-goals
+.. _s1-d5-l1-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -75,7 +75,7 @@ By the end of this lesson, you should have completed the following:
 * Test DDEV environment functionality
 
 
-.. _s1-d5-l1-resources
+.. _s1-d5-l1-resources:
 
 Learning resources
 ==================
@@ -96,13 +96,13 @@ Learning resources
 * `DDEV Trusted HTTPS Certificates <https://ddev.com/blog/ddev-local-trusted-https-certificates/>`__
 
 
-.. _s1-d5-l1-teacher
+.. _s1-d5-l1-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s1-d5-l1-student
+.. _s1-d5-l1-student:
 
 Student's instructions
 ======================

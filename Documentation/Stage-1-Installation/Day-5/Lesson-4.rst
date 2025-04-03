@@ -1,25 +1,25 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d5-l4
+.. _s1-d5-l4:
 
 ============================================================================
 Lesson 4 — Configuring and customizing TYPO3 projects in a local environment
 ============================================================================
 
 
-.. _s1-d5-l4-prerequisites-goals
+.. _s1-d5-l4-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s1-d5-l4-prerequisites
+.. _s1-d5-l4-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s1-d5-l4-theoretical-prerequisites
+.. _s1-d5-l4-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ This lesson assumes that you already know the following:
 * Study integration between Composer and DDEV
 
 
-.. _s1-d5-l4-practical-prerequisites
+.. _s1-d5-l4-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ Before you start this lesson, please have the following things ready:
 * Verify installation and configuration success
 
 
-.. _s1-d5-l4-goals
+.. _s1-d5-l4-goals:
 
 Goals
 -----
 
-.. _s1-d5-l4-theoretical-goals
+.. _s1-d5-l4-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ By the end of this lesson, you should know the following:
 * Study local development best practices
 
 
-.. _s1-d5-l4-practical-goals
+.. _s1-d5-l4-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ By the end of this lesson, you should have completed the following:
 * Test configuration changes thoroughly
 
 
-.. _s1-d5-l4-resources
+.. _s1-d5-l4-resources:
 
 Learning resources
 ==================
@@ -85,13 +85,13 @@ Learning resources
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s1-d5-l4-teacher
+.. _s1-d5-l4-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s1-d5-l4-student
+.. _s1-d5-l4-student:
 
 Student's instructions
 ======================
