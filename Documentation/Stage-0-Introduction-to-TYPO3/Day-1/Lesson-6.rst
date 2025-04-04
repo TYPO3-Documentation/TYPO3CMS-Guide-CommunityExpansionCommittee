@@ -49,7 +49,7 @@ Before you start this lesson, please have the following things ready:
 Goals
 -----
 
-.. _s5-d1-l6-theoretical-goals:
+.. _s0-d1-l6-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -61,7 +61,7 @@ By the end of this lesson, you should know the following:
 * Item 3
 
 
-.. _s5-d1-l6-practical-goals:
+.. _s0-d1-l6-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -73,7 +73,7 @@ By the end of this lesson, you should have completed the following:
 * Item 3
 
 
-.. _s5-d1-l6-resources:
+.. _s0-d1-l6-resources:
 
 Learning resources
 ==================
@@ -82,13 +82,13 @@ Learning resources
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s5-d1-l6-teacher:
+.. _s0-d1-l6-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s5-d1-l6-student:
+.. _s0-d1-l6-student:
 
 Student's instructions
 ======================

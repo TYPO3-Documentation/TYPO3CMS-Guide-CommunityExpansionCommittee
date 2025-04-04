@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s5-d1:
+.. _s5-d2:
 
 ===================================================
 Day 2 — Backend configuration and content structure
 ===================================================
 
-.. _s5-d1-lessons:
+.. _s5-d2-lessons:
 
 Today's lessons
 ===============

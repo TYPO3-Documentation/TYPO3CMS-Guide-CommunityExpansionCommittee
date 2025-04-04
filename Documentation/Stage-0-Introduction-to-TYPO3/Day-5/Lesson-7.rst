@@ -1,6 +1,6 @@
 .. include:: /Includes.rst.txt
 
-.. _s5-d5-l7:
+.. _s0-d5-l7:
 
 =============================
 Lesson 7 — Recap and Catch-Up
@@ -8,19 +8,19 @@ Lesson 7 — Recap and Catch-Up
 
 A thorough recap of the entire introductory stage, reinforcing key concepts from all five days. This lesson will consolidate learning, address remaining questions, and prepare students for the hands-on implementation work that begins in Stage 1.
 
-.. _s5-d5-l7-prerequisites-goals:
+.. _s0-d5-l7-prerequisites-goals:
 
 Prerequisites and goals
 =======================
 
 
-.. _s5-d5-l7-prerequisites:
+.. _s0-d5-l7-prerequisites:
 
 Prerequisites
 -------------
 
 
-.. _s5-d5-l7-theoretical-prerequisites:
+.. _s0-d5-l7-theoretical-prerequisites:
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -30,7 +30,7 @@ This lesson assumes that you already know the following:
 * The content of today's previous lessons.
 
 
-.. _s5-d5-l7-l7-practical-prerequisites:
+.. _s0-d5-l7-l7-practical-prerequisites:
 
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -41,12 +41,12 @@ Before you start this lesson, please have the following things ready:
 * A list of any uncompleted tasks from previous lessons (if any) and what you need from the teacher to complete them.
 
 
-.. _s5-d5-l7-goals:
+.. _s0-d5-l7-goals:
 
 Goals
 -----
 
-.. _s5-d5-l7-theoretical-goals:
+.. _s0-d5-l7-theoretical-goals:
 
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
@@ -58,7 +58,7 @@ By the end of this lesson, you should know the following:
 * What to expect for tomorrow.
 
 
-.. _s5-d5-l7-practical-goals:
+.. _s0-d5-l7-practical-goals:
 
 Practical goals
 ~~~~~~~~~~~~~~~
@@ -68,7 +68,7 @@ By the end of this lesson, you should have completed the following:
 * You should have completed any outstanding tasks or know what to do in order to complete them.
 
 
-.. _s5-d5-l7-resources:
+.. _s0-d5-l7-resources:
 
 Learning resources
 ==================
@@ -77,13 +77,13 @@ Learning resources
 * :ref:`Users and groups <t3coreapi:access-users-groups>`
 
 
-.. _s5-d5-l7-teacher:
+.. _s0-d5-l7-teacher:
 
 Teacher's instructions
 ======================
 
 
-.. _s5-d5-l7-student:
+.. _s0-d5-l7-student:
 
 Student's instructions
 ======================

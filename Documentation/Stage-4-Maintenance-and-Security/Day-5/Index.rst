@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s4-d1:
+.. _s4-d5:
 
 ======================================
 Day 5 — Crisis management and recovery
 ======================================
 
-.. _s4-d1-lessons:
+.. _s4-d5-lessons:
 
 Today's lessons
 ===============

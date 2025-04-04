@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s5-d1:
+.. _s5-d4:
 
 =====================================
 Day 4 — Quality assurance and testing
 =====================================
 
-.. _s5-d1-lessons:
+.. _s5-d4-lessons:
 
 Today's lessons
 ===============

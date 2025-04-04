@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d1:
+.. _s1-d2:
 
 ======================
 Day 2 — DDEV and TYPO3
 ======================
 
-.. _s1-d1-lessons:
+.. _s1-d2-lessons:
 
 Today's lessons
 ===============

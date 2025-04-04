@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s2-d1:
+.. _s2-d4:
 
 =============================================================
 Day 4 — Working with Fluid templates and the Rich Text Editor
 =============================================================
 
-.. _s2-d1-lessons:
+.. _s2-d4-lessons:
 
 Today's lessons
 ===============

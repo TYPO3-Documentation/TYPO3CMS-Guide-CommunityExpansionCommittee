@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s5-d1:
+.. _s5-d3:
 
 ========================================
 Day 3 — Frontend development and theming
 ========================================
 
-.. _s5-d1-lessons:
+.. _s5-d3-lessons:
 
 Today's lessons
 ===============

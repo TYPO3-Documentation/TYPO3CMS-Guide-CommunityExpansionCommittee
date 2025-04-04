@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s5-d1:
+.. _s5-d5:
 
 =====================================
 Day 5 — Deployment and project review
 =====================================
 
-.. _s5-d1-lessons:
+.. _s5-d5-lessons:
 
 Today's lessons
 ===============

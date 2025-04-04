@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d1:
+.. _s1-d5:
 
 ============================
 Day 5 — Recap and assessment
 ============================
 
-.. _s1-d1-lessons:
+.. _s1-d5-lessons:
 
 Today's lessons
 ===============

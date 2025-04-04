@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d1:
+.. _s1-d4:
 
 ===========================
 Day 4 — Bootstrap and TYPO3
 ===========================
 
-.. _s1-d1-lessons:
+.. _s1-d4-lessons:
 
 Today's lessons
 ===============

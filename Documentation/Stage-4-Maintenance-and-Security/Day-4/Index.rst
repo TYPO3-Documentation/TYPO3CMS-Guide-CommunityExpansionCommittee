@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s4-d1:
+.. _s4-d4:
 
 ==================================================
 Day 4 — Managing Security in TYPO3 and Custom Code
 ==================================================
 
-.. _s4-d1-lessons:
+.. _s4-d4-lessons:
 
 Today's lessons
 ===============

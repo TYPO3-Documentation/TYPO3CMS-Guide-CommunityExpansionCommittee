@@ -1,12 +1,12 @@
 .. include:: /Includes.rst.txt
 
-.. _s1-d1:
+.. _s1-d3:
 
 ========================
 Day 3 — Composer and Git
 ========================
 
-.. _s1-d1-lessons:
+.. _s1-d3-lessons:
 
 Today's lessons
 ===============
