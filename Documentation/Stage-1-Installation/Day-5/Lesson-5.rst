@@ -81,9 +81,22 @@ By the end of this lesson, you should have completed the following:
 Learning resources
 ==================
 
-* `TYPO3 Documentation <https://docs.typo3.org>`__
-* :ref:`Users and groups <t3coreapi:access-users-groups>`
-
+* `TYPO3 Bootstrap Package <https://www.bootstrap-package.com/>`__
+* `TYPO3 Bootstrap Package Documentation <https://docs.typo3.org/p/bk2k/bootstrap-package/main/en-us/>`__
+* `How to Install the Bootstrap Package via Composer <https://docs.typo3.org/p/bk2k/bootstrap-package/main/en-us/Installation/Index.html>`__
+* `TYPO3 Extension Repository — Bootstrap Package <https://extensions.typo3.org/extension/bootstrap_package/>`__
+* `Get started with Bootstrap <https://getbootstrap.com/docs/5.3/getting-started/introduction/>`__
+* `Quick Start — Bootstrap Package main documentation <https://docs.typo3.org/p/bk2k/bootstrap-package/main/en-us/QuickStart/Index.html>`__
+* `Bootstrap Grid system <https://getbootstrap.com/docs/5.3/layout/grid/>`__
+* `Fluid Templates <https://docs.typo3.org/permalink/t3sitepackage:fluid-templates>`__
+* `Create a custom content element type <https://docs.typo3.org/permalink/t3coreapi:adding-your-own-content-elements>`__
+* `Bootstrap Utility API <https://getbootstrap.com/docs/5.3/utilities/api/>`__
+* `Advanced Bootstrap JavaScript Components for TYPO3 <https://getbootstrap.com/docs/5.3/components/>`__
+* `Bootsrap Sass advantages <https://getbootstrap.com/docs/5.3/customize/sass/>`__
+* `Bootstrap Icons <https://icons.getbootstrap.com/>`__
+* `Bootstrap Navbar <https://getbootstrap.com/docs/5.3/components/navbar/>`__
+* `Bootstrap Breakpoints <https://getbootstrap.com/docs/5.3/layout/breakpoints/>`__
+* `Testing Your TYPO3 Bootstrap Site for Mobile Compatibility <https://pagespeed.web.dev/>`__
 
 .. _s1-d5-l5-teacher:
 
