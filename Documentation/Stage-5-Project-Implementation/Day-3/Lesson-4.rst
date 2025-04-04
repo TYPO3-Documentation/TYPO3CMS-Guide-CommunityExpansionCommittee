@@ -2,9 +2,9 @@
 
 .. _s5-d3-l4:
 
-====================
-Lesson 4 — ADD TITLE
-====================
+==================================================
+Lesson 4 — Enhancing interactivity with JavaScript
+==================================================
 
 
 .. _s5-d3-l4-prerequisites-goals:

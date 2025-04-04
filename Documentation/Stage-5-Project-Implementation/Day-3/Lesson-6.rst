@@ -2,9 +2,9 @@
 
 .. _s5-d3-l6:
 
-====================
-Lesson 6 — ADD TITLE
-====================
+======================================================
+Lesson 6 — Automating theming workflows for efficiency
+======================================================
 
 
 .. _s5-d3-l6-prerequisites-goals:
