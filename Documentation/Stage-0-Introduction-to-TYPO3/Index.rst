@@ -11,7 +11,13 @@ Stage 0 — Introduction
 About this stage
 ================
 
-SHORT INTRODUCTORY TEXT
+This stage introduces TYPO3 and sets the foundation for your onboarding journey.
+Day 1 explores the concept of content management systems, TYPO3’s history, and its key features through demos and real-world examples.
+Day 2 provides a preview of the TYPO3 technology stack, including development tools like Docker, Composer, and Git.
+Day 3 gives an early look at the TYPO3 backend, page structure, and content elements.
+Day 4 presents the TYPO3 project lifecycle—from development to deployment—and introduces modern web development workflows.
+Day 5 focuses on TYPO3’s long-term use, including updates, security, and community involvement.
+By the end of this stage, you’ll have a clear understanding of what TYPO3 can do, how it fits into real projects, and what you’ll learn in the stages ahead.
 
 .. toctree::
     :titlesonly:
