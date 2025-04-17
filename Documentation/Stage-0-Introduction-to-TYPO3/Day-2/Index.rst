@@ -44,9 +44,10 @@ Theoretical prerequisites
 
 This day assumes that you already know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* What TYPO3 is and how it fits into the broader CMS landscape
+* That modern websites are often built and maintained using various development tools and workflows
+
+
 
 
 .. _s0-d2-practical-prerequisites:
@@ -56,9 +57,9 @@ Practical prerequisites
 
 Before you start this day, please have the following things ready:
 
-* Item 1
-* Item 2
-* Item 3
+* :ref:`The General Practical Prerequisites for Stage 0 <s0-practical-prerequisites>`
+* Completed Stage 0 Day 1
+
 
 
 .. _s0-d2-goals:
@@ -73,9 +74,9 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* Item 1
-* Item 2
-* Item 3
+* What a local development environment is and why it’s important
+* How tools like Docker, DDEV, Composer, and Git support TYPO3 development
+* How TYPO3 developers manage code, dependencies, and project configurations using these tools
 
 
 .. _s0-d2-practical-goals:
@@ -85,6 +86,7 @@ Practical goals
 
 By the end of this day, you should have completed the following:
 
-* Item 1
-* Item 2
-* Item 3
+* Watched a live demonstration of launching TYPO3 using Docker and DDEV
+* Observed how Composer installs TYPO3 and manages extensions and dependencies
+* Seen how Git is used for version control and collaboration in TYPO3 projects
+
