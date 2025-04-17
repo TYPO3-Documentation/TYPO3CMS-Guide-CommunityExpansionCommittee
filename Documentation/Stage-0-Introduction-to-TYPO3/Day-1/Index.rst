@@ -41,11 +41,13 @@ Prerequisites
 
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+This day is designed for absolute beginners. No prior knowledge of TYPO3 or content management systems is required. However, participants should:
 
-This day assumes that you already know the following:
+* Understand basic concepts of how websites are used and what they are for
+* Be familiar with simple digital tasks, such as reading articles online or filling out web forms
+* Have a general interest in websites, communication, or technology
 
-* The knowledge required by the theoretical prerequisites of previous curriculum stages
-* The theoretical knowledge goals of the previous curriculum stages
+
 
 
 .. _s0-d1-practical-prerequisites:
@@ -53,10 +55,15 @@ This day assumes that you already know the following:
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Before you start this day, please have the following things ready:
+Before starting this day, participants should have:
 
-* The knowledge required by the practical prerequisites of previous curriculum stages
-* The practical knowledge goals of the previous curriculum stage
+* Access to a working computer or laptop
+* A stable internet connection
+* A modern web browser installed (e.g., Chrome, Firefox)
+* Headphones or speakers for listening to live demos or videos
+
+
+
 
 
 .. _s0-d1-goals:
@@ -71,8 +78,11 @@ Theoretical goals
 
 By the end of this day, you should know the following:
 
-* The remaining steps necessary to complete your TYPO3 project.
-* What your learning needs are in order to implement your TYPO3-based website project.
+* What a content management system (CMS) is and why it’s useful
+* What TYPO3 is and it's role in the CMS landscape
+* Understand the basic architecture and core components of TYPO3
+* How TYPO3 is used in real-world projects
+
 
 
 .. _s0-d1-practical-goals:
@@ -80,8 +90,13 @@ By the end of this day, you should know the following:
 Practical goals
 ~~~~~~~~~~~~~~~
 
-By the end of this day, you should have completed the following:
+By the end of this day, you should have:
 
-* A run-through of the status of your current TYPO3-based project.
-* A list of knowledge you need to acquire.
-* An overview of goals for the next four days.
+* Watched a live demonstration of the TYPO3 backend and seen how content is structured and managed
+* Viewed case studies showing TYPO3 in action across different sectors
+* Been introduced to the TYPO3 community and where to find support and resources
+
+
+
+
+
