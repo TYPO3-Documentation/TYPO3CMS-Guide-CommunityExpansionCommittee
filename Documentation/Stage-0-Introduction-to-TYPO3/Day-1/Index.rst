@@ -42,6 +42,7 @@ Prerequisites
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 This day is designed for absolute beginners. No prior knowledge of TYPO3 or content management systems is required. However, participants should:
+
 * Understand basic concepts of how websites are used and what they are for
 * Be familiar with simple digital tasks, such as reading articles online or filling out web forms
 * Have a general interest in websites, communication, or technology
@@ -55,6 +56,7 @@ Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Before starting this day, participants should have:
+
 * Access to a working computer or laptop
 * A stable internet connection
 * A modern web browser installed (e.g., Chrome, Firefox)
@@ -93,6 +95,7 @@ By the end of this day, you should have:
 * Watched a live demonstration of the TYPO3 backend and seen how content is structured and managed
 * Viewed case studies showing TYPO3 in action across different sectors
 * Been introduced to the TYPO3 community and where to find support and resources
+
 
 
 
