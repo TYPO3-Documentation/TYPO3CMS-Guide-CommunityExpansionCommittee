@@ -45,11 +45,12 @@ Prerequisites
 Theoretical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This stage assumes that you already know the following:
+This stage is designed for newcomers with little to no experience in TYPO3 or web development. To participate, you should:
 
-* How to use TYPO3 and securely extend the functionality of the CMS using third-party and your own code.
-* How to deploy TYPO3-based websites and upgrades to these using using continuous integration and continuous deployment pipelines.
-* How to implement security and collaboration practices for quality assurance in development and emergency handling in production.
+* Have basic digital literacy (e.g., using a browser, typing, navigating websites)
+* Be familiar with general internet use and what websites are for
+* Be curious and open to learning new digital tools
+* Have an interest in content creation, digital communication, or technology
 
 
 .. _s0-practical-prerequisites:
@@ -57,9 +58,13 @@ This stage assumes that you already know the following:
 Practical prerequisites
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Before you start this stage, please have the following things ready:
+Before starting this stage, please ensure the following:
 
-* Local development environment with a local version of a live TYPO3 installation, connected through a continuous integration and continuous deployment pipeline.
+* You have access to a laptop or desktop computer
+* You are connected to the internet
+* You have a modern web browser installed (e.g., Chrome, Firefox)
+* You are ready to watch videos, view live demonstrations, and take notes
+
 
 
 .. _s0-goals:
@@ -72,17 +77,14 @@ Goals
 Theoretical goals
 ~~~~~~~~~~~~~~~~~
 
-By the end of this stage, you should know the following:
+By the end of this stage, you should be able to:
 
-* How to complete common editor and administrator tasks within the TYPO3 backend
-* Install and configure a TYPO3 website from scratch and modify it
-* Implementing a custom design and custom functionality within TYPO3 while applying state-of-the art security and coding standards
-* Work collaboratively with a team of developers, contributing and reviewing code together
-* How to debug issues within TYPO3 and related technologies, including finding and asking for help in the correct public fora
-* Performing major and minor upgrades to TYPO3 and making custom code compatible with new versions
-* Deploying the changes to a live server using Git and modern deployment tools
-* Maintaining a live website and pushing and testing updated code with minimal effect on the live system
-* How to report bugs in the TYPO3 core, including how to safely deal with security-related issues
+* Understand what a Content Management System (CMS) is and what problems it solves
+* Describe what TYPO3 is
+* Recognize TYPO3’s core strengths
+* Identify the tools and technologies commonly used with TYPO3 (e.g., Docker, Git, Composer)
+* Understand how TYPO3 projects are built—from content creation to deployment and maintenance
+* Know what to expect from the full TYPO3 onboarding curriculum and where your journey is headed
 
 
 .. _s0-practical-goals:
@@ -90,10 +92,9 @@ By the end of this stage, you should know the following:
 Practical goals
 ~~~~~~~~~~~~~~~
 
-By the end of this stage, you should have completed the following:
+By the end of this stage, you should have:
 
-* Published TYPO3 website with a deployment pipeline utilizing continuous deployment and continuous integration concepts in multiple stages.
-* Configured your computer to maintain and develop multiple TYPO3-based projects simultaneously
-* Established a clear procedure for major and minor upgrades to TYPO3
-* Established a clear procedure for implementing breaking changes in an existing TYPO3-based website environment
-* Created a my.typo3.org user and been in contact with the TYPO3 community through one or more available platforms
+* Watched real-world TYPO3 demonstrations and explored example websites
+* Seen the TYPO3 backend in action and observed how content is structured and managed
+* Reflected on potential use cases for TYPO3 in your own context or community
+
